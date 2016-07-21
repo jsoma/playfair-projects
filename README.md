@@ -4,7 +4,7 @@ This is where we'll be organizing our pitching/writing/etc process for all of th
 
 ## Introduction
 
-We found it was difficult for Lede students to hop out into the world and use all of their skills immediately, so Playfair is a way for both current and previous students to stay on top of things. Our goals are:
+Playfair is a way for both current and previous students to stay on top of analysis, visualization, and all the arcane corners of data. Our goals are:
 
 * **Create quality portfolio pieces** through a process that involves feedback and editorial oversight.
 * **Give and receive feedback** to make our projects collectively better, along with making sure we're functional members of society.
