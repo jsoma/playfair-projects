@@ -21,13 +21,13 @@ For `STORY.md` we're going to be using the [standard Markdown format](https://gi
 
 For example, let's say I wrote a story about basketball that includes two images.
 
-    ----
+    ---
       title: How Stephen Curry is Scamming the NBA
       summary: We looked at numbers involving Stephen Curry and you won't believe what we found. We won't believe it either, though, so we're all at a loss.
       authors:
         - Jonathan Soma
         - Jane Doe
-    ----
+    ---
 
     Stephen Curry shoots a lot of threes. Is it too many threes? This chart thinks... possibly.
     
