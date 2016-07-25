@@ -7,8 +7,6 @@ This is where we'll be organizing our pitching/writing/etc process for all of th
 * [The Pitching/Submitting Process](#the-pitchingsubmission-process)
 * [Story submission format](#story-submission-format)
 * [Markdown](#markdown)
-  * [Format](#format)
-  * [Editors](#editors)
   
 ## Introduction
 
@@ -56,15 +54,11 @@ You can read detailed instructions in [SUBMISSION.md](SUBMISSION.md). After you 
 * `DIARY.md`, a disorganized mess keeping track of your process
 * any images or code you used in the process of writing your story/building your visual
 
-## Using Markdown
+## Markdown
 
-Markdown is just a way of writing text that doesn't rely on Word or Google Docs or whatever. It's exceptionally easy for computers to read.
+Markdown is just a way of writing text that doesn't rely on Word or Google Docs or whatever. It's exceptionally easy for computers to read. You can find detailed guides to Markdown *everywhere* on the ol' internet, such as [this one here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-### Format
-
-You can find detailed guides to Markdown *everywhere* on the ol' internet, such as [this one here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-### Editors
+A few markdown editors are below.
 
 * [Dillinger.io](http://dillinger.io/) is great, but doesn't do images since it's on the web.
 * [Mou](http://25.io/mou/) for OS X if you need automatic preview, [Atom](http://atom.io) if you don't
