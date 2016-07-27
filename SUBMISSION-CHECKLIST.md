@@ -25,7 +25,7 @@ This is a checklist-style version of [SUBMISSION.md](https://github.com/jsoma/pl
 ## STORY.md
 
 - [ ] I have included a `STORY.md`
-- [ ] I have included a [front matter section](https://github.com/jsoma/playfair-projects/blob/master/SUBMISSION.md#storymd-format) with the a title and summary
+- [ ] I have included a front matter section with the a title and summary
 - [ ] I have properly linked my image, with a format like `![](image.png)`
 - [ ] If necessary, I have written text and such
 
@@ -40,4 +40,3 @@ This is a checklist-style version of [SUBMISSION.md](https://github.com/jsoma/pl
 ## Pull request
 
 - [ ] My pull request links to my story issue
-- [ ] 
