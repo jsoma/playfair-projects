@@ -47,7 +47,7 @@ You can read detailed instructions in [PITCHING.md](PITCHING.md), but a summary 
 
 ## Story submission format
 
-You can read detailed instructions in [SUBMISSION.md](SUBMISSION.md). After you fork the repository, create your directories and complete your story, be sure to include the following in your pull request.
+You can read detailed instructions in [SUBMISSION.md](SUBMISSION.md) or [SUBMISSION-CHECKLIST.md](SUBMISSION-CHECKLIST.md). After you fork the repository, create your directories and complete your story, be sure to include the following in your pull request.
 
 * a [correctly-formatted](SUBMISSION.md#storymd-format) `STORY.md` file
 * `README.md`, summary of how you did your project

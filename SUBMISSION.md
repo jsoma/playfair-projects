@@ -1,5 +1,7 @@
 # Story submission format
 
+> View the checklist at [SUBMISSION-CHECKLIST.md](SUBMISSION-CHECKLIST.md)
+
 You'll be doing all of your edits in a fork of this repository.
 
 Before you make your first project, you will need to create a folder inside of `projects` that is your name, for example I could create `projects/jonathan-soma`. Put dashes in the folder name instead of spaces, and please no non-alphanumeric characters.
