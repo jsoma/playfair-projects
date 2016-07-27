@@ -1,6 +1,7 @@
 # The Pitching/Submitting Process
 
-> There are checklists available at [PITCHING-CHECKLIST.md](PITCHING-CHECKLIST.md) and [SUBMISSION-CHECKLIST.md](SUBMISSION-CHECKLIST.md).
+> Every pitch issue needs a checklist as the first comment. The checklist is available at [checklist-pitch.md](checklist-pitch.md).
+> Every story issue needs a checklist as the first comment. The checklist is available at [checklist-story.md](checklist-story.md).
 
 The projects pitching+story creation process involves several steps, with lots of feedback! They mostly take place on the [Issues section](https://github.com/jsoma/playfair-projects/issues) of the repository. They're called issues but we're using them to track pitches, feedback, and story progress.
 
