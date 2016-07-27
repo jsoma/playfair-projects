@@ -20,6 +20,8 @@ Sounds good?
 
 ## Contributing to Playfair
 
+> **NOTE:** Before being accepted, all pull requests must include [PR-CHECKLIST.md](PR-CHECKLIST.md) as the first comment, and have each box checked.
+
 To contribute to Playfair, we use a combination of GitHub issues plus `git`'s forking ability. The steps are:
 
 1. Create an issue for your pitch
@@ -47,7 +49,7 @@ You can read detailed instructions in [PITCHING.md](PITCHING.md), but a summary 
 
 ## Story submission format
 
-You can read detailed instructions in [SUBMISSION.md](SUBMISSION.md) or [SUBMISSION-CHECKLIST.md](SUBMISSION-CHECKLIST.md). After you fork the repository, create your directories and complete your story, be sure to include the following in your pull request.
+You can read detailed instructions in [SUBMISSION.md](SUBMISSION.md). After you fork the repository, create your directories and complete your story, be sure to include the following in your pull request.
 
 * a [correctly-formatted](SUBMISSION.md#storymd-format) `STORY.md` file
 * `README.md`, summary of how you did your project

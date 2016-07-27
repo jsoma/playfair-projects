@@ -1,10 +1,12 @@
-# Story submission checklist
+# Story submission/pull request checklist
 
-This is a checklist-style version of [SUBMISSION.md](https://github.com/jsoma/playfair-projects/blob/master/SUBMISSION.md), and lists all of the requirements for submitting your issue.
+This is a checklist-style version of [SUBMISSION.md](https://github.com/jsoma/playfair-projects/blob/master/SUBMISSION.md), and lists all of the requirements for submitting your pull request.
 
-## Story Issue
+When submitting the actual pull request, cut and paste [PR-CHECKLIST.md](PR-CHECKLIST.md) as the first comment to your pull request.
 
-- [ ] My pitch has been approved
+## Pitch/Story Issues
+
+- [ ] My pitch has been approved (see `PITCHING.md`)
 - [ ] I have created a story issue
 - [ ] My story issue links to my pitch issue
 - [ ] I have included an update of my visualization/story in a comment
@@ -17,7 +19,7 @@ This is a checklist-style version of [SUBMISSION.md](https://github.com/jsoma/pl
 
 ## Visualization
 
-- [ ] My visualization has a title
+- [ ] My visualization has a title on it
 - [ ] I have cited by data source on the visualization
 - [ ] My visualization has my name/web site/twitter handle on it (only needs **one**)
 - [ ] I have exported my visualization as a `png` file
