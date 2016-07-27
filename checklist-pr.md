@@ -6,11 +6,11 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
 
     ## Pull Request Checklist
     
-    Story title:
+    Story title: _
 
-    My pitch issue is (use the number):
+    My pitch issue is (use the number): _
 
-    My story issue is (use the number):
+    My story issue is (use the number): _
     
     ### Story Issues
 

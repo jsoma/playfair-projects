@@ -6,7 +6,7 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
 
     ## Story issue checklist
     
-    My pitch was (use the number):
+    My pitch was (use the number): _
     
     - [ ] My pitch has been approved (see `PITCHING.md`)
     - [ ] My story issue links to my pitch issue
