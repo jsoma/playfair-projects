@@ -6,7 +6,7 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
 
 Find more details on [PITCHING.md](PITCHING.md).
 
-    ## Pitch issue checklist
+    # Pitch issue checklist
     
     Paste this into the body of your pitch issue, NOT as the first comment! You can delete this line after you paste it.
     

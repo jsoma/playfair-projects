@@ -4,7 +4,7 @@ After you submit a pull request, **cut and paste the following into your pull re
 
 After the comment has been submitted, you'll be able to use the checkboxes interactively. When all the boxes are checked, we'll be able to accept your pull request.
 
-    ## Pull Request Checklist
+    # Pull Request Checklist
     
     Story title: _
 
