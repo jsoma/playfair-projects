@@ -1,6 +1,6 @@
 # Pull request checklist
 
-After you submit a pull request, **cut and paste the following as the first comment** (but be sure to fill in the story title, pitch issue and story issue links before you add the comment).
+After you submit a pull request, **cut and paste the following into your pull request** (but be sure to fill in the story title, pitch issue and story issue links before you save). **NOTE:** Add this to the actual pull request, **NOT THE FIRST COMMENT!**
 
 After the comment has been submitted, you'll be able to use the checkboxes interactively. When all the boxes are checked, we'll be able to accept your pull request.
 
