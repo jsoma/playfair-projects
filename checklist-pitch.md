@@ -8,6 +8,8 @@ Find more details on [PITCHING.md](PITCHING.md).
 
     ## Pitch issue checklist
     
+    Paste this into the body of your pitch issue, NOT as the first comment! You can delete this line after you paste it.
+    
     - [ ] My pitch issue has `[Pitch]` in the title
     - [ ] My pitch issue has `[Data request]` in the title if I need additional data
     - [ ] My pitch issue links to my data set
