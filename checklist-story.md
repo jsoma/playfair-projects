@@ -14,6 +14,7 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
     - [ ] I've included a brief summary of my story
     - [ ] I've included some possible headlines or findings
     - [ ] I've included some links or images as inspiration (if you have any)
-    - [ ] I've included an update of my visualization/story in a comment
     - [ ] I have received two comments of peer feedback
+    - [ ] I've included an update of my visualization/story in a comment
+    - [ ] I have received two comments of peer feedback after posting an update
     - [ ] I have received editorial feedback
