@@ -11,7 +11,7 @@ After [heavy criticism](http://www.nyclu.org/issues/racial-justice/stop-and-fris
 
 However, the racial bias - one of the critics' main argument - remains unchanged: Still black and hispanic people are stopped disproportionally more often than white people.
 
-![data_vis_stacked_100_bar](NYPD_racial_breakdown_96-_webex_FINAL.png)
+![data_vis_stacked_100_bar](NYPD_racial_breakdown_960_webex_FINAL.png)
 
 On top of that, after being stopped, black and hispanic people are also frisked more often than white people.
 
