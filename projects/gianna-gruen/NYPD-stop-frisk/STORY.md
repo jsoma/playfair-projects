@@ -7,15 +7,15 @@
 
 After [heavy criticism](http://www.nyclu.org/issues/racial-justice/stop-and-frisk-practices) in 2011 and a 2013 ruling [declaring NYPD's stop-and-frisk as unconstitutional](http://www.nytimes.com/2013/08/13/nyregion/stop-and-frisk-practice-violated-rights-judge-rules.html?_r=0), data proves a sharp decline of on the practice:
 
-![data_vis_timeseries](NYPD_stop_frisk_timeseries_960_webex.png)
+![data_vis_timeseries](NYPD_timeseries_960_webex_FINAL.png)
 
 However, the racial bias - one of the critics' main argument - remains unchanged: Still black and hispanic people are stopped disproportionally more often than white people.
 
-![data_vis_stacked_100_bar](NYPD_racial_bias_960_webexn.png)
+![data_vis_stacked_100_bar](NYPD_racial_breakdown_960_webex_FINAL.png)
 
 On top of that, after being stopped, black and hispanic people are also frisked more often than white people.
 
-![data_vis_pie](Frisked_three_pies.png)
+![data_vis_pie](NYPD_frisked_960_webex_FINAL.png)
 
 Each data-entry is assigned a "crime code description", suggesting what a person was stopped for. The five most frequent ones in 2015 are 'criminal possession of a weapon' (30% of stops), 'robbery' (14% of stops), 'grand larceny auto' (10% of stops), 'bulgary' (9% of stops), and 'assault' (6% of stops).
 
