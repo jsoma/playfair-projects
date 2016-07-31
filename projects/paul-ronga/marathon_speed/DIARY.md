@@ -1,3 +1,9 @@
+## July 31
+
+* Final edits
+
+* Wrote and committed STORY.md
+
 ## July 28
 
 * Created **Minimize_data_utility.ipynb**. My dataset shrank from 7 MB to 500 KB
