@@ -22,6 +22,8 @@ The median age, for elite runners, is 35 (m) and 34 (f).
 
 ## Data set
 
-Here's the raw data:
+Here's the data:
 
-[Data_selection.csv](https://github.com/palrogg/playfair-projects/blob/master/projects/paul-ronga/marathon_speed/Data_selection.csv)
+[Data_selection.csv (preview)](https://github.com/palrogg/playfair-projects/blob/master/projects/paul-ronga/marathon_speed/Data_selection.csv)
+
+[Data_selection.csv (raw)](https://github.com/palrogg/playfair-projects/raw/master/projects/paul-ronga/marathon_speed/Data_selection.csv)
