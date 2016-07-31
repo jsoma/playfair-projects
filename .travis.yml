@@ -1,4 +1,5 @@
 language: ruby
 rvm:
-  - 2.3
+  - 2.2
 script: rspec spec
+cache: bundler
