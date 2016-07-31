@@ -14,6 +14,8 @@ Sounds good?
 
 ## The Pitching/Submitting Process
 
+> See an example user directory with a project inside in the [examples folder](/jsoma/playfair-projects/tree/master/examples/)
+
 You can read detailed instructions in [PITCHING.md](PITCHING.md) and [SUBMISSION.md](SUBMISSION.md), but a summary is below.
 
 1. [Submit a pitch](https://github.com/jsoma/playfair-projects/issues/1) with [Pitch] in the issue title.

@@ -6,6 +6,8 @@ After you submit a pull request, **cut and paste the following into your pull re
 
 After the comment has been submitted, you'll be able to use the checkboxes interactively. When all the boxes are checked, we'll be able to accept your pull request.
 
+[See an example user folder + project folder + appropriate files](https://github.com/jsoma/playfair-projects/tree/master/examples)
+
 ### The Checklist
 
     # Pull Request Checklist
@@ -24,6 +26,7 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
     ### Directory Format
 
     - [ ] There is a folder in `/projects/` that is my full name
+    - [ ] I have included a BIO.yml in the folder named after me that includes name and contact information (see examples)
     - [ ] Inside of that folder I have another folder just for this project
 
     ### Visualization
