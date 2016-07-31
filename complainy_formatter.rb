@@ -28,7 +28,7 @@ class ComplainyFormatter < RSpec::Core::Formatters::BaseTextFormatter
     err_count = summary.examples.select{ |e| e.execution_result.status == :failed }.length
 
     output.puts ""
-    output.puts RSpec::Core::Formatters::ConsoleCodes.wrap("Automatic testing says: #{err_count} things to fix", :magenta)
+    output.puts RSpec::Core::Formatters::ConsoleCodes.wrap("Automatic testing says: #{err_count} things to fix", :cyan)
     output.puts ""
 
     summary.examples.each do |example|
