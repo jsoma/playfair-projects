@@ -1,6 +1,6 @@
 ---
-title: Marathon: Number one is 33 years old
-summary: Tadesse Abraham, 33, won last Marathon of Geneva. He ran more than 7 km at an average speed of 21 km/h.
+title: Number one marathoner is 33 years old
+summary: Tadesse Abraham, 33, ran more than 7 km at an average speed of 21 km/h.
 
 ---
 
