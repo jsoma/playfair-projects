@@ -12,8 +12,16 @@ Then I chose to draw two visualizations:
 
 * a small multiple containing the 8 first categories of runners.
 
+I eventually realized this second visualization doesn't bring much and add noise to the information brought by the first one. You can still find its draft [here](https://cloud.githubusercontent.com/assets/12730304/17273556/d407ec18-5686-11e6-87a9-be3e6cfa6baa.png), but it's not part of the story anymore.
+
 Age has no linear correlation with performance. The r value is -0.428099. The fastest female runner is 21, but the second one is 33. The second fastest male runner is 32.
 
 We notice the speed can vary almost twofold. The fastest people run at near 21 km/h, the slowest (in the Elite categories) at 11 km/h.
 
 The median age, for elite runners, is 35 (m) and 34 (f).
+
+## Data set
+
+Here's the raw data:
+
+[Data_selection.csv](https://github.com/palrogg/playfair-projects/blob/master/projects/paul-ronga/marathon_speed/Data_selection.csv)
