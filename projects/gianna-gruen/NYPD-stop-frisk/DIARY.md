@@ -31,8 +31,9 @@
 * How do the three most common types of police force relate to race?
 
 #### Headlines:
-* People of color get searched more often by NYPD
+* People of color get stopped more often by NYPD
 * NYPD stop-and-frisk data screwed: No scheme to gather offense data
+* Black and hispanic people are frisked more often
 
 #### Data Source:
 [NYPD, 2015](http://www.nyc.gov/html/nypd/html/analysis_and_planning/stop_question_and_frisk_report.shtml) How accurate can self-reported data be...?
