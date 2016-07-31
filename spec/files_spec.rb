@@ -30,12 +30,12 @@ RSpec.describe do
         end
 
         context "BIO.yml" do
-          it "includes a name" do
+          it "should include a name" do
             contents = YAML.load_file(File.join(user_path, "BIO.yml"))
             expect(contents['name']).to be_truthy
           end
 
-          it "includes an email address" do
+          it "should include an email address" do
             contents = YAML.load_file(File.join(user_path, "BIO.yml"))
             expect(contents['email']).to be_truthy
           end
@@ -66,17 +66,17 @@ RSpec.describe do
             story_md = File.join(project_dir, "STORY.md")
 
             context "front matter" do
-              it "is correctly formatted" do
+              it "should be correctly formatted" do
                 parsed = FrontMatterParser.parse_file(story_md)
                 expect(parsed.front_matter).not_to be_empty
               end
 
-              it "includes a title" do
+              it "should contain a title" do
                 parsed = FrontMatterParser.parse_file(story_md)
                 expect(parsed.front_matter['title']).not_to be_empty
               end
 
-              it "includes a summary" do
+              it "should contain a summary" do
                 parsed = FrontMatterParser.parse_file(story_md)
                 expect(parsed.front_matter['title']).not_to be_empty
               end
@@ -85,7 +85,7 @@ RSpec.describe do
             context "markdown" do
 
               context "image" do
-                it "is included in the markdown" do
+                it "should be included in the markdown" do
                   parsed = FrontMatterParser.parse_file(story_md)
                   html = Kramdown::Document.new(parsed.content).to_html
                   html_doc = Nokogiri::HTML(html)
@@ -94,7 +94,7 @@ RSpec.describe do
                   expect(image).not_to be_nil
                 end
 
-                it "actually exists in the directory" do
+                it "should actually exist in the directory" do
                   parsed = FrontMatterParser.parse_file(story_md)
                   html = Kramdown::Document.new(parsed.content).to_html
                   html_doc = Nokogiri::HTML(html)
