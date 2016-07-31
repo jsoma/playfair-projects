@@ -64,34 +64,42 @@ RSpec.describe do
 
           context "STORY.md" do
             story_md = File.join(project_dir, "STORY.md")
-            parsed = FrontMatterParser.parse_file(story_md)
 
             context "front matter" do
               it "is correctly formatted" do
+                parsed = FrontMatterParser.parse_file(story_md)
                 expect(parsed.front_matter).not_to be_empty
               end
 
               it "includes a title" do
+                parsed = FrontMatterParser.parse_file(story_md)
                 expect(parsed.front_matter['title']).not_to be_empty
               end
 
               it "includes a summary" do
+                parsed = FrontMatterParser.parse_file(story_md)
                 expect(parsed.front_matter['title']).not_to be_empty
               end
             end
 
             context "markdown" do
-              html = Kramdown::Document.new(parsed.content).to_html
-              html_doc = Nokogiri::HTML(html)
-
-              image = html_doc.css("img").first
 
               context "image" do
                 it "is included in the markdown" do
+                  parsed = FrontMatterParser.parse_file(story_md)
+                  html = Kramdown::Document.new(parsed.content).to_html
+                  html_doc = Nokogiri::HTML(html)
+                  image = html_doc.css("img").first
+
                   expect(image).not_to be_nil
                 end
 
                 it "actually exists in the directory" do
+                  parsed = FrontMatterParser.parse_file(story_md)
+                  html = Kramdown::Document.new(parsed.content).to_html
+                  html_doc = Nokogiri::HTML(html)
+                  image = html_doc.css("img").first
+
                   filename = File.join(project_dir, image['src'])
                   expect(File.exists?(filename)).to be true
                 end
