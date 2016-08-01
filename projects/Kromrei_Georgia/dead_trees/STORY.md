@@ -9,6 +9,6 @@
     - Georgia Kromrei
 ---
 
-![Dead_Trees_Total_Population](dDead_Trees_Total_Population.png)
+![Dead_Trees_Total_Population](Dead_Trees_Total_Population.png)
 
 ![Dead_Trees_Percent](Percent_Dead_Trees.png)
