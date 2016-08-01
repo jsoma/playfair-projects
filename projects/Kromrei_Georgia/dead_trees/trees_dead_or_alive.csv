@@ -1,0 +1,194 @@
+NTA,Dead,Alive,Total
+Greenpoint, 74, 4240, 4359
+Brighton Beach, 37, 972, 1067
+Clinton, 70, 1887, 2011
+Hunts Point, 182, 3273, 3501
+Longwood, 58, 1467, 1563
+Melrose South-Mott Haven North, 107, 1997, 2156
+East Concourse-Concourse Village, 131, 2237, 2443
+Ft. Totten-Bay Terrace-Clearview, 10, 546, 576
+Upper East Side-Carnegie Hill, 74, 4080, 4211
+Arden Heights, 90, 6392, 6643
+West Brighton, 8, 446, 472
+Seagate-Coney Island, 93, 1355, 1493
+Soundview-Castle Hill-Clason Point-Harding Park, 49, 3529, 3636
+Elmhurst, 42, 3013, 3148
+North Corona, 40, 1482, 1556
+Jackson Heights, 96, 5773, 6027
+Springfield Gardens North, 5, 220, 227
+Stapleton-Rosebank, 135, 3620, 3830
+Baisley Park, 9, 966, 1024
+Van Cortlandt Village, 64, 2170, 2288
+Spuyten Duyvil-Kingsbridge, 42, 1791, 1877
+Lincoln Square, 36, 2022, 2078
+Sheepshead Bay-Gerritsen Beach-Manhattan Beach, 82, 4457, 4802
+Whitestone, 35, 1406, 1497
+Murray Hill, 6, 287, 308
+Prospect Lefferts Gardens-Wingate, 16, 422, 444
+Co-op City, 37, 2021, 2093
+Annadale-Huguenot-Prince's Bay-Eltingville, 186, 11773, 12188
+Woodhaven, 21, 493, 527
+Rugby-Remsen Village, 5, 311, 331
+Elmhurst-Maspeth, 12, 1115, 1165
+Bayside-Bayside Hills, 53, 4476, 4669
+Flushing, 29, 1334, 1416
+Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill, 126, 4401, 4582
+park-cemetery-etc-Bronx, 40, 1295, 1397
+Flatbush, 33, 3894, 4031
+park-cemetery-etc-Queens, 8, 920, 1024
+Corona, 49, 1760, 1850
+Queensboro Hill, 25, 1158, 1242
+Crown Heights North, 39, 3474, 3583
+Bedford Park-Fordham North, 57, 1697, 1794
+park-cemetery-etc-Brooklyn, 10, 1219, 1264
+Rego Park, 30, 2266, 2387
+Sunset Park East, 26, 798, 844
+park-cemetery-etc-Manhattan, 9, 1233, 1251
+Upper West Side, 84, 5610, 5770
+North Side-South Side, 141, 3047, 3240
+Washington Heights North, 89, 2410, 2571
+Pelham Parkway, 62, 2169, 2299
+Allerton-Pelham Gardens, 98, 3603, 3845
+East Tremont, 99, 2250, 2374
+Van Nest-Morris Park-Westchester Square, 76, 3001, 3136
+Pomonok-Flushing Heights-Hillcrest, 11, 1236, 1275
+East Flushing, 16, 1162, 1232
+Bronxdale, 61, 1378, 1514
+East Williamsburg, 73, 1986, 2099
+South Jamaica, 3, 453, 480
+West New Brighton-New Brighton-St. George, 133, 3696, 3901
+East Harlem South, 68, 1750, 1886
+Washington Heights South, 133, 2695, 2887
+Highbridge, 103, 1671, 1843
+Mount Hope, 75, 1881, 2000
+West Concourse, 104, 1923, 2096
+Windsor Terrace, 9, 1373, 1413
+Woodside, 14, 1242, 1285
+Bushwick North, 117, 2732, 2916
+Astoria, 51, 3146, 3289
+Williamsburg, 20, 1330, 1370
+Hunters Point-Sunnyside-West Maspeth, 115, 4740, 4935
+Queensbridge-Ravenswood-Long Island City, 24, 1127, 1173
+Port Richmond, 60, 2839, 2930
+Park Slope-Gowanus, 71, 5676, 5877
+Central Harlem South, 62, 2485, 2574
+Bedford, 50, 3164, 3259
+Kew Gardens, 23, 1418, 1478
+DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill, 53, 2778, 2880
+Brooklyn Heights-Cobble Hill, 16, 1591, 1635
+Parkchester, 7, 773, 790
+Bushwick South, 83, 2981, 3109
+Soundview-Bruckner, 19, 1849, 1902
+Stuyvesant Heights, 33, 2188, 2245
+Cypress Hills-City Line, 107, 3384, 3531
+Grymes Hill-Clifton-Fox Hills, 36, 2423, 2490
+New Brighton-Silver Lake, 56, 3374, 3468
+West Farms-Bronx River, 46, 1547, 1637
+College Point, 40, 2525, 2660
+Carroll Gardens-Columbia Street-Red Hook, 90, 3806, 3966
+Richmond Hill, 26, 1233, 1331
+Crotona Park East, 54, 1330, 1409
+Sunset Park West, 19, 1080, 1127
+Westchester-Unionport, 73, 2658, 2769
+Fort Greene, 29, 1804, 1865
+Ridgewood, 132, 5747, 6109
+SoHo-TriBeCa-Civic Center-Little Italy, 69, 2100, 2215
+Chinatown, 49, 1402, 1468
+Hammels-Arverne-Edgemere, 148, 2724, 2992
+Great Kills, 195, 9552, 9999
+Schuylerville-Throgs Neck-Edgewater Park, 63, 4833, 5004
+West Village, 86, 3671, 3793
+Steinway, 68, 4646, 4855
+Ocean Hill, 19, 960, 996
+Pelham Bay-Country Club-City Island, 50, 3019, 3127
+Canarsie, 89, 3919, 4195
+Prospect Heights, 13, 1370, 1412
+Hudson Yards-Chelsea-Flatiron-Union Square, 134, 2841, 3032
+Clinton Hill, 35, 2435, 2535
+Forest Hills, 85, 6031, 6356
+Woodlawn-Wakefield, 53, 3818, 3958
+Old Astoria, 38, 1147, 1208
+Turtle Bay-East Midtown, 41, 2162, 2230
+Airport, 9, 88, 97
+Springfield Gardens South-Brookville, 29, 1790, 1865
+Yorkville, 47, 2133, 2269
+East Elmhurst, 30, 1290, 1364
+Westerleigh, 49, 4601, 4703
+Bensonhurst East, 17, 2052, 2112
+East Flatbush-Farragut, 10, 546, 580
+Midtown-Midtown South, 64, 1136, 1212
+Lenox Hill-Roosevelt Island, 62, 2258, 2370
+Morrisania-Melrose, 91, 2133, 2282
+Gravesend, 23, 970, 1024
+Grasmere-Arrochar-Ft. Wadsworth, 21, 2076, 2125
+Eastchester-Edenwald-Baychester, 64, 2474, 2680
+Hamilton Heights, 67, 2299, 2410
+Williamsbridge-Olinville, 82, 3050, 3219
+Morningside Heights, 62, 2492, 2599
+Old Town-Dongan Hills-South Beach, 61, 4696, 4831
+Brownsville, 41, 1187, 1254
+Maspeth, 12, 609, 646
+Madison, 44, 2836, 3010
+Glendale, 16, 531, 592
+Crown Heights South, 4, 499, 507
+Breezy Point-Belle Harbor-Rockaway Park-Broad Channel, 129, 3308, 3735
+North Riverdale-Fieldston-Riverdale, 44, 1876, 1976
+Gramercy, 17, 1087, 1134
+Bay Ridge, 16, 1039, 1084
+Battery Park City-Lower Manhattan, 30, 1286, 1332
+East Harlem North, 107, 2403, 2597
+Fresh Meadows-Utopia, 8, 813, 852
+Middle Village, 16, 1297, 1364
+Auburndale, 5, 504, 525
+Kew Gardens Hills, 5, 601, 621
+Norwood, 34, 1705, 1797
+Oakwood-Oakwood Beach, 103, 5211, 5406
+Oakland Gardens, 8, 670, 707
+Glen Oaks-Floral Park-New Hyde Park, 5, 775, 814
+Ozone Park, 7, 151, 163
+Marble Hill-Inwood, 43, 1639, 1717
+East Village, 36, 1512, 1581
+Stuyvesant Town-Cooper Village, 3, 428, 437
+Charleston-Richmond Valley-Tottenville, 109, 7228, 7501
+South Ozone Park, 19, 669, 709
+Midwood, 38, 2992, 3137
+Bensonhurst West, 33, 1420, 1482
+Homecrest, 71, 3385, 3536
+Jamaica Estates-Holliswood, 26, 1232, 1288
+Central Harlem North-Polo Grounds, 114, 3353, 3513
+Ocean Parkway South, 22, 2228, 2292
+New Springville-Bloomfield-Travis, 162, 7519, 7785
+Lindenwood-Howard Beach, 93, 2386, 2544
+Briarwood-Jamaica Hills, 5, 234, 246
+Belmont, 51, 1413, 1479
+Georgetown-Marine Park-Bergen Beach-Mill Basin, 36, 3410, 3523
+Rosedale, 16, 1981, 2052
+Mariner's Harbor-Arlington-Port Ivory-Graniteville, 94, 3298, 3470
+East New York, 287, 9159, 9588
+University Heights-Morris Heights, 103, 1928, 2071
+Flatlands, 52, 2363, 2528
+Kingsbridge Heights, 37, 1111, 1187
+Kensington-Ocean Parkway, 6, 1045, 1096
+Lower East Side, 70, 1836, 1932
+Fordham South, 39, 970, 1028
+Claremont-Bathgate, 68, 1538, 1643
+Manhattanville, 37, 862, 910
+East New York (Pennsylvania Ave), 74, 2856, 2955
+New Dorp-Midland Beach, 55, 5073, 5187
+Bath Beach, 9, 357, 374
+St. Albans, 8, 366, 389
+Hollis, 10, 161, 175
+Douglas Manor-Douglaston-Little Neck, 20, 1658, 1731
+Borough Park, 22, 1350, 1413
+Jamaica, 5, 154, 169
+Mott Haven-Port Morris, 83, 2365, 2505
+Cambria Heights, 11, 259, 281
+Laurelton, 14, 470, 505
+Bellerose, 30, 2394, 2532
+Murray Hill-Kips Bay, 43, 1654, 1739
+Starrett City, 3, 330, 334
+Queens Village, 44, 2598, 2806
+Dyker Heights, 24, 645, 701
+Far Rockaway-Bayswater, 125, 4719, 4981
+Rossville-Woodrow, 84, 8303, 8690
+Erasmus, 18, 591, 621
