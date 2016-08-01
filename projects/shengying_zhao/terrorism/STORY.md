@@ -4,4 +4,4 @@ summary: "The graph shows the number of persons killed by terrorist attacks in s
 author: Shengying Zhao
 ---
 
-! [Data visualization](terrorism-final.png)
+![Data visualization](terrorism-final.png)
