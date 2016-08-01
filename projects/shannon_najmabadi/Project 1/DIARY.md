@@ -4,6 +4,11 @@ summary: Week 1 assignments for Data Studio.
 author: Shannon Najmabadi
 ---
 
+Image:
+
+! [Data Visualization(Week 1-1.png)]
+! [Data Visualization(Week 1-2.png)]
+
 Issues:
 
 - How to portray the jail chart. Thought a line chart would be best but too cluttered?

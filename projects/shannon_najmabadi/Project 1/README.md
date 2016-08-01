@@ -4,6 +4,9 @@ summary: Week 1 assignments for Data Studio.
 author: Shannon Najmabadi
 ---
 
+! [Data Visualization(Week 1-1.png)]
+! [Data Visualization(Week 1-2.png)]
+
 Data from:
 http://www.criminaljustice.ny.gov/crimnet/ojsa/crimereporting/2015-Preliminary-Crime-Release.pdf
 https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/violent-crime/rape
