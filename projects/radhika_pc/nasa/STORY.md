@@ -11,7 +11,7 @@ The world despised the cold war era. But let's look at the brighter side. One is
 
 Growing up in the cold war era, closely watching the USSR and US competing for the number 1 position in the space race, I have always been curious about the expansion of NASA. For the same reasons, I poked around a bit on Internet for all the available sources, but finally decided to zero on the one from Data.Gov. To dig deeper, it's essential to see the picture on the Federal funding side. I went ahead and grabbed the data on Federal funding for NASA from https://en.wikipedia.org/wiki/Budget_of_NASA.  What's astounding is that there is a steady decline in the percent of Federal budget allotted to NASA. So I concluded that cold war is the one major factor in the development of new space research facilities in the USA. With the collapse of USSR, along with arm race, space race also reached a dead end.
 
-![](nasa-fund-bar-black-01.png)
+![](NASA-FED.png)
 
 ### An Insight Into NASA Laboratory Facilities ###
 
