@@ -1,7 +1,7 @@
 ---
 title: Crime in New York
 summary: Week 1 assignments for Data Studio.
-author: Shannon Najmabadi
+author: S. Najmabadi
 ---
 
 ! [Data Visualization(Jails-01.png)]
