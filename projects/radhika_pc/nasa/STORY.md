@@ -2,7 +2,9 @@
 
 ---
   title: "No Cold War, No Space Race ! Dramatic Reduction in the Number of New NASA Research Facilities in the US"
+  
   summary: "United States has reduced its federal funding to NASA after the collapse of USSR."
+  
   authors:
     - Radhika PC
 ---
