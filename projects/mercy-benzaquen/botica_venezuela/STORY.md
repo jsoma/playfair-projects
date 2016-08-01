@@ -1,6 +1,6 @@
 ---
-title: BOTica analisis: 8 medicamentos mas pedidos
-summary: chart from data collected by Twitter BOT BOTica
+title: "BOTica analisis: 8 medicamentos mas pedidos"
+summary: "chart from data collected by Twitter BOT BOTica"
 ---
 BOTica is a Twitter BOT that I created to help with the health crisis in Venezuela. It is a platform where people can donate and ask for medicines.
 By July 23rd, BOTica has received 81 requests for medicines. With this chart I chose the 8 most wanted medicines. 
