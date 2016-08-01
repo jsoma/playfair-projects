@@ -9,4 +9,4 @@ Summary: A line chart of mass shooting incidents in the United States, 2013 to c
 
 ![Data visualization](line.png)
 
-Blah blah blah blah
+Mass shooting has always been an issue in the United States, but it feels like the situation is getting worse these days, is that true?
