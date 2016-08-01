@@ -6,8 +6,8 @@ author: Shannon Najmabadi
 
 Image:
 
-! [Data Visualization(Week 1-1.png)]
-! [Data Visualization(Week 1-2.png)]
+![Week 1-1 (Week 1-1.png)]
+![Week 1-2 (Week 1-2.png)]
 
 Issues:
 
