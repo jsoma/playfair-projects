@@ -9,6 +9,4 @@ Marathoners usually get better over time, until their growing experience and con
 
 ![Data visualization](_12runners_edit.png)
 
-![Data visualization](_by_year_edit.png)
-
 All this only confirms the need for a larger-scale study.
