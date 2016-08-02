@@ -16,8 +16,8 @@ However, there are still 34 stations (12%) with neither elevator nor escalators.
 
 This map shows only those stations in Madrid's subway network that are fully accessible:
 
-![](viz/plano_wheelchairs_general.png)
+![](plano_wheelchairs_general.png)
 
 In this bar chart, the percentage of stations per line, according to their degree of accessibility:
 
-![](viz/accessiblity-per-line.png)
+![](accessiblity-per-line.png)
