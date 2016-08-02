@@ -67,17 +67,20 @@ RSpec.describe do
 
             context "front matter" do
               it "should be correctly formatted" do
-                parsed = FrontMatterParser.parse_file(story_md)
+                content = File.read(story_md).gsub("\r\n","\n")
+                parsed = FrontMatterParser.parse(content)
                 expect(parsed.front_matter).not_to be_empty
               end
 
               it "should contain a title" do
-                parsed = FrontMatterParser.parse_file(story_md)
+                content = File.read(story_md).gsub("\r\n","\n")
+                parsed = FrontMatterParser.parse(content)
                 expect(parsed.front_matter['title']).not_to be_empty
               end
 
               it "should contain a summary" do
-                parsed = FrontMatterParser.parse_file(story_md)
+                content = File.read(story_md).gsub("\r\n","\n")
+                parsed = FrontMatterParser.parse(content)
                 expect(parsed.front_matter['title']).not_to be_empty
               end
             end
