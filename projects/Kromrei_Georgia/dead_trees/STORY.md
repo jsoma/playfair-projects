@@ -1,14 +1,12 @@
 ---
-  title: "Street Trees of New York: "
-  summary: "I was looking at the populations of dead trees in neighborhoods of New York, trying to figure out why there are so many more in East New York. It turns out that, while there are many more dead trees in East New York, this is mostly because there are more trees! After some data-wrangling, I've found the percentage of dead trees for each NTA, and I can compare that to the total tree population. In general, most neighborhoods have higher percentages of dead trees the less trees they have, and lower percentages the more trees they have.
+  title: ""
+  summary: "Every 10 years, New York City does a census of all the street trees. 34 percent of the people that conduct the census are volunteers. Among several parameters the users record is whether or not the tree is dead, alive, or a stump-- but how is this distributed over neighborhoods? At first glance, it seems like there are some neighborhoods with many more dead trees than others, but the picture is more complicated than that. Neighborhoods with greater total number of trees are much more likely to have a higher number of dead trees (the correlation is .86), with few exceptions. This is best shown in the first figure.
 
-  With more time, I would like to compare the percentages of dead trees in 2015 to the censuses that were taken in 2005 and 1995. I suspect there may be a difference in areas that were more severely impacted by Sandy.
-
-  I had fun on this story experimenting with maps, learning how to make a new data frame by value counts, and figuring out how to work with a pretty large data frame. It was pretty frustrating."
+  There are some outliers that have very high percentages of dead trees and a small population, most of them in Staten Island. If I had more time, I would love to find other parameters to merge this with-- perhaps median income, or upper respiratory illness. I'd also like to compare this data to the 1995 and 2005 data. I suspect there may be a difference in areas that were more severely impacted by Sandy in 2012. I'll work on it later!"
   author:
     - Georgia Kromrei
 ---
 
-![Dead_Trees_Total_Population](Dead_Trees_Total_Population.png)
+![Dead_Trees_Total_Population](Dead_Trees_Pop.png)
 
 ![Dead_Trees_Percent](Percent_Dead_Trees.png)
