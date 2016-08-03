@@ -2,7 +2,7 @@ The purpose of this analysis is to understand the statistics regarding the size(
 
 Inspired link : https://www.washingtonpost.com/world/after-decades-of-economic-growth-south-korea-is-the-land-of-apartments/2013/09/15/9bd841f8-1c55-11e3-8685-5021e0c41964_story.html
 
-### 2. Data Analysis
+###  Analysis
 
 There are  8 metropolitan cities in South Korea. There are apartments in other locations/provinces, however, most apartments are concentrated in Metro Cities and because the amount of data is relatively small, they were ignored from the analysis. (Kyungi province was later added.)
 
