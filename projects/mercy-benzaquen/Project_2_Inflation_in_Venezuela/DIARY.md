@@ -8,7 +8,7 @@ For my second chart I used a dataset with the prices of products of the basic fo
 
 ### Possible questions to ask the data:
 
-  - How is the price of food increasing compared to the minimum wage?
+  - How has the price of food increased compared to the minimum wage?
   - What can a person buy with a 1-month salary?
   - How many people can live from one salary?
   - How has the food of a specific product, let's say, an apple, have changed in the past year?
