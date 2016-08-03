@@ -13,4 +13,4 @@ In the past one week, all the social media feeds, from my friends, pages I subsc
 
 I picked up four search terms to discover the search trend over the past one year: trump, clinton, Islamic State, Game of Thrones, and Pokemon Go. The graph shows that clinton isn't a favorite search term as compared to the rest in the list. Search for Islamic State is at its peak when a mishap occurs in any of the corner of the world. Whereas, number of hit for Pokomon Go is all time high after it's launch and is incomparable as far as other search terms are concerned.
 
-![pokemongo-comparitivestudy](.png)
+![](pokemongo-comparitivestudy.png)
