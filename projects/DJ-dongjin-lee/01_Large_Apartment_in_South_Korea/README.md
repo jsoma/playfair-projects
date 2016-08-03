@@ -16,6 +16,8 @@ According to the Korean Government, apartments larger than 914 sq ft are conside
 
 ![output-graph_01_01](https://cloud.githubusercontent.com/assets/19519829/17150543/e1ef9048-533d-11e6-9c40-6fbd17c83c00.png)
 
+<p align="center">
+![](output-graph_02.pdf)
 
 (2) Factors Correlated to the Large Apartment Ratio
 Tested correlation of two factors: city budget and average GDP of the city toward large apartment ratio.
