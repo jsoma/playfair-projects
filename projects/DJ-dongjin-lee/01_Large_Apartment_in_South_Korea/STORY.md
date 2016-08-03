@@ -5,5 +5,4 @@
     - Dongjin Lee
 ---
 <p align="center">
-![](image01_02.png)
-
+![Image01](image01_02.png)
