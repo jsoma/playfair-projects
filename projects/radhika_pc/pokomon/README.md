@@ -10,7 +10,9 @@ Google Trends
 
 * Jupyter Notebook
 * Obsoleted graphics I created in my earlier versions
-*
 * story.md file
 * diary.md file
-* data sets: 
+* data sets: games-report, google-report, report-apps, pokemon-world, pageviews_uniques_by_login_state_by_day-askreddit, pageviews_uniques_by_login_state_by_day-lol, pageviews_uniques_by_login_state_by_day-funny, pageviews_uniques_by_login_state_by_day-pokemon
+* IPYNB file
+* PNG and PDF versions of the graphs
+* pokemongo-comparitivestudy.png, the main graph which combined all other graphs
