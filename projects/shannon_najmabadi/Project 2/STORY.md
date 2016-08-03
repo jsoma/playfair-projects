@@ -1,5 +1,5 @@
 ---
-title: Inmates in NY
+title: Inmates in New York
 summary: Week 2 assignments for Data Studio.
 author: Shannon Najmabadi
 ---

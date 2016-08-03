@@ -1,12 +1,11 @@
 ---
-title: Inmates in NY
+title: Inmates in New York
 summary: Week 2 assignments for Data Studio.
 author: Shannon Najmabadi
 ---
 
 ![Week 2-1](Week 2-1.png)
 ![Week 2-2](Week 2-2.png)
-![Week 2-3](Week 2-3.png)
 
 Data from:
 https://data.ny.gov/Public-Safety/Inmates-Under-Custody-Beginning-2008/55zc-sp6m
