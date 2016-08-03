@@ -1,3 +1,5 @@
+![](image01_02.png)
+
 The purpose of this analysis is to understand the statistics regarding the size(sq.meter) of apartments in South Korea metrocities using Python.
 
 Inspired link : https://www.washingtonpost.com/world/after-decades-of-economic-growth-south-korea-is-the-land-of-apartments/2013/09/15/9bd841f8-1c55-11e3-8685-5021e0c41964_story.html
