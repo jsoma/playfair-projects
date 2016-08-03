@@ -1,4 +1,4 @@
-# Playfair Projects
+# Playfair Projects ![Build Status](https://travis-ci.org/jsoma/playfair-projects.svg?branch=master)
 
 This is where we'll be organizing our pitching/writing/etc process for all of the [Lede Program's](http://ledeprogram.com) Playfair projects.
   
@@ -14,11 +14,13 @@ Sounds good?
 
 ## The Pitching/Submitting Process
 
+> See an example user directory with a project inside in the [examples folder](/jsoma/playfair-projects/tree/master/examples/)
+
 You can read detailed instructions in [PITCHING.md](PITCHING.md) and [SUBMISSION.md](SUBMISSION.md), but a summary is below.
 
 1. [Submit a pitch](https://github.com/jsoma/playfair-projects/issues/1) with [Pitch] in the issue title.
-2. [Get some feedback](https://github.com/jsoma/playfair-projects/issues/1#issuecomment-234377726) and [respond to that feedback](https://github.com/jsoma/playfair-projects/issues/1#issuecomment-234379100).
-3. You'll then get [editorial feedback and hopefully approval](https://github.com/jsoma/playfair-projects/issues/1#issuecomment-234380193).
+2. Receive and respond to and editorial feedback. [Example](https://github.com/jsoma/playfair-projects/issues/1#issuecomment-234377726)
+3. Get your pitch approved. [Example](https://github.com/jsoma/playfair-projects/issues/1#issuecomment-234380193)
 4. [Create a story issue](https://github.com/jsoma/playfair-projects/issues/2).
 5. [Post updates](https://github.com/jsoma/playfair-projects/issues/2#issuecomment-234383998) and [get feedback](https://github.com/jsoma/playfair-projects/issues/2#issuecomment-234384424) and [post more updates](https://github.com/jsoma/playfair-projects/issues/2#issuecomment-234384733)
 6. When you're done with your content, [send a pull request](https://github.com/jsoma/playfair-projects/issues/2#issuecomment-234384971) that **includes your story issue number** mine was #2

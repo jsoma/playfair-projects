@@ -1,10 +1,16 @@
 # Pull request checklist
 
-After you submit a pull request, **cut and paste the following as the first comment** (but be sure to fill in the story title, pitch issue and story issue links before you add the comment).
+### How the checklist works
+
+After you submit a pull request, **cut and paste the following into your pull request** (but be sure to fill in the story title, pitch issue and story issue links before you save). **NOTE:** Add this to the actual pull request, **NOT THE FIRST COMMENT!**
 
 After the comment has been submitted, you'll be able to use the checkboxes interactively. When all the boxes are checked, we'll be able to accept your pull request.
 
-    ## Pull Request Checklist
+[See an example user folder + project folder + appropriate files](https://github.com/jsoma/playfair-projects/tree/master/examples)
+
+### The Checklist
+
+    # Pull Request Checklist
     
     Story title: _
 
@@ -20,6 +26,7 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
     ### Directory Format
 
     - [ ] There is a folder in `/projects/` that is my full name
+    - [ ] I have included a BIO.yml in the folder named after me that includes name and contact information (see examples)
     - [ ] Inside of that folder I have another folder just for this project
 
     ### Visualization
@@ -43,3 +50,18 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
     - [ ] Any IPython/Jupyter Notebook files
     - [ ] Any PDF files you exported along the way
     - [ ] Any images or other files from your process
+
+
+### Automated Testing
+
+Some of these things are really boring to make people look for, so we set up an automated system using a tool called Travis to help you double-check your work!
+
+When you submit a pull request, it will automatically be run against a suite of tests using Travis. If there's something you ned to fix before we can accept your pull request, you'll see something about **checks failing**. To find out details, click... **Details!**
+
+![Failed PR 1](images/travis-1.png)
+
+The page you land on after you click **Details** is a little ugly, but I reworked it so you end up with nice little todo list at the bottom. Scroll down, take a look, and you'll see exactly what you need to fix.
+
+![Failed PR 2](images/travis-2.png)
+
+In this pull request, for example, we have a few files that are the wrong name/capitalization and maybe some that are missing. There are also two stories being pushed - `nasa` and `pokemongo` - which means both stories have to be at 100% before we'll be able to accept the request! It's usually best to keep it to one story per pull request, so don't commit your second story's files before the first story is done.

@@ -1,0 +1,15 @@
+---
+title: "Borussia Dortmund Dominated Transfers This Summer"
+summary: "You would expect the serial Champions Bayern Munich to be the top
+buyer and seller of footballers in the league. And most years it usually is.
+This time round last year's runners up have bought players for nearly 110m Euros
+and sold players for even more: nearly 120m Euros."
+---
+
+![Bilanz](Bundesliga_Transfer_Bilanz.png)
+
+![Erfahrung](Erfahrung.png)
+
+![Alter](Alter.png)
+
+![Schuhe](Schuhe.png)

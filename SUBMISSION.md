@@ -25,8 +25,8 @@ For `STORY.md` we're going to be using the [standard Markdown format](https://gi
 For example, let's say I wrote a story about basketball that includes two images.
 
     ---
-      title: How Stephen Curry is Scamming the NBA
-      summary: We looked at numbers involving Stephen Curry and you won't believe what we found. We won't believe it either, though, so we're all at a loss.
+      title: "How Stephen Curry is Scamming the NBA"
+      summary: "We looked at numbers involving Stephen Curry and you won't believe what we found. We won't believe it either, though, so we're all at a loss."
       authors:
         - Jonathan Soma
         - Jane Doe
@@ -42,7 +42,7 @@ For example, let's say I wrote a story about basketball that includes two images
 
 You'll want to include the appropriate dashes to mark the Front Matter section, along with a `title` and a `summary`.
 
-If you are the only author, you don't need to list any authors at all. If you have multiple authors, make a list like above.
+**If you are the only author, you don't need to list any authors at all.** If you have multiple authors, make a list like above.
 
 ## Markdown
 
