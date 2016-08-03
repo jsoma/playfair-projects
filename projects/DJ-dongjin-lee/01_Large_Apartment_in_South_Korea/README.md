@@ -20,7 +20,7 @@ According to the Korean Government, apartments larger than 914 sq ft are conside
 (2) Factors Correlated to the Large Apartment Ratio
 Tested correlation of two factors: city budget and average GDP of the city toward large apartment ratio.
 
-The ratio of Large Apartments were relatively consistent regardless of the city, and that the number of large apartments correlated positively with the city budget, but very small relationship was found between the city GDP and number of large apartments.
+The ratio of Large Apartments were relatively consistent regardless of the city, and that the number of large apartments is not correlated with the Average GDP of the city.
 
 <p align="center">
 ![output-graph_02_modified](https://cloud.githubusercontent.com/assets/19519829/17112883/f5faee02-5275-11e6-838f-c7f9896b4018.png)
