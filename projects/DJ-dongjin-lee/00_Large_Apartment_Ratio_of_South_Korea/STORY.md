@@ -4,6 +4,6 @@
   authors:
     - Dongjin Lee
 ---
-
-![](image01_01.png)
 <p align="center">
+![](image01_01.png)
+
