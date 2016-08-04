@@ -1,0 +1,8 @@
+---
+title: "This Ain't Fair"
+summary: "Some basketball players are underpaid."
+authors:
+  - June Seo
+---
+
+![](nba.png)
