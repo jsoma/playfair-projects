@@ -1,7 +1,8 @@
-STORY:
-The story that I found was that heart diseases is not only the number 1 cause of death
-for new yorkers, but it represents 40% of the total deaths reported since 2008 to
-2011.
+---
+title: "A matter of heart"
+summary: "According to data collected by New York city council, the largest amount of deaths in the city are caused by cardiovascular diseases."
+---
+Cardiovascular diseases(CVD) are the leading cause of death in the United States and new York City is not the exception. Surprisingly, CVD its occurring more frequently among women: they represents 40% of the total deaths reported in the city. 
 
 
 ![Data visualization](amatterofheart-final.png)
