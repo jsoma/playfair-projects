@@ -1,11 +1,10 @@
 ## Design choices
-* **Axis + Axis Labels**: Myriad Pro, 14 pt
-* **Text**:
-  * Font: Shree Devanagari 714
-  * Headline: Bold, 34 pt
-  * Descriptive Text: Regular, 16 pt
-  * Annotation: 12 pt
-  * Source: 10 pt
+* **Font** Raleway Family
+  * Header: Heavy Black, 34 pt
+  * Descriptive Text: Light, 16 pt
+  * Axis Labels: Regular, 12 pt
+  * Annotation: Regular, 10 pt
+  * Source: Regular, 10 pt
 * **Color**:
   * Purple Navy: #404e7c
   * Sunset Orange: #fe5f55

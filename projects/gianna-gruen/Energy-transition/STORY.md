@@ -12,13 +12,13 @@ In absolute numbers, it consumes and produces the largest amount of renewable en
 
 Looking at relative figures however shifts the image:
 
-![relative_share_renewables](energy_renewablevsother-1200-03.png)
+![relative_share_renewables](energy_renewablevsother-1200-04.png)
 
 Probably, it is more difficult to have a great share of renewable energy, if the overall energy consumption is high and a country is defined by a big, energy-consuming industry.
 
 To check whether there might be exceptions from this assumption, the renewable shares were put into more context: the overall energy consumption and GDP per capita:
 
-![shares_in_context](energy_scatter-1200-02.png)
+![shares_in_context](energy_scatter-1200-03.png)
 
 If you break down overall energy consumption by sector, industry and households each account for quarter of overall consumption.
 
@@ -26,6 +26,6 @@ Thus, if a country like Germany wants to cut its energy demand, it’s not only 
 
 And the alleged role model Germany even increased prices slightly, whereas Norwegian consumers pay roughly half as much -- with a trend of further falling prices.
 
-![energy_prices](energy-multiples-prices-merged-1200-02.png)
+![energy_prices](energy-multiples-prices-merged-1200-03.png)
 
 These graphics are a starting point for an article, I'll be writing for [*Der Kontext*](http://wwww.derkontext.com) to figure why Germany might still be a role model (despite the facts outlined above) and what European countries can learn from renewable-energy-heroes like Norway, Sweden and Iceland.
