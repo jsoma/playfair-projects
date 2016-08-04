@@ -1,0 +1,5 @@
+The Rise and Fall of Genres
+======
+Throughout the decades, Billboard has been keeping score on the hits. So what types of music tend to take over the airwaves? It depends on the year. This chart uses genre data from Last.FM, Spotify, and Billboard to visualize which genres have fared the best over the past half century.
+
+To make it, I took advantage of [guoguo12's unofficial Billboard API] (https://github.com/guoguo12/billboard-charts) to gather the top 20 hits from every week since 1960. Then I paired as many of the songs as possible with genres by using BeautifulSoup to scrape Last.FM's crowdsourced genre tags, Spotify's API to find genres associated with artists, and finally Billboard's hot genre charts. After a little data cleaning (for example, getting rid of all erroneous instances of the genre "Christmas" that resulted from gathering Spotify artist data from a musician who once tried to record a holiday hit), I used Pandas, Matplotlib, and Illustrator to put these images together.
