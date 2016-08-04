@@ -1,4 +1,3 @@
-
 ---
   title: "Energy transition in Europe: Which country is the real role model?"
   summary: "Exchange fossil energy with green energy -- that's the aim of Europe's energy transition. Germany is seen as a blueprint, maybe not legitimately though."
