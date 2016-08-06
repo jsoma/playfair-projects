@@ -1,6 +1,6 @@
 # Pitch issue checklist
 
-After you create a pitch issue, **cut and paste the following at the bottom of your pitch issue**. Do **not** paste it as the first comment, I was wrong!
+After you create a pitch issue, **cut and paste the following at the bottom of your pitch issue**.
 
 After the comment has been submitted, you'll be able to use the checkboxes interactively. When all the boxes are checked, you'll be able to create a story issue.
 
