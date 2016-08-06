@@ -2,9 +2,9 @@
 
 ### How the checklist works
 
-After you submit a pull request, **cut and paste the following into your pull request** (but be sure to fill in the story title, pitch issue and story issue links before you save). **NOTE:** Add this to the actual pull request, **NOT THE FIRST COMMENT!**
+After you submit a pull request, **cut and paste the following into your pull request** (but be sure to fill in the story title, pitch issue and story issue links before you save).
 
-After the comment has been submitted, you'll be able to use the checkboxes interactively. When all the boxes are checked, we'll be able to accept your pull request.
+After the pull request has been submitted, you'll be able to use the checkboxes interactively. When all the boxes are checked, we'll be able to accept your pull request.
 
 [See an example user folder + project folder + appropriate files](https://github.com/jsoma/playfair-projects/tree/master/examples)
 
