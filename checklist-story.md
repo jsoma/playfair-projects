@@ -6,7 +6,7 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
 
     # Story issue checklist
     
-    PLEASE PASTE THIS AT THE END OF YOUR **STORY ISSUE POST**, AS THE FIRST COMMENT. I was wrong! You can delete this line after you paste it.
+    PLEASE PASTE THIS AT THE END OF YOUR STORY ISSUE POST, **NOT AS THE FIRST COMMENT**.
 
     My pitch was (use the number): _
     
