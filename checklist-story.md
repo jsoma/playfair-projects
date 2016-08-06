@@ -6,8 +6,6 @@ After the comment has been submitted, you'll be able to use the checkboxes inter
 
     # Story issue checklist
     
-    PLEASE PASTE THIS AT THE END OF YOUR STORY ISSUE POST, **NOT AS THE FIRST COMMENT**.
-
     My pitch was (use the number): _
     
     - [ ] My pitch has been approved (see `PITCHING.md`)
