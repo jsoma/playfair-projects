@@ -1,13 +1,15 @@
 ---
-title: "Who can't stop talking in Swiss Parliament?"
+title: "Swiss Parliament Chitter Chatter"
 
 summary: "This spring German speaking, mostly right wing politicians were
 complaining about how long and how much their French colleagues talk in
 parliament. And what about women in parliament. How much are they talking?"
 ---
 
-![Graph](So_spricht_das_Parlament.png)
+![Graph](GRAPHIC_Eng.png)
 
-The Swiss parliamentary services published 1000 page PDFs of the debates
-in Parliament. I will take these debates, create a database and establish
-who talks the longest.
+It's not the French doing all the talking, but the Italian Swiss. At least
+when it comes to average speeking time. Swiss parliamentary services publishes
+1000 page PDFs of the debates in Parliament after every session. I've taken
+all the PDFs of 2016, created a dictionary and established who talks the longest. 
+Then do the same for cantons, women, men, political parties, etc.
