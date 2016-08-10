@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<title> coups </title>
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+<style>
+
+a{
+    color:steelblue;
+}
+
+a:hover {
+    color:steelblue;
+    opacity:0.7;
+}
+
+div.content{
+    display:none;
+}
+
+div.showing{
+    display:inline-block;
+    overflow:hidden;
+}
+
+span.quote{
+    background-color: rgba(70, 130, 180,0.6);
+}
+
+span.quote-2{
+    background-color: rgba(255,0,0,0.5);
+}
+
+button{
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 4px 5px 1px 5px;
+    border:none;
+    border-bottom: solid #4682B4 2px;
+    text-decoration: none;
+    background-color: white;
+    margin:0px;
+    margin-top: 0.2vh;
+    cursor: pointer; 
+    outline: 0; }
+}
+
+button p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+button:hover{
+    border: solid #4682B4 2px;
+}
+
+button.checked{
+    border-bottom: solid #4682B4 2px;
+    background-color: rgba(70, 130, 180,0.6);
+/*    transform-origin: 54% 0;*/
+/*    transform: rotate(-5deg);*/
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 10;
+/*    background-color: white;
+    padding:0px 13px 0px 13px;*/
+}
+
+.tooltip p {
+    background-color: rgba(255,255,255,0.7);
+    padding: 5px;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+span.special{
+    background-color: rgba(211,211,211,0.6);
+}
+
+span.blue{
+    background-color: rgba(70, 130, 180,0.6);
+}
+
+span.red{
+    background-color: rgba(255,0,0,0.5);
+}
+
+
+@media all and (max-width: 420px) {
+
+    #viz{
+        width: 100%;
+        margin-left: 2%;
+        margin-right: 2%;
+        height: 210px;
+        margin-top: 5%;
+        margin-bottom: 3%;
+    }
+
+    button:hover{
+        border: none;
+        border-bottom: solid #4682B4 2px;
+    }
+
+    div.content{
+        width:100%;
+        margin-top: 2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    span.quote,.quote-2{
+        font-style: italic;
+        font-family: serif;
+        font-size:3.8vw;
+    }
+
+    h3.name{
+        font-size: 5.0vw;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 100%;
+        margin-bottom: -0.7%;
+        margin-top: -0.5%;
+    }
+
+    p.theory{
+        font-size:3.7vw;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 130%;
+        margin-top: -0.5%;
+    }
+
+    hr#divider{
+        margin-top: 1.2%;
+    }
+
+    button{
+        font-size:3.5vw;
+    }
+
+    div.buttons{
+        width:100%;
+/*        margin-top: 2%;*/
+        margin-left: 1%;
+    }
+
+    div.showing{
+        width:100%;
+        margin-top: 1%;
+        margin-left: 1%;
+        margin-right: 2%;
+    }
+
+    div.intro{
+        width:100%;
+        margin-top: 2%;
+        margin-left: 1%;
+        margin-right:1%;
+    }
+
+    h1{
+        font-size: 6.5vw;
+        font-family: times new roman;
+        margin-bottom:-3.5%;
+    }
+
+    h2{
+        font-size: 4vw;
+        font-family: times new roman;
+        margin-bottom: -2%;
+    }
+
+    p.source{
+        font-size: 2.7vw;
+        font-family: sans-serif;
+        line-height: 130%;
+        font-style: italic;
+        margin-bottom:-1%;
+    }
+
+    p.brief{
+        font-size:3.7vw;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 150%;
+        margin-bottom: 2%;
+    }
+
+    div.break{
+        width:100%;
+        margin-top: 20%;
+        margin-left: 1%;
+        margin-right: 2%;
+        opacity:0.5;
+    }
+
+    p#end{
+        text-align: center;
+        margin-top: -2%;
+        color:rgba(100,100,100,1.0);
+        font-size:2vw;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+}
+
+@media all and (min-width: 426px) and (max-width: 768px) {
+
+    button:hover{
+        border: none;
+        border-bottom: solid #4682B4 2px;
+    }
+
+    #viz{
+        width: 100%;
+        margin-left: 1%;
+        margin-right: 1%;
+        height: 350px;
+        margin-top: 2%;
+    }
+
+    div.content{
+        width:100%;
+        margin-top: 2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    span.quote,.quote-2{
+        font-style: italic;
+        font-family: serif;
+        font-size:2.3vw;
+    }
+
+    h3.name{
+        font-size: 3.1vw;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 100%;
+        margin-bottom: -0.7%;
+        margin-top: 1.2%;
+    }
+
+    p.theory{
+        font-size:2vw;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 150%;
+        margin-top: -0.5%;
+    }
+
+    button{
+        font-size:1.9vw;
+    }
+
+    div.buttons{
+        width:100%;
+/*        margin-top: 2%;*/
+        margin-left: 1%;
+    }
+
+    div.showing{
+        width:100%;
+        margin-top: 1%;
+        margin-left: 1%;
+        margin-right: 2%;
+    }
+
+    div.intro{
+        width:100%;
+        margin-top: 2%;
+        margin-left: 1%;
+        margin-right:1%;
+    }
+
+    h1{
+        font-size: 5.8vw;
+        font-family: times new roman;
+        margin-bottom:-2.5%;
+    }
+
+    h2{
+        font-size: 3.1vw;
+        font-family: times new roman;
+        margin-bottom: -0.4%;
+    }
+
+    p.source{
+        font-size: 1.5vw;
+        font-family: sans-serif;
+        line-height: 130%;
+        font-style: italic;
+        margin-bottom:-1%;
+    }
+
+    p.brief{
+        font-size:2vw;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 150%;
+        margin-bottom: 1%;
+    }
+
+    div.break{
+        width:100%;
+        margin-top: 10%;
+        margin-left: 1%;
+        margin-right: 2%;
+        opacity:0.5;
+    }
+
+    p#end{
+        text-align: center;
+        margin-top: -0.7%;
+        color:rgba(100,100,100,1.0);
+        font-size:1.2vw;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+}
+
+@media all and (min-width: 769px) {
+
+    #viz{
+        width: 60%;
+        margin-left: 20%;
+        height: 410px;
+        margin-top: 1%;
+    }
+
+    div.content{
+        width:60%;
+        margin-top: 2%;
+        margin-left: 20%;
+    }
+
+    div.buttons{
+        width:60%;
+/*        margin-top: 2%;*/
+        margin-left: 20%;
+    }
+
+    div.showing{
+        width:60%;
+        margin-top: 1%;
+        margin-left: 20%;
+    }
+
+    span.quote,.quote-2{
+        font-style: italic;
+        font-family: serif;
+        font-size: 2.5vh;
+    }
+
+    h3.name{
+        margin-top:0%;
+        font-size: 3.7vh;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 100%;
+        margin-bottom: -1%;
+    }
+
+    p.theory{
+        font-size: 2.3vh;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 150%;
+        margin-top: -0.3%;
+    }
+
+    hr#divider{
+        margin-top: 1.5%;
+    }
+
+    button{
+        font-size:2.1vh;
+    }
+
+    div.intro{
+        width:60%;
+        margin-top: 2%;
+        margin-left: 20%;
+    }
+
+    h1{
+        font-size: 4vw;
+        font-family: times new roman;
+        margin-bottom:-2%;
+        margin-top: 5%;
+    }
+
+    h2{
+        font-size: 2vw;
+        font-family: times new roman;
+        margin-bottom: -0.6%;
+    }
+
+
+    p.source{
+        font-size: 1.8vh;
+        font-family: sans-serif;
+        line-height: 130%;
+        font-style: italic;
+    }
+
+    p.brief{
+        font-size:2.3vh;
+        font-family: 'Source Sans Pro', sans-serif;
+        line-height: 150%;
+        margin-bottom: 0.3%;
+    }
+
+    div.break{
+        width:60%;
+        margin-top: 5vh;
+        margin-left: 20%;
+        opacity:0.5;
+    }
+
+    p#end{
+        text-align: center;
+        margin-top: -0.5%;
+        color:rgba(100,100,100,1.0);
+        font-size: 1.5vh;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+}
+
+
+
+</style>
+<body>
+<div class="everything">
+    <div class='intro'>
+        <h1>Successful or Not? It's a Question</h1>
+        <h2>—— A brief introduction to coups from 1950 to 2010</h2>
+        <p class='source'><strong>Graphic by | </strong><a href="http://www.zhizhouwang.me">Zhizhou Wang</a> </br>
+        <strong>Source | </strong><a href="http://www.jonathanmpowell.com/coup-detat-dataset.html">Global instances of coups from 1950 to 2010: A new dataset</a></p>
+        <p class='brief'>On 15 July 2016, a coup d'état was attempted in Turkey against the government. After that, coup has been a popular topic among the public as well as media. But what's the definition of coup? How do we define a successful coup?
+        <br>
+        With the data from <a href="http://www.jonathanmpowell.com/coup-detat-dataset.html">Global instances of coups from 1950 to 2010: A new dataset</a>, the graphic below presents all coups from 1950 to 2010. <span class='special'>Hover over the square</span> you would find more details!
+        <br>
+        Bellow is a list of all scholars from the article, who had studies related to coups over years. Click on the <span class='special'>scholar's name</span> to expore more about scholar's theory on. Below the graphic you can see various definition from different scholars about coup as well as the article about it. While inside the graphic, <span class='blue'>blue squares</span> represent the successful coups under the selected scholar's theory, and the <span class='red'>red squares</span> represent the unsuccessful ones, <span class='special'>gray squares </span>indicate that the coup is not included in the scholar's study.
+        <br>
+        It's sorted by <span class="special">year</span>.
+
+        </p>
+
+    </div>
+    <div class="buttons">
+        <button type="button" id='mcgowan'>McGowan</button>
+        <button type="button" id='csp'>Marshall & Marshall</button>
+        <button type="button" id='bs'>Belkin & Shofer</button>
+        <button type="button" id='banks'>Banks</button>
+        <button type="button" id='moreno'>Moreno et al.</button>
+        <button type="button" id='finer'>Finer</button>
+        <button type="button" id='janowitz'>Janowitz</button>
+        <button type="button" id='kennedy'>Kennedy</button>
+        <button type="button" id='ferguson'>Ferguson</button>
+        <button type="button" id='okane'>O’Kane</button>
+        <button type="button" id='thompson'>Thompson</button>
+        <button type="button" id='luttwak'>Luttwak</button>
+        <button type="button" id='lunde'>Lunde</button>
+        <button type="button" id='world_hand'>Taylor and Jodice</button>
+    </div>
+    
+    <div id="viz"></div>
+
+    <div class='content' id='mcgowan'>
+        <h3 class='name'>Patrick J McGowan</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong> 1958 - 2004
+        </br><strong>Source:</strong> <a href="https://www.jstor.org/stable/3876235?seq=7#page_scan_tab_contents">African Military coups d'état, 1956-2001: Frequency, Trends and Distribution</a>
+        </br><strong>Target:</strong> national government
+        </br><strong>Perpetrator:</strong> military, security, and/or police
+        </br> <strong>Tactics:</strong> violence... may be negligible
+        </br> <span class = 'quote'>"For the purposes of this study, the displacements of government personnel or constitutional relationships lasting at least one week have been classified as 'successful coups d'itat'."</span></p>
+    </div>
+
+    <div class='content' id='csp'>
+        <h3 class='name'>Marshall, Monty & Donna Marshall </h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong> 1960 – 2006
+        </br><strong>Source:</strong> <a href="http://www.systemicpeace.org/inscr/CSPCoupsCodebook2015.pdf"> Coup d’e´tat events</a>
+        </br><strong>Target:</strong> executive authority and office
+        </br><strong>Perpetrator:</strong> ruling or political elites
+        </br> <strong>Tactics:</strong> forceful seizure
+        </br> <span class = 'quote'>" In order for a coup to be considered “successful” effective authority must be exercised by new executive for at least one month."</span></p>
+    </div>
+
+    <div class='content' id='bs'>
+        <h3 class='name'>Belkin, Aaron & Evan Schofer</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong> 1945 – 2000
+        </br><strong>Source:</strong> <a href="http://www.systemicpeace.org/inscr/CSPCoupsCodebook2015.pdf"> Journal of Conflict Resolution</a>
+        </br><strong>Target:</strong> regime
+        </br><strong>Perpetrator:</strong> small military coalitions
+        </br> <strong>Tactics:</strong> undefined
+        </br> <span class = 'quote-2'>No specific coup success definition found.</span></p>
+    </div>
+
+    <div class='content' id='banks'>
+        <h3 class='name'>Banks, Arthur</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1946 – 1999
+        </br><strong>Source:</strong> <a href="http://www.cntsdata.com/#!the-data/cvpa"> Cross-National Time-Series Data Archive</a>
+        </br><strong>Target:</strong> top government elite... nation’s power structure
+        </br><strong>Perpetrator:</strong> undefined, includes revolutions
+        </br> <strong>Tactics:</strong> forced changes
+        </br> <span class = 'quote-2'>No specific coup success definition found.</span></p>
+    </div>
+
+    <div class='content' id='moreno'>
+        <h3 class='name'>Moreno, Erika; Michael Lewis-Beck & Jacque Amoureux</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1950 – 2000
+        </br><strong>Source:</strong> <a href="http://citation.allacademic.com/meta/p_mla_apa_research_citation/0/8/3/6/8/p83681_index.html"> Latin rhythms: Coup cycles in theamericas</a>
+        </br><strong>Target:</strong> national government
+        </br><strong>Perpetrator:</strong> military leader; executive him/herself
+        </br> <strong>Tactics:</strong> military force (or threat of)
+        </br> <span class = 'quote'>"An attempted coup is an unsuccessful effort to illegally remove the national government...with coup attempts breeding more coup attempts, regardless of whether or not they are successful"</span></p>
+    </div>
+
+    <div class='content' id='finer'>
+        <h3 class='name'>Finer, Samuel</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1958 – 1974
+        </br><strong>Source:</strong> <a href="https://books.google.com/books?id=4lhgDBDWw3AC"> The Man on Horseback: The Role of the Military in Politics</a>
+        </br><strong>Target:</strong> civilian authorities
+        </br><strong>Perpetrator:</strong> armed forces
+        </br> <strong>Tactics:</strong> sanction (or threat of)
+        </br> <span class = 'quote-2'>No specific coup success definition found.</span></p>
+    </div>
+
+    <div class='content' id='janowitz'>
+        <h3 class='name'>Janowitz, Morris</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1946 – 1975
+        </br><strong>Source:</strong> <a href="https://books.google.com/books?hl=en&lr=&id=Kn7t0qSt1mkC&oi=fnd&pg=PR7&dq=Janowitz,+Morris+(1977)+Military+Institutions+and+Coercion+in+the+Developing+Countries.&ots=PwysQ9WX51&sig=ZQd1cGJxR0bOlKD_-HCuMA4emK8#v=onepage&q&f=false"> Military Institutions and Coercion in the Developing Countries.</a>
+        </br><strong>Target:</strong> existing regime
+        </br><strong>Perpetrator:</strong> organized factions
+        </br> <strong>Tactics:</strong> undefined
+        </br> <span class = 'quote'>"I still maintain that the most successful military regimes - if one can use this term - are, or will be in the long run, those that are able to share political power with or even transform themselves into more civilian-based political institutions."</span></p>
+    </div>
+
+    <div class='content' id='kennedy'>
+        <h3 class='name'>Kennedy, Gavin</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1945 – 1972
+        </br><strong>Source:</strong> <a href="https://books.google.com/books/about/The_military_in_the_third_world.html?id=dQ64AAAAIAAJ"> The Military in the Third World</a>
+        </br><strong>Target:</strong> undefined
+        </br><strong>Perpetrator:</strong> regular armed troops
+        </br> <strong>Tactics:</strong> use or threat of use of armed forces
+        </br> <span class = 'quote-2'>No book access found online.</span></p>
+    </div>
+
+    <div class='content' id='ferguson'>
+        <h3 class='name'>Ferguson, Gregor</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1945 – 1986
+        </br><strong>Source:</strong> <a href="https://books.google.com/books/about/Coup_D_Etat.html?id=j1UvAAAAYAAJ"> Coup d’e´tat: A Practical Manual</a>
+        </br><strong>Target:</strong>  government, establishment
+        </br><strong>Perpetrator:</strong> soldiers, politicians, mercenaries
+        </br> <strong>Tactics:</strong> undefined
+        </br> <span class = 'quote-2'>No book access found online.</span></p>
+    </div>
+
+    <div class='content' id='okane'>
+        <h3 class='name'>O’Kane, Rosemary HT</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1950 – 1985
+        </br><strong>Source:</strong> <a href="https://books.google.com/books/about/The_Likelihood_of_Coups.html?id=lk6FAAAAMAAJ"> The Likelihood of Coups</a>
+        </br><strong>Target:</strong>  government
+        </br><strong>Perpetrator:</strong> civil or military
+        </br> <strong>Tactics:</strong> threat or use of violence
+        </br> <span class = 'quote'>"...considers a coup to be successful if it leads to the ‘installation in power of a government of the conspirators’ own choosing'."</span></p>
+    </div>
+
+    <div class='content' id='thompson'>
+        <h3 class='name'>Thompson, William R</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1946 – 1970
+        </br><strong>Source:</strong> <a href="https://books.google.com/books/about/The_grievances_of_military_coup_makers.html?id=QYAnAQAAMAAJ"> Grievances of Military Coup-Makers</a>
+        </br><strong>Target:</strong> chief executive
+        </br><strong>Perpetrator:</strong> regular armed forces
+        </br> <strong>Tactics:</strong> use or threat of force
+        </br> <span class = 'quote'>"Many scholars have followed Thompson in considering a coup to be successful if the ‘postcoup ruling arrangement’ remains in place for at least a week."</span></p>
+    </div>
+
+    <div class='content' id='luttwak'>
+        <h3 class='name'>Luttwak, Edward</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1945 – 1967
+        </br><strong>Source:</strong> <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674737266"> Coup d’e´tat: A Practical Handbook</a>
+        </br><strong>Target:</strong> government
+        </br><strong>Perpetrator:</strong> segment of the state apparatus
+        </br> <strong>Tactics:</strong> conspiracy
+        </br> <span class = 'quote-2'>No book access found online.</span></p>
+    </div>
+
+    <div class='content' id='lunde'>
+        <h3 class='name'>Lunde, Tormod K</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong>  1955 – 1984
+        </br><strong>Source:</strong> <a href="http://asj.sagepub.com/content/34/1/13.abstract"> Modernization and political instability: Coups d’e´tat in Africa, 1955–1985</a>
+        </br><strong>Target:</strong> regime
+        </br><strong>Perpetrator:</strong> military or security forces
+        </br> <strong>Tactics:</strong> undefined
+        </br> <span class = 'quote-2'>No specific coup success definition found.</span></p>
+    </div>
+
+    <div class='content' id='world_hand'>
+        <h3 class='name'>Taylor, Charles Lewis & David A Jodice</h3>
+        <hr id='divider'></hr>
+        <p class='theory'><strong>Years covered:</strong> 1948 – 1982
+        </br><strong>Source:</strong> <a href="http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7761"> World Handbook of Political and Social Indicators III, 1948–1982. Part 2: Daily Political Events Data.</a>
+        </br><strong>Target:</strong> chief executive
+        </br><strong>Perpetrator:</strong> groups, cliques, cabals, parties and factions
+        </br> <strong>Tactics:</strong> threatened or actual coercion
+        </br> <span class = 'quote-2'>No specific coup success definition found.</span></p>
+    </div>
+
+    <div class='break'>
+        <hr id='divider'></hr>
+        <p id='end'>Copyright &copy; Zhizhou Wang </p>
+    </div>
+
+
+</div>
+
+
+</body> 
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/queue.v1.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script> 
+
+<script type="text/javascript">
+
+    var margin = 20,
+        width = parseInt(d3.select("#viz").style("width")),
+        height = parseInt(d3.select("#viz").style("height")); 
+
+    var rw = width/75,
+        rh = width/75;
+
+    var selected = null;
+
+
+    var svg = d3.select("#viz")
+                        .append("svg")
+                        .attr("width", width)
+                        .attr("height", height)
+                        .append("g");
+                        // .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var tooltip = d3.select("body")
+                            .append("div")
+                            .attr("class", "tooltip");
+
+    
+
+        function mouseoverFunc(d){
+                d3.select(this)
+                        .transition()
+                        .duration(300)
+                        .style("opacity", 0.3);
+                // console.log(d);
+                ver = null;
+                if (d.verified == ""){
+                    ver = "no"
+                }else{
+                    ver = 'yes'
+                }
+                duration = null
+                if (d.month >= 0 && d.day >= 0){
+                    duration = d.month+" months " + d.day + " days"
+                }else{
+                    duration = "unknown"
+                }
+                return tooltip
+                    .style("display",null)
+                    .html("<p>Country: "+d.country + "</br>Year: " + d.year + "</br>verified: " + ver + "</br>source: " + d.source + "</br>duration: " + duration + "</p>")
+            }
+
+        function mousemoveFunc(d){
+                return tooltip
+                    .style("top",(d3.event.pageY - 10) + "px")
+                    .style("left",(d3.event.pageX + 10) + "px");
+            }
+
+        function mouseoutFunc(d){
+                d3.select(this)
+                        .transition()
+                        .duration(300)
+                        .style("opacity", 0.6);
+                return tooltip
+                    .style("display","none");
+            }
+
+
+        function onclick(){
+            selected = this.id
+            console.log(selected)
+            rect
+                .transition()
+                .attr("fill",function(d,i){
+                    // console.log(d.values[0]['mcgowan'])
+                    if (d[selected] == 1.0){
+                        return "red"
+                    } else if(d[selected] == 2.0){
+                        return "steelblue"
+                    } else{
+                        // console.log(d.values[0][selected])
+                        return "lightgray"
+                    }
+                })
+                .attr("opacity",function(d){
+                    if (d[selected] == 1.0){
+                        return 0.6
+                    } else if(d[selected] == "2.0"){
+                        return 0.6
+                    } else{
+                        // console.log(d.values[0][selected])
+                        return 0.6
+                    }
+                })
+            d3.selectAll('.showing').classed('content',true);
+            d3.selectAll('.content').classed('showing',false);
+            // d3.select("div#"+selected).attr('display','inline !important')
+            d3.select("div#"+selected).classed('content',false).classed('showing',true)
+
+            d3.selectAll('button').classed('checked',false);
+            d3.select(this).classed('checked',true)
+
+        }// end of onclick
+
+        d3.selectAll("button").on("click",onclick)
+
+        function resize() {
+            width = parseInt(d3.select("#viz").style("width")) - margin,
+            height = parseInt(d3.select("#viz").style("height")) - margin;
+
+            rw = width/75,
+            rh = width/75;
+
+            svg
+                .attr("width", width)
+                .attr("height", height)
+
+            rect
+                .transition()
+                .attr('x',function(d,i){
+                    return (i%70) * (rw+1)
+                })
+                .attr("y",function(d,i){
+                    return parseInt(i/70)*(rw+2)
+                })
+                    .attr("width", rw)
+                    .attr("height", rh)
+                    .attr("class","square")
+                    .attr('id',function(d,i){
+                        return i;
+                    })
+
+                    .attr("opacity",0.6)
+                         
+        } // end of resize
+
+        d3.select(window).on('resize', resize); 
+
+        d3.select("span#year").classed("notspan",false).classed('selectspan',true)
+
+        span_selected = 'year';
+
+        d3.select("span#year").on("click",function(d){
+            span_selected="year";
+            d3.select("span#country").classed('selectspan',false).classed('notspan',true)
+            d3.select("span#year").classed("notspan",false).classed('selectspan',true)
+        })
+
+        d3.select("span#country").on("click",function(d){
+            span_selected="country";
+            d3.select("span#year").classed('selectspan',false).classed('notspan',true)
+            d3.select("span#country").classed("notspan",false).classed('selectspan',true)
+        })
+
+        function get_data(data){
+            if (span_selected == "year"){
+                var mydata = data.sort( function(a, b) { return parseInt(a.year) - parseInt(b.year)})
+                return mydata
+            } else if(span_selected == "country"){
+                var mydata = data.sort( function(a, b) { return a.country- b.country})
+                return mydata
+            }
+        }
+
+        function display(error,mydata){
+            if(error){
+                console.log(error);
+            }else{
+                dataset = get_data(mydata);
+                console.log(dataset);
+
+            rect = svg.selectAll("rect")
+                .data(dataset)
+                .enter()
+                .append("rect")
+
+            resize()
+
+            rect
+                .on("mouseover", mouseoverFunc)
+                .on("mousemove", mousemoveFunc) 
+                .on("mouseout", mouseoutFunc);
+
+            rect
+                .attr("fill",'lightgray')
+            }
+        }
+
+        queue()
+            .defer(d3.csv,"withid2.csv")
+            .await(display)
+
+
+
+
+
+    
+
+
+</script>
+</html>
+
+
+
+
+
+
+
+
+
