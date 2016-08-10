@@ -8,4 +8,4 @@ author: Mercy Emelike
 
 ---
 
-![CitiBike_Map](../playfair-projects/projects/mercy-emelike/citibike/CitiBike_Map_Simple_edit.png)
+![CitiBike_Map](CitiBike_Map_Simple_edit.png)
