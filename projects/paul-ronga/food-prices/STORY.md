@@ -6,6 +6,6 @@ summary: Food inflation force Nigerians to devote half their expenses to food. P
 
 Asia is the continent where there is the biggest disparities. Singapore and Qatar are the eastern countries where people devote the least of their spendings on food (7 and 12% respectively), while the population of Khazakstan and Azerbaidjan spends about four times this share of their expanditures: 43 and 44% respectively.
 
-![ads](https://github.com/palrogg/playfair-projects/raw/master/projects/paul-ronga/food-prices/Food_prices_continents_edit.png)
+![ads](Food_prices_continents_edit.png)
 
-![sdkljf](https://github.com/palrogg/playfair-projects/raw/master/projects/paul-ronga/food-prices/barh_edit_bold.png)
+![sdkljf](barh_edit_bold.png)
