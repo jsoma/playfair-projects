@@ -6,8 +6,7 @@ complaining about how long and how much their French colleagues talk in
 parliament. And what about women in parliament. How much are they talking?"
 ---
 
-![Graph](GRAPHIC_lots_of_colors.png)
-![Graph](GRAPHIC_lots_of_colors.png)
+![Graph](GRAPHIC_final.png)
 
 It's not the French doing all the talking, but the Italian Swiss. At least
 when it comes to average speeking time. Swiss parliamentary services publishes
