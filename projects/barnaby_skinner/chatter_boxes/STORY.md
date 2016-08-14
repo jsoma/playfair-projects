@@ -1,15 +1,15 @@
 ---
-title: "Big Pharma Hand Swiss Hospitals 54 Million Swiss Francs - Just Like That"
+title: "Swiss Parliament Chitter Chatter"
 
-summary: "Medical professionals receiving donations from pharmaceutical companies
-has been a conflicting issue for a long time. For the first time this summer 57
-pharmaceutical companies published the figures. So, also for the first time,
-this analysis shows which hospitals gets the most cash from big pharma."
+summary: "This spring German speaking, mostly right wing politicians were
+complaining about how long and how much their French colleagues talk in
+parliament. And what about women in parliament. How much are they talking?"
 ---
 
-![Graph](Hospitals_ENG_NEW.png)
+![Graph](GRAPHIC_final.png)
 
-It seem the Berner Inselspital takes the most cash. However, they received
-the cash from far more pharamceutical companies, whereas Basel Hospital are
-very much focussed on Novartis, who showers them with donations and
-travel and accomodations compensations. 
+It's not the French doing all the talking, but the Italian Swiss. At least
+when it comes to average speeking time. Swiss parliamentary services publishes
+1000 page PDFs of the debates in Parliament after every session. I've taken
+all the PDFs of 2016, created a dictionary and established who talks the longest.
+Then do the same for cantons, women, men, political parties, etc.
