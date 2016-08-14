@@ -1,0 +1,375 @@
+INDEX,GEMEINDEN,KANTON
+1,Aarau,AG
+2,Baden,AG
+3,Barmelweid,AG
+4,Berikon,AG
+5,Bremgarten,AG
+6,Brugg,AG
+7,Büren a.d. Aare,AG
+8,Dättwil,AG
+9,Dättwil (AG),AG
+10,Döttingen,AG
+11,Fahrwangen,AG
+12,Lenzburg,AG
+13,Leuggern,AG
+14,Menziken,AG
+15,Mühlethal,AG
+16,Muri (AG),AG
+17,Oberentfelden,AG
+18,Rheinfelden,AG
+19,Schinznach-Bad,AG
+20,Strengelbach,AG
+21,Widen,AG
+22,Windisch,AG
+23,Würenlos,AG
+24,Zofingen,AG
+25,Bühler,AR
+26,Herisau,AR
+27,Wolfhalden,AR
+28,Aarberg,BE
+29,Bätterkinden,BE
+30,Belp,BE
+31,Bern,BE
+32,Bern-Liebefeld,BE
+33,Biel/Bienne,BE
+34,Bremgarten b. Bern,BE
+35,Burgdorf,BE
+36,Corcelles,BE
+37,Gümligen,BE
+38,Heiligenschwendi,BE
+39,Hinterkappelen,BE
+40,Hünibach,BE
+41,Interlaken,BE
+42,Ittigen,BE
+43,Jegenstorf,BE
+44,Langenthal,BE
+45,Langnau,BE
+46,Langnau im Emmental,BE
+47,Lenk im Simmental,BE
+48,Liebefeld,BE
+49,Moutier,BE
+50,Münsingen,BE
+51,Neuenegg,BE
+52,Oberdiessbach,BE
+53,Ostermundigen,BE
+54,Port,BE
+55,Riggisberg,BE
+56,Spiez,BE
+57,St-Imier,BE
+58,Thun,BE
+59,Trubschachen,BE
+60,Tschugg,BE
+61,Uettligen,BE
+62,Wilderswil,BE
+63,Worb,BE
+64,Worb b. Bern,BE
+65,Zollikofen,BE
+66,Zweisimmen,BE
+67,Allschwil,BL
+68,Ariesheim,BL
+69,Biel,BL
+70,Binningen,BL
+71,Birsfelden,BL
+72,Blauen,BL
+73,Bottmingen,BL
+74,Läufelfingen,BL
+75,Liestal,BL
+76,Münchenstein,BL
+77,Reinach (BL),BL
+78,Sissach,BL
+79,Basel,BS
+80,Bettingen,BS
+81,Bruderholz,BS
+82,Bourguillon,FR
+83,Cugy,FR
+84,Domdidier,FR
+85,Düdingen,FR
+86,Ecublens,FR
+87,Estavayer-le-Lac,FR
+88,Farvagny,FR
+89,Fribourg,FR
+90,Le Mouret,FR
+91,Marly,FR
+92,Marsens,FR
+93,Oberriet,FR
+94,Riaz,FR
+95,Tafers,FR
+96,Villars-sur-Glâne,FR
+97,Carouge,GE
+98,Carouge GE,GE
+99,Chêne-Bougeries,GE
+100,Chêne-Bourg,GE
+101,Genève,GE
+102,Le Lignon,GE
+103,Meyrin,GE
+104,Onex,GE
+105,Petit-Lancy,GE
+106,Plan-Les-Ouates,GE
+107,Thônex,GE
+108,Vernier,GE
+109,Glarus,GL
+110,Weesen,GL
+111,Arosa,GR
+112,Chur,GR
+113,Davos Platz,GR
+114,Ilanz,GR
+115,Samedan,GR
+116,Scuol,GR
+117,Silvaplana,GR
+118,St. Moritz,GR
+119,Vella,GR
+120,Delémont,JU
+121,Le Noirmont,JU
+122,Porrentruy,JU
+123,Saignelégier,JU
+124,Aesch,LU
+125,Büron,LU
+126,Emmenbrücke,LU
+127,Entlebuch,LU
+128,Hochdorf,LU
+129,Kriens,LU
+130,Luzern,LU
+131,Luzerner Kantonsspital,LU
+132,Meggen,LU
+133,Nottwil,LU
+134,Oberkirch (LU),LU
+135,Sempach,LU
+136,St. Urban,LU
+137,Sursee,LU
+138,Wolhusen,LU
+139,Corcelles (NE),NE
+140,Couvet,NE
+141,Fontaines,NE
+142,La Chaux-de-Fonds,NE
+143,Les Brenets,NE
+144,Neuchâtel,NE
+145,Peseux,NE
+146,Nidwalden,NW
+147,Oberdorf,NW
+148,Stans,NW
+149,Stansstad,NW
+150,Altstätten,SG
+151,Altstätten (SG),SG
+152,Bad Ragaz,SG
+153,Bronschhofen,SG
+154,Buchs (SG),SG
+155,Diepoldsau,SG
+156,Eggersriet,SG
+157,Flums,SG
+158,Ganterschwil,SG
+159,Goldach,SG
+160,Gossau (SG),SG
+161,Grabs,SG
+162,Heerbrugg,SG
+163,Jona,SG
+164,Kirchberg (SG),SG
+165,Lichtensteig,SG
+166,Mels,SG
+167,Mil SG,SG
+168,Pfäfers,SG
+169,Rapperswil-Jona,SG
+170,Rebstein,SG
+171,Rorschach,SG
+172,Sargans,SG
+173,Schmerikon,SG
+174,St. Gallen,SG
+175,Steinach,SG
+176,Trübbach,SG
+177,Uznach,SG
+178,Uzwil,SG
+179,Valens,SG
+180,Walenstadt,SG
+181,Wattwil,SG
+182,Wil (SG),SG
+183,Schaffhausen,SH
+184,Bibenst,SO
+185,Dornach,SO
+186,Egerkingen,SO
+187,Küttigkofen,SO
+188,Lostorf,SO
+189,Nennigkofen,SO
+190,Oensingen,SO
+191,Oiten,SO
+192,Olten,SO
+193,Schönenwerd,SO
+194,Solothurn,SO
+195,Zuchwil,SO
+196,Egg,SZ
+197,Freienbach,SZ
+198,Lachen,SZ
+199,Lachen (SZ),SZ
+200,Pfäffikon (SZ),SZ
+201,Schwyz,SZ
+202,Ittingen,TG
+203,Amriswil,TG
+204,Eschenz,TG
+205,Frauenfeld,TG
+206,Güttingen,TG
+207,Kreuzlingen,TG
+208,Münsterlingen,TG
+209,Steckborn,TG
+210,Weinfelden,TG
+211,Zihlschlacht,TG
+212,Agno,TI
+213,Arbedo,TI
+214,Ascona,TI
+215,Barbengo,TI
+216,Bedano,TI
+217,Bellinzona,TI
+218,Breganzona,TI
+219,Cadro,TI
+220,Chiasso,TI
+221,Coldrerio,TI
+222,Dongio,TI
+223,Giubiasco,TI
+224,Intragna,TI
+225,Locamo,TI
+226,Locarno,TI
+227,Lugano,TI
+228,Lugano-Paradiso,TI
+229,Manno,TI
+230,Mendrisio,TI
+231,Mezzovico,TI
+232,Montagnola,TI
+233,Orselina,TI
+234,Paradiso,TI
+235,Pazzallo,TI
+236,Pregassona,TI
+237,Riva S. Vitale,TI
+238,Solduno,TI
+239,Sorengo,TI
+240,Tesserete,TI
+241,Vacallo,TI
+242,Vernate,TI
+243,Viganello,TI
+244,Viganello - Lugano,TI
+245,(blank),unbekannt
+246,Altdorf,UR
+247,Erstfeld,UR
+248,Blonay,VD
+249,Chamblon,VD
+250,Château-d'Oex,VD
+251,Cheseaux,VD
+252,Cheseaux-sur-Lausanne,VD
+253,Concise,VD
+254,Cully,VD
+255,Etoy,VD
+256,Genolier,VD
+257,Gland,VD
+258,Grandvaux,VD
+259,Lausanne,VD
+260,Lavigny,VD
+261,Le Mont sur Lausanne,VD
+262,Lutry,VD
+263,Montreux,VD
+264,Morges,VD
+265,Morrens,VD
+266,Moudon,VD
+267,Nyon,VD
+268,Paudex,VD
+269,Payerne,VD
+270,Prangins,VD
+271,Prilly,VD
+272,Prilly-Lausanne,VD
+273,Pully,VD
+274,Renens (VD),VD
+275,Ste-Croix,VD
+276,Vevey,VD
+277,Yverdon,VD
+278,Yverdon-les-Bains,VD
+279,Ravoire,VS
+280,Brig,VS
+281,Conthey,VS
+282,Corin-de-la-Crête,VS
+283,Crans-Montana,VS
+284,Martigny,VS
+285,Montana,VS
+286,Monthey,VS
+287,Naters,VS
+288,Saillon,VS
+289,Sierre,VS
+290,Sion,VS
+291,Vais,VS
+292,Visp,VS
+293,Baar,ZG
+294,Cham,ZG
+295,Neuägeri,ZG
+296,Neuheim,ZG
+297,Oberwil bei Zug,ZG
+298,Rotkreuz,ZG
+299,Steinhausen,ZG
+300,Unterägeri,ZG
+301,Zug,ZG
+302,Ellikon an der Thur,ZH
+303,Meilen,ZH
+304,Oetwil am See,ZH
+305,Adliswil,ZH
+306,Bassersdorf,ZH
+307,Bülach,ZH
+308,Dietikon,ZH
+309,Dübendorf,ZH
+310,Embrach,ZH
+311,Fehraltorf,ZH
+312,Glattbrugg,ZH
+313,Gossau,ZH
+314,Greifensee,ZH
+315,Hettlingen,ZH
+316,Horgen,ZH
+317,Kilchberg,ZH
+318,Kilchberg (ZH),ZH
+319,Kleinandelfingen,ZH
+320,Lindau,ZH
+321,Männedorf,ZH
+322,Richterswil,ZH
+323,Rickenbach,ZH
+324,Schlieren,ZH
+325,Urdorf,ZH
+326,Uster,ZH
+327,Wadenswil,ZH
+328,Wald,ZH
+329,Wallisellen,ZH
+330,Wetzikon,ZH
+331,Wetzikon (ZH),ZH
+332,Winterthur,ZH
+333,Zollikerberg,ZH
+334,Zollikon,ZH
+335,Zuerich,ZH
+336,Zünch,ZH
+337,Zürich,ZH
+338,Baden-Dättwil,AG
+339,Bretigny sur Morrens,VD
+340,Bueron,LU
+341,Cadra,TI
+342,Crans,unbekannt
+343,Domat Ems,GR
+344,Epaliges,VD
+345,Eschen,unbekannt
+346,Fuerigen,NW
+347,Hensau,AR
+348,Klosters,GR
+349,Küsnacht (ZH),ZH
+350,llanz,GR
+351,Mägden,AG
+352,Marin-Epagnier,NE
+353,Meynn,unbekannt
+354,Mezzovico-Vira,TI
+355,Murallo,TI
+356,Obemet,SH
+357,Pambio-Noranco,TI
+358,Payeme,VD
+359,Riva San Vitale,TI
+360,"Rossenges,",VD
+361,Roveredo (GR),GR
+362,Saint-Légier-La Chiésaz,VD
+363,Sainte-Croix,VD
+364,Samen,TG
+365,Schaan,SG
+366,Schatthausen,SH
+367,Schmenkon,SG
+368,Solothum,SO
+369,St-lmier,JU
+370,St. Maurice,VS
+371,St.-Legier,VD
+372,Uettlingen,AG
+373,Urtenen-Schönbühl,BE
+374,Wangen-Brüttisellen,ZH
