@@ -1,8 +1,7 @@
 ---
   title: "Political prisoners in Venezuela "
   summary: "In this two-chart story I explore the topic of justice in Venezuela, getting into a timeline of political arrests and the perceptions of Venezuelans on their judicial system."
-  authors:
-    -Mercy Benzaquen
+  authors: "Mercy Benzaquen"
 ---
 
 The first chart gives information on the number of political prisoners per year since the year 2002. It also provides background information to help the reader understand the increase in political arrests.
