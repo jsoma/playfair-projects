@@ -1,0 +1,527 @@
+PERIOD,COMPANY,INSTITUTION,INSTITUTIONS_CLUSTERED,CITY,COUNTRY,ADDRESS,ADDRESS CLUSTERED,DONATIONS AND GRANTS,SPONSORSHIPS,REGISTRATION FEES,TRAVEL AND ACCOMMODATION,FEES,OTHER EXPENSES AND CONSULTANCY,TOTAL
+2015,A. Menarini AG,CHUV Centre Hospitalier Uni Vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon21,Rue du Bugnon 21,,6704,204,1689,811,,9408
+2015,A. Menarini AG,Fondation pour la recherche de la Cardiologie Universitaire de Genève (Fondation Gecor),"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabnelle-Perret-Gentil 4,Rue Gabnelle-Perret-Gentil 4,,5750,,,,,5750
+2015,A. Menarini AG,Genatnsche Klinik St. Gallen AG,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 94,Rorschacher Strasse 94,,4000,,,,,4000
+2015,A. Menarini AG,HUG Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabnelle-Perret-Gentil 4,Rue Gabnelle-Perret-Gentil 4,,4000,,,,,4000
+2015,A. Menarini AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,4000,626,533,,,5159
+2015,A. Menarini AG,Kantonsspital St Gallen Klinik für Kardiologie,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,4630,,,,,,4630
+2015,A. Menarini AG,Luzemer Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,4000,,,,,4000
+2015,A. Menarini AG,Luzemer Kantonsspital Herzzentnjm Luzem,Kantonsspital Luzern,Luzern,CH,,,,5000,,,,,5000
+2015,A. Menarini AG,Universitäres Zentrum für Hausarztmedein beider Basel Kantonsspital Baselland,Universitätsspital Basel,Basel,CH,Rheinstrasse 26,Rheinstrasse 26,,8830,,,,,8830
+2015,A. Menarini AG,Unrversität Zunch,Universitätsspital Zürich,Zürich,CH,Dermatologische Klinik (USZ),Dermatologische Klinik (USZ),,500,,,,,500
+2015,A. Menarini AG,Unrversrtat Zurich Institut fur Epidemiologie. Biostatistik. Prävention AMIS Plus Data Center,Universitätsspital Zürich,Zürich,CH,Hirschengraben 84,Hirschengraben 84,5000,,,,,,5000
+2015,A. Menarini AG,Unrversrtatsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21/Petersgraben 4,Spitalstrasse 21/Petersgraben 4,,,,,1800,,1800
+2015,A. Menarini AG,Unrversrtatsspital Basel  Medizinische Poliklinik,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,4000,,,,,4000
+2015,A. Menarini AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,3540,1500,,,,,5040
+2015,AbbVie AG,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,17600,,163,17395,,,35158
+2015,AbbVie AG,Coagulation Latine,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,926,,,,,,926
+2015,AbbVie AG,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,15000,29600,1116,1461,400,,47577
+2015,AbbVie AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,3150,46600,179,495,29100,,79524
+2015,AbbVie AG,JFSPH M. Bertrand Hirschi et M. Pascal Bonnabry,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,1500,,,,,,1500
+2015,AbbVie AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,12000,53500,714,1406,926,,68546
+2015,AbbVie AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,5506,19278,,,,,24784
+2015,AbbVie AG,Onkozentrum Luzern,Kantonsspital Luzern,Luzern,CH,St. Annastrasse 32,St. Annastrasse 32,500,,,,,,500
+2015,AbbVie AG,Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,13000,,,,,,13000
+2015,AbbVie AG,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 150,Rorschacher Strasse 150,3000,,,,,,3000
+2015,AbbVie AG,Swiss Association of Obstetric Anästhesia SAOA,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,1500,,,,,,1500
+2015,AbbVie AG,Swiss Experts in Viral Hepatitis,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4,Freiburgstrasse 4,60000,,,,,,60000
+2015,AbbVie AG,Universität Basel,Universitätsspital Basel,Basel,CH,Petersplatz 1,Petersplatz 1,2000,,,,,,2000
+2015,AbbVie AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,42400,15000,,5457,,,62857
+2015,AbbVie AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,34000,9000,,,,,43000
+2015,AbbVie AG,Université de Lausanne,Universitätsspital Lausanne (CHUV),Lausanne,CH,Unicentre,Unicentre,1000,,,,,,1000
+2015,Allergan AG,Inselspital Bern,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4,Freiburgstrasse 4,,10000,,,,,10000
+2015,Allergan AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,750,,,,,750
+2015,Allergan AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,1500,,,,,1500
+2015,Almirall AG ,Inselspital - Poliklinik für Dermatologie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,6000,,,,,6000
+2015,Almirall AG ,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstras se 95,Rorschacherstras se 95,,3580,,,,,3580
+2015,Almirall AG ,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,4000,,,,,4000
+2015,Almirall AG ,Universitätsspit al Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,,8500,,,,,8500
+2015,Almirall AG ,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,6405.56,,,3087.5,989.59,10482.65
+2015,Almirall AG ,UniversitätsSpit al Zürich - Klinik für Gastroenterologi e,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100 Universitätsspit al Zürich,Rämistrasse 100 Universitätsspit al Zürich,,30000,,,,,30000
+2015,Amgen Switzerland AG,CENTRES INTERDISCI PLINAIRES CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,RUE DU BUGNON 21,Rue du Bugnon 21,,17435.19,,,8840,,26275.19
+2015,Amgen Switzerland AG,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,RUE DU BUGNON 21,Rue du Bugnon 21,,6203.7,358.72,220.92,2325,,9108.34
+2015,Amgen Switzerland AG,FRAUENKLI NIK,Universitätsspital Basel,Basel,CH,SPITALSTRASSE 21,Spitalstrasse 21,,2000,,,3930,,5930
+2015,Amgen Switzerland AG,HÔPITAUX UNIVERSITA IRES GENÈVE,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,43000,1176.37,3846.81,6850,,54873.18
+2015,Amgen Switzerland AG,INSELSPITA L,Universitätsspital Bern (Insel),Bern,CH,FREIBURGSTRASSE 18,Freiburgstrasse 18,12000,22351.85,622.26,1656.53,1800,,38430.64
+2015,Amgen Switzerland AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,RORSCHACHERSTR ASSE 95,RORSCHACHERSTR ASSE 95,8000,8277.77,,,125,,16402.77
+2015,Amgen Switzerland AG,LUZERNER KANTONSSP ITAL,Kantonsspital Luzern,Luzern,CH,SPITALSTRASSE,SPITALSTRASSE,1500,1400,3281.59,8005.4,,,14186.99
+2015,Amgen Switzerland AG,POLICLINIQ UE MÉDICALE UNIVERSIT.,Universitätsspital Lausanne (CHUV),Lausanne,CH,RUE DU BUGNON 44,Rue du Bugnon 44,,,,,500,,500
+2015,Amgen Switzerland AG,SCE DES MALADIES OSSEUSES,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,5000,,,,,,5000
+2015,Amgen Switzerland AG,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,RORSCHACHER STRASSE 150,Rorschacher Strasse 150,,4500,,,,,4500
+2015,Amgen Switzerland AG,Universität Basel,Universitätsspital Basel,Basel,CH,PETERSPLATZ 1,Petersplatz 1,42200,6000,,,10500,70.4,58770.4
+2015,Amgen Switzerland AG,UNIVERSITÄTSKLINIK,Universitätsspital Bern (Insel),Bern,CH,FREIBURGSTRASSE 18,Freiburgstrasse 18,2000,,,,,,2000
+2015,Amgen Switzerland AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,SPITALSTRASSE 21,Spitalstrasse 21,,16500,1117,1244.8,3850,,22711.8
+2015,Amgen Switzerland AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,1500,68779.63,1037.67,1615.85,4125,,77058.15
+2015,Astellas Pharma AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,"Inselspital, Freiburgstrasse 18","Inselspital, Freiburgstrasse 18",12'000.0,6500,1169,2555-03-01 00:00:00,7254-06-01 00:00:00,0,29478.8
+2015,Astellas Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95","Kantonsspital St. Gallen, Rorschacherstrasse 95",4'000.0,8888-09-01 00:00:00,1902.4,3007-02-01 00:00:00,6777-08-01 00:00:00,0,24576.2
+2015,Astellas Pharma AG,"Luzerner Kantonsspital, Klinik für Onkologie",Kantonsspital Luzern,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse","Luzerner Kantonsspital, Spitalstrasse",0,800,0,0,0,0,800
+2015,Astellas Pharma AG,"Universitätsspital Basel, Klinik für Infektiologie & Spitalhygiene",Universitätsspital Basel,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21","Universitätsspital Basel, Spitalstrasse 21",0,3500,0,0,0,0,3500
+2015,Astellas Pharma AG,"Universitätsspital Basel, Klinik für Onkologie",Universitätsspital Basel,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21","Universitätsspital Basel, Spitalstrasse 21",0,2000,0,0,1500,0,3500
+2015,Astellas Pharma AG,"Universitätsspital Basel, Medizinische Poliklinik",Universitätsspital Basel,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21","Universitätsspital Basel, Spitalstrasse 21",0,2500,0,0,0,0,2500
+2015,Astellas Pharma AG,"Universitätsspital Basel, Klinik für Strahlentherapie & Radioonkologie",Universitätsspital Basel,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21","Universitätsspital Basel, Spitalstrasse 21",0,2600,0,0,0,0,2600
+2015,Astellas Pharma AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",Rämistrasse 100,40000,22250,5664.9,16669.6,0,0,84584.5
+2015,AstraZeneca AG,Universitätsspital Basel Medizin Kardiologie,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031 Basel",Petersgraben 4,17500,21000,,,2300,,40800
+2015,AstraZeneca AG,Universitätsspital Basel Gynécologie Clinique,Universitätsspital Basel,Basel,CH,"Spitalstrasse 21, 4031 Basel",Spitalstrasse 21,1000,2600,,,,,3600
+2015,AstraZeneca AG,Universitätsspital Basel Lungenzentrum,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031 Basel",Petersgraben 4,1000,,,,,,1000
+2015,AstraZeneca AG,Inselspital Bern Méd.Cardiologie,Universitätsspital Bern (Insel),Bern,CH,"Freiburgstrasse 18, 3010 Bern",Freiburgstrasse 18,9000,6720,,,2800,88,18608
+2015,AstraZeneca AG,Inselspital Bern Medizin Pneumologie,Universitätsspital Bern (Insel),Bern,CH,"Freiburgstrasse 18, 3010 Bern",Freiburgstrasse 18,13000,,,,,,13000
+2015,AstraZeneca AG,Insel Gruppe AG,Universitätsspital Bern (Insel),Bern,CH,"Freiburgstrasse, 3010 Bern",Freiburgstrasse,3000,,,,,,3000
+2015,AstraZeneca AG,Hôpitaux universit. de Genève Médecine Oncologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205 Genève",Rue Gabrielle-Perret-Gentil 4,,9000,,,,,9000
+2015,AstraZeneca AG,Hôpitaux universit. de Genève Méd.Allergologie/Immunologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205 Genève",Rue Gabrielle-Perret-Gentil 4,,2000,,,,,2000
+2015,AstraZeneca AG,Hôpitaux universit. de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205 Genève",Rue Gabrielle-Perret-Gentil 4,,6000,,,,,6000
+2015,AstraZeneca AG,COALAT,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011 Lausanne",Rue du Bugnon 46,2000,,,,,,2000
+2015,AstraZeneca AG,CHUV Méd.Cardiologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011 Lausanne",Rue du Bugnon 46,5555.55,30000,,,3500,,39055.55
+2015,AstraZeneca AG,CHUV Méd.Néphrologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 17, 1011 Lausanne","Rue du Bugnon 17, 1011 Lausanne",,,,,1600,,1600
+2015,AstraZeneca AG,Luzerner Kantonsspital Luzern Kinderklinik,Kantonsspital Luzern,Luzern,CH,"Spitalstrasse, 6004 Luzern",Spitalstrasse 31,1000,,,,,,1000
+2015,AstraZeneca AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,"Spitalstrasse, 6004 Luzern",Spitalstrasse 31,,5000,,,10000,,15000
+2015,AstraZeneca AG,Kantonsspital St.Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 95, 9007 St. Gallen",Rorschacher Strasse 95,3000,2000,,,2500,,7500
+2015,AstraZeneca AG,Kantonsspital St.Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 95, 9007 St. Gallen",Rorschacher Strasse 95,,7000,,,,,7000
+2015,AstraZeneca AG,Kantonsspital St.Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 95, 9007 St. Gallen",Rorschacher Strasse 95,,26000,,,,,26000
+2015,AstraZeneca AG,Universitätsspital Zürich Hausarztmedizin,Universitätsspital Zürich,Zürich,CH,"Pestalozzistrasse 24, 8091 Zürich","Pestalozzistrasse 24, 8091 Zürich",600,,,,,,600
+2015,AstraZeneca AG,Universitätsspital Zürich Psychiatrische Klinik,Universitätsspital Zürich,Zürich,CH,"Rämistrasse 100, 8091 Zürich",Rämistrasse 100,,2000,,,,,2000
+2015,Baxalta Schweiz AG,Universitätsspital,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031 Basel",Petersgraben 4,800,1000,584.78,1741.52,1000,,5127
+2015,Baxalta Schweiz AG,Universitätsspital,Universitätsspital Bern (Insel),Bern,CH,"Inselspital, 3010 Bern","Inselspital, 3010 Bern",7000,8550,614,3735.13,1000,,20899.13
+2015,Baxalta Schweiz AG,Hôpitaux Universitaires,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205 Genève",Rue Gabrielle-Perret-Gentil 4,,3500,1181.24,2750.68,,,7431.92
+2015,Baxalta Schweiz AG,Centre Hospitalier Universitaire Vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011 Lausanne",Rue du Bugnon 46,,,1242.15,4951.15,,,6193.3
+2015,Baxalta Schweiz AG,Kantonsspital,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacherstrasse 95, 9007 St.Gallen","Rorschacherstrasse 95, 9007 St.Gallen",,1000,376.88,342.62,,,1719.5
+2015,Baxalta Schweiz AG,Universitätsspital,Universitätsspital Zürich,Zürich,CH,"Rämistrasse 100, 8091 Zürich",Rämistrasse 100,18000,12839,154.8,1197.9,1000,,33191.7
+2015,Baxalta Schweiz AG,Universitäts-Kinderspital,Universitätsspital Zürich,Zürich,CH,"Steinwiesstrasse 75, 8032 Zürich",Steinwiesstrasse 75,,,1054.49,3703.99,1000,1394,7152.48
+2015,Baxalta Schweiz AG,Hôpitaux Universitaires,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205 Genève",Rue Gabrielle-Perret-Gentil 4,1000,,,,,,1000
+2015,Baxter AG,Universitäts-Kinderspital beider Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 33,Spitalstrasse 33,10000,4000,0,0,0,0,14000
+2015,Baxter AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,85000,12650,36.98,3501.03,0,0,101188.01
+2015,Baxter AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,,,24000,19000,0,0,0,0,43000
+2015,Baxter AG,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,25493.56,16000,0,922.16,4022.93,2208,48646.65
+2015,Baxter AG,Kantonsspital Luzern,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,0,1400,0,0,0,0,1400
+2015,Baxter AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,Rorschacher Strasse 95,0,7677.77,0,0,0,0,7677.77
+2015,Baxter AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Gloriastrasse 31,Gloriastrasse 31,6500,14000,351.1,804.55,0,0,21655.65
+2015,Bayer (Schweiz) AG,CHUV Lausanne,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,0,143283.7,0,0,11250,0,154533.7
+2015,Bayer (Schweiz) AG,COALAT,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,0,3000,0,0,0,0,3000
+2015,Bayer (Schweiz) AG,GECOR,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,0,7500,0,0,4500,0,12000
+2015,Bayer (Schweiz) AG,Hôpitaux Universitaires Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,0,92557.63,0,0,6732.87,0,99290.5
+2015,Bayer (Schweiz) AG,Inselspital Stiftung,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4,Freiburgstrasse 4,0,338201.95,55.2,0,20170.09,800.53,359227
+2015,Bayer (Schweiz) AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse  95,Rorschacherstrasse 95,0,61796.28,0,0,5960.64,0,67756.92
+2015,Bayer (Schweiz) AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstr. 16,Spitalstr. 16,0,58500,0,0,10625,1405.8,70530.8
+2015,Bayer (Schweiz) AG,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 150,Rorschacher Strasse 150,0,12300,30,0,0,0,12330
+2015,Bayer (Schweiz) AG,Universität Basel,Universitätsspital Basel,Basel,CH,Petersplatz 1,Petersplatz 1,0,0,0,0,3184.58,0,3184.58
+2015,Bayer (Schweiz) AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,0,283365.93,0,0,0,0,283365.93
+2015,BGP Products GmbH,Association for Research in Surgery (ARS),Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,1000,,,,,1000
+2015,BGP Products GmbH,Centre Hôpital Universitaire Vaudois (CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,4320,,,,,4320
+2015,BGP Products GmbH,Hôpital Universitaire de Genève HUG,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,5524,,,,,5524
+2015,BGP Products GmbH,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Chêne-Bourg,CH,Ch. Du Petit-Bel-Air 2,Ch. Du Petit-Bel-Air 2,,4000,,,,,4000
+2015,BGP Products GmbH,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,5000,,,,,5000
+2015,BGP Products GmbH,Pharmacie du CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,2000,,,,,2000
+2015,BGP Products GmbH,Stiftung für Forschung in der Gastroenterologie und Hepatologie,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,5000,,,,,5000
+2015,BGP Products GmbH,"Universitäts-Kinderspital, vertreten durch Wurms + Partner",Universitätsspital Basel,Basel,CH,Spitalstrasse 33,Spitalstrasse 33,,1518,,,,,1518
+2015,Biogen Switzerland AG,CHUV Lausanne,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,50000,10574,,,3000,1036.62,64610.62
+2015,Biogen Switzerland AG,Hôpitaux universit. de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,40000,,,,,,40000
+2015,Biogen Switzerland AG,Inselspital - Universitätsspital Bern,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4,Freiburgstrasse 4,,15750,,91.7,32695.43,800.19,49337.32
+2015,Biogen Switzerland AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,Rorschacher Strasse 95,,3000,,,,,3000
+2015,Biogen Switzerland AG,Luzerner Kantonsspital Luzern,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 16,Spitalstrasse 16,,1172.59,,,3425.93,,4598.52
+2015,Biogen Switzerland AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 26,Spitalstrasse 26,,5000,,67,22357.01,7800.18,35224.19
+2015,Biogen Switzerland AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,572.67,,,3840,,4412.67
+2015,Biogen Switzerland AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 71,Rämistrasse 71,,67200,,,,,67200
+2015,Biotest (Schweiz AG),HUG Hôpitaux Universitaires,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,0,3500,0,0,0,0,3500
+2015,Biotest (Schweiz AG),Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,5000,0,0,0,0,0,5000
+2015,Biotest (Schweiz AG),Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,0,5000,0,0,0,0,5000
+2015,Biotest (Schweiz AG),Universität Zürich Neurologie,Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse 26,Frauenklinikstrasse 26,0,500,0,0,0,0,500
+2015,Biotest (Schweiz AG),UniSpital PID-Klinik Immunology,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,0,1500,0,0,0,0,1500
+2015,Biotest (Schweiz AG),Inselspital Bern Immunologie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 8,Freiburgstrasse 8,0,4000,0,0,0,0,4000
+2015,Biotest (Schweiz AG),Inselspital Bern Viszerale Chirurgie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 9,Freiburgstrasse 9,0,3000,0,0,0,0,3000
+2015,Biotest (Schweiz AG),Inselspital Bern Neurologie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 10,Freiburgstrasse 10,0,30200,0,0,0,0,30200
+2015,Biotest (Schweiz AG),ICI Study Group Uni-Kinderspital,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,0,10000,0,0,0,0,10000
+2015,Boehringer Ingelheim (Schweiz) GmbH,Inselspital-Stiftung Stiftungen und Fonds,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18 3010Bern,Freiburgstrasse 18,0,0,0,0,3700,0,3700
+2015,Boehringer Ingelheim (Schweiz) GmbH,Kantonsspital St Gallen MedizinOnkologie,Kantonsspital St. Gallen,St. Gallen,CH,Ronschacher Strasse 95 9007St. Gallen,Ronschacher Strasse 95 9007St. Gallen,0,0,0,0,1200,0,1200
+2015,Boehringer Ingelheim (Schweiz) GmbH,Luzemer Kantonsspital Luzem,Kantonsspital Luzern,Luzern,CH,Spttalstrasse 6004Luzem,Spttalstrasse 6004Luzem,0,0,0,0,7250,0,7250
+2015,Boehringer Ingelheim (Schweiz) GmbH,Universlätsspltal Basel Medizin Onkoloqie,Universitätsspital Basel,Basel,CH,Petersgraben 4 4031Basel,Petersgraben 4 4031Basel,0,0,2470,0,0,0,2470
+2015,Boehringer Ingelheim (Schweiz) GmbH,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100 8091Zünch,Rämistrasse 100 8091Zünch,30000,0,0,0,0,0,30000
+2015,Bristol-Myers Squibb GmbH,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,38250,0,0,4801,348,43399
+2015,Bristol-Myers Squibb GmbH,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,41810,0,0,7851,53,49714
+2015,Celgene GmbH,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,0,5000,5660,2782,14513,178,28133
+2015,Celgene GmbH,"FOROME, Formation Romande en Oncology Medicale",Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,5000,0,0,0,0,0,5000
+2015,Celgene GmbH,Hôpitaux Universitaires Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,0,3000,0,0,2500,54,5554
+2015,Celgene GmbH,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4,Freiburgstrasse 4,0,16250,3000,0,4950,0,24200
+2015,Celgene GmbH,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,0,0,15179,8816,1250,0,25245
+2015,Celgene GmbH,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,0,3000,1705,3990,1000,0,9695
+2015,Celgene GmbH,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 150,Rorschacher Strasse 150,0,9884,2345,0,0,0,12229
+2015,Celgene GmbH,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,0,15000,3989,0,5750,0,24739
+2015,Celgene GmbH,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Winterthurerstrasse 190,Winterthurerstrasse 190,0,2000,32000,0,0,0,34000
+2015,Celgene GmbH,Université de Lausanne,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 27,Rue du Bugnon 27,0,0,0,0,0,0,0
+2015,CSL Behring AG,Centre Hospitalier Universitaire Vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,,18560,,,,,18560
+2015,CSL Behring AG,Coagulation Latine (COALAT),Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,,30000,,,,,30000
+2015,CSL Behring AG,"Hôpitaux universitaires de Genève (HUG), Service d'immunologie et d'allergologie","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,15000,,,,,15000
+2015,CSL Behring AG,"Hôpitaux Universitaires de Genève (HUG), le service de dermatologie et le service d'immunologie et d'allergologie","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,2500,,,,,2500
+2015,CSL Behring AG,"Hôpitaux Universitaires de Genève (HUG), Unité d'hémostase","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,1500,,,,,1500
+2015,CSL Behring AG,"Hôpitaux Universitaires de Genève (HUG), Service d'anesthésiologie","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,1700,,,,,1700
+2015,CSL Behring AG,"Inselspital, Universitätsklinik für Neurologie",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,,8400,,,,,8400
+2015,CSL Behring AG,"Inselspital, Universitätsklinik für Anästhesie",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,,5000,,,,,5000
+2015,CSL Behring AG,"Inselspital, Universitätsklinik für Dermatologie",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,,5000,,,,,5000
+2015,CSL Behring AG,"Inselspital, Department of Visceral & Transplant Surgery",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,,12000,,,,,12000
+2015,CSL Behring AG,"Inselspital, Universitätsklinik für Hämatologie & Hämatologisches Zentrallabor",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,30000,,,,2400,,32400
+2015,CSL Behring AG,"Inselspital, Universitätsklinik für Rheumatologie, Immunologie & Allergologie (RIA)",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,,5000,,,,,5000
+2015,CSL Behring AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,8000,,,,,8000
+2015,CSL Behring AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,,,,185185,,185185
+2015,CSL Behring AG,"Hôpitaux Universitaires de Genève, Hemato-Oncology Unit","Universitätsspital Genf
+(HCUGE)",Genève,CH,"4, rue Gabrielle-Perret-Gentil",Rue Gabrielle-Perret-Gentil 4,,,,,1500,,1500
+2015,CSL Behring AG,SAOA - Swiss Association of Obstetric Anaesthesia,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,,3500,,,,,3500
+2015,CSL Behring AG,"Universitätsspital Basel, Klinik Innere Medizin",Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,10000,,,,,10000
+2015,CSL Behring AG,"Universitätsspital Basel, Frauenklinik",Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,,4000,,,,,4000
+2015,CSL Behring AG,"Universitätsspital Basel, Neurologie",Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,2000,,,,,2000
+2015,CSL Behring AG,"Universitätsspital Basel, Abteilung Pharmakologie",Universitätsspital Basel,Basel,CH,Hebelstrasse 2,Hebelstrasse 2,5000,,,,,,5000
+2015,CSL Behring AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,3500,,,,,3500
+2015,CSL Behring AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,5000,,,,,5000
+2015,CSL Behring AG,Association FoROMe,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 44,Rue du Bugnon 44,,5000,,,,,5000
+2015,CSL Behring AG,"Policlinique Médicale Universitaire, Pharmacie",Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 44,Rue du Bugnon 44,,,,,1650,,1650
+2015,CSL Behring AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,4700,,,,,4700
+2015,CSL Behring AG,Inselspital Universitätsklinik für Intensivmedizin,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrassse,Freiburgstrasse,,1500,,,,,1500
+2015,Daiichi Sankyo (Schweiz) AG,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,,15500,2931,89,30,,18550
+2015,Daiichi Sankyo (Schweiz) AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 15,Freiburgstrasse 15,,34500,,750,1200,,36450
+2015,Daiichi Sankyo (Schweiz) AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,90,,,,,90
+2015,Daiichi Sankyo (Schweiz) AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,800,670,,,1500,,2970
+2015,Eisai Pharma AG,CHU VAUDOIS,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,4104,,,2646,,6750
+2015,Eisai Pharma AG,CHUV- HOSPICES,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,,,,2580,,2580
+2015,Eisai Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,Rorschacher Strasse 95,,,,,750,,750
+2015,Eisai Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,1080,,,,,1080
+2015,Eisai Pharma AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Medizinische Neurologie,Medizinische Neurologie,,,,,,863,863
+2015,Eisai Pharma AG,Universität Zuerich,Universitätsspital Zürich,Zürich,CH,,,,1080,,,,,1080
+2015,Eli Lilly (Suisse) SA,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,,5000,,,18025,,23025
+2015,Eli Lilly (Suisse) SA,Hôpitaux Universitaires Genève - Dép. de médecine communautaire,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,6000,,,,,6000
+2015,Eli Lilly (Suisse) SA,Hôpitaux Universitaires Genève - Sce des maladies osseuses,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,3000,,,,,3000
+2015,Eli Lilly (Suisse) SA,Hôpitaux Universitaires Genève - Sce durologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,,1500,,,,,1500
+2015,Eli Lilly (Suisse) SA,Inselspital - Poliklinik für Dermatologie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,3500,,,,,3500
+2015,Eli Lilly (Suisse) SA,Klinik und Poliklinik für Kardiologie,Universitätsspital Bern (Insel),Bern,CH,"Inselspital, Freiburgstrasse 4",Freiburgstrasse 4,,8000,,,,,8000
+2015,Eli Lilly (Suisse) SA,Luzerner Kantonsspital - Endokrinologie/Di abetologie,Kantonsspital Luzern,Luzern,CH,"Kantonsspital Luzern, Spitalstrasse","Kantonsspital Luzern, Spitalstrasse",,2000,,,,,2000
+2015,Eli Lilly (Suisse) SA,Luzerner Kantonsspital,Kantonsspital Luzern,Wolhusen,CH,Spitalstrasse 31,Spitalstrasse 31,,2000,,,,,2000
+2015,Eli Lilly (Suisse) SA,Service de Psychiatrie de Liaison-CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 44,Rue du Bugnon 44,,1389,,,,,1389
+2015,Eli Lilly (Suisse) SA,Universitätsspital Basel - Institut für Pathologie,Universitätsspital Basel,Basel,CH,"Medizinische Fakultät, Schönbeinstrass e 40","Medizinische Fakultät, Schönbeinstrass e 40",,1000,,,,,1000
+2015,Eli Lilly (Suisse) SA,Universitätsspital Basel - Kardiologie,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,5000,,,,,5000
+2015,Eli Lilly (Suisse) SA,Universitätsspital Basel - Traumatologie / Unfallchirurgie,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,,10000,,,,,10000
+2015,Eli Lilly (Suisse) SA,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,2000,,,,,2000
+2015,Eli Lilly (Suisse) SA,UniversitätsSpital Zürich - Klinik für Psychiatrie,Universitätsspital Zürich,Zürich,CH,Culmannstrasse 8,Culmannstrasse 8,,3000,,,,,3000
+2015,Eli Lilly (Suisse) SA,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,1000,,,,,1000
+2015,Eli Lilly (Suisse) SA,UniversitätsSpital Zürich - Klinik für Urologie,Universitätsspital Zürich,Zürich,CH,Frauenklinikstras se 10,Frauenklinikstras se 10,,3000,,,,,3000
+2015,Eli Lilly (Suisse) SA,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,2500,,,,,2500
+2015,Eli Lilly (Suisse) SA,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,2500,,,,,2500
+2015,Ferring AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,4000,,,,,4000
+2015,Ferring AG,Inselspital-Stiftung,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,25000,6156,618,141,,2852,34766
+2015,Ferring AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Hebelstrasse 36,Hebelstrasse 36,12000,,,,,1852,13852
+2015,Ferring AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,2500,,,,,2500
+2015,Ferring AG,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Chêne-Bourg,CH,Ch. du PetitBelAir 2,Ch. Du Petit-Bel-Air 2,,6300,,,,,6300
+2015,Ferring AG,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,2000,,,,1000,3000
+2015,Ferring AG,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 150,Rorschacher Strasse 150,,2778,,,,,2778
+2015,Ferring AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse 10,Frauenklinikstrasse 10,10000,,,,,,10000
+2015,Galderma Schweiz AG,"University Hospital Zurich, Department of Dermatology",Universitätsspital Zürich,Zürich,CH,Gloriastrasse 31,Gloriastrasse 31,10677,0,459,754,0,347,12237
+2015,GILEAD Sciences Switzerland Sàrl,Inselspital - Swiss Experts in Viral Hepatitis,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4 Inselspital,Freiburgstrasse 4,0,60000,0,0,0,0,60000
+2015,GILEAD Sciences Switzerland Sàrl,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,13500,25920,6618.39,14675.84,7639.86,925.78,69279.87
+2015,GILEAD Sciences Switzerland Sàrl,Universitätsspital Basel - Klinik für Infektiologie,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,0,0,500,1000,0,0,1500
+2015,GlaxoSmithKline AG,Centre Hospitalier Universitaire Vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,13000,27333.94,0,0,2900,0,43233.94
+2015,GlaxoSmithKline AG,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,36000,43869.45,0,0,0,0,79869.45
+2015,GlaxoSmithKline AG,Insel Gruppe AG,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,17040,37451.4,0,0,6835.87,0,61327.27
+2015,GlaxoSmithKline AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,Rorschacher Strasse 95,24840,34477.05,0,0,5060,1636.08,66013.13
+2015,GlaxoSmithKline AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,0,4662.13,0,0,0,0,4662.13
+2015,GlaxoSmithKline AG,Policlinique Médicale Universitaire,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 44,Rue du Bugnon 44,0,20488.15,0,0,0,0,20488.15
+2015,GlaxoSmithKline AG,Universitäres Kinderspital Zürich,Universitätsspital Zürich,Zürich,CH,Steinwiesstrasse 75,Steinwiesstrasse 75,2000,540,0,0,0,0,2540
+2015,GlaxoSmithKline AG,Universität Basel Finanzen & Controlling / Drittmittelverwaltung,Universitätsspital Basel,Basel,CH,Petersgraben 35,Petersgraben 35,0,6000,0,0,0,0,6000
+2015,GlaxoSmithKline AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,0,29051.8,0,0,0,0,29051.8
+2015,GlaxoSmithKline AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Schmelzbergstrasse 26,Schmelzbergstrasse 26,0,25694.8,0,0,0,0,25694.8
+2015,GlaxoSmithKline AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,(no postal address),(no postal address),51200,6541.71,0,0,0,0,57741.71
+2015,Grünenthal Pharma AG,Hôpitaux Universitaires Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,0,3000,0,0,0,0,3000
+2015,Grünenthal Pharma AG,Inselspital-Stiftung,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,0,3400,0,0,0,0,3400
+2015,Grünenthal Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,0,3000,0,0,0,0,3000
+2015,Grünenthal Pharma AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,0,2500,0,0,0,0,2500
+2015,Grünenthal Pharma AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,0,2000,0,0,0,0,2000
+2015,Janssen-Cilag AG,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,2000,38700,0,0,5346,0,46046
+2015,Janssen-Cilag AG,Hôpitaux Universitaires Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,21490,44000,0,0,0,0,65490
+2015,Janssen-Cilag AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,0,23815,0,0,7118,0,30933
+2015,Janssen-Cilag AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,600,25629,0,0,1650,0,27879
+2015,Janssen-Cilag AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,0,1400,0,0,650,0,2050
+2015,Janssen-Cilag AG,Luzerner Psychiatrie,Kantonsspital Luzern,Luzern,CH,Areal Kantonsspital 11,Areal Kantonsspital 11,0,3000,0,0,0,0,3000
+2015,Janssen-Cilag AG,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 150,Rorschacherstrasse 150,0,16844,0,0,0,0,16844
+2015,Janssen-Cilag AG,Universität Basel,Universitätsspital Basel,Basel,CH,Petersplatz 1,Petersplatz 1,47000,8000,0,0,0,0,55000
+2015,Janssen-Cilag AG,Universität Bern,Universitätsspital Bern (Insel),Bern,CH,Hochschulstrasse 4,Hochschulstrasse 4,50000,0,0,0,0,0,50000
+2015,Janssen-Cilag AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,26800,20000,0,0,520,0,47320
+2015,Janssen-Cilag AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,38000,46425,0,0,286,0,84711
+2015,Lundbeck,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,0,4240,0,0,0,0,4240
+2015,Lundbeck,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue de Lausanne 67,Rue de Lausanne 67,0,4268,0,0,0,0,4268
+2015,Lundbeck,Kantonsspital St. Gallen Klinik für Psychosomatik,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,0,1620,0,0,0,0,1620
+2015,Lundbeck,Luzerner Psychiatrie Klinik St. Urban,Kantonsspital Luzern,Luzern,CH,Areal Kantonsspital 11,Areal Kantonsspital 11,0,1500,0,0,0,0,1500
+2015,Lundbeck,Luzerner Psychiatrie Psychiatrisches Ambulatorium A,Kantonsspital Luzern,Luzern,CH,Löwengraben 20,Löwengraben 20,0,464,0,0,0,0,464
+2015,Lundbeck,Universitäre Psychiatrische Kliniken Basel (UPK),Universitätsspital Basel,Basel,CH,Wilhelm Klein-Strasse 27,Wilhelm Kleinstrasse 27,0,3185,0,0,0,0,3185
+2015,Lundbeck,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Hebelstrasse 2,Hebelstrasse 2,0,1620,0,0,0,0,1620
+2015,Lundbeck,Universitätsspital Zürich / Klinik für Psychiatrie und Psychotherapie,Universitätsspital Zürich,Zürich,CH,Culmannstrasse 8,Culmannstrasse 8,0,3500,0,0,0,0,3500
+2015,Lundbeck,Universitätsvermögen,Universitätsspital Basel,Basel,CH,Petersgraben 35,Petersgraben 35,0,6000,0,0,0,0,6000
+2015,Mepha Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,,,,1500,,,1500,,1500
+2015,Mepha Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,,,,4000,,,4000,,4000
+2015,Mepha Pharma AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,,,,2000,,,2000,,2000
+2015,Mepha Pharma AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,,,,300,,,300,,300
+2015,Merck (Schweiz) AG,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,109000,13900,2773.6,7843.11,6500,0,140016.71
+2015,Merck (Schweiz) AG,HUG Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,30000,12000,344.96,652.91,1500,0,44497.87
+2015,Merck (Schweiz) AG,Inselspital (Endokr/Diab),Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,40000,4000,0,0,0,0,44000
+2015,Merck (Schweiz) AG,"Inselspital,  Insel-Gruppe AG",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,90000,46400,84.39,481.18,5175,0,142140.57
+2015,Merck (Schweiz) AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstr. 95,Rorschacherstr. 95,20000,12371.85,344.96,681.43,1900,0,35298.24
+2015,Merck (Schweiz) AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,18500,12066.1,0,0,625,0,31191.1
+2015,Merck (Schweiz) AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,0,1000,0,0,0,0,1000
+2015,Merck (Schweiz) AG,St.Gallen Oncology Conferences (SONK),Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Str. 150,Rorschacher Str. 150,0,4772.25,0,0,0,0,4772.25
+2015,Merck (Schweiz) AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Gloriastrasse 31,Gloriastrasse 31,0,2000,0,0,0,0,2000
+2015,Merck (Schweiz) AG,Universität Zürich / USZ Neurologie,Universitätsspital Zürich,Zürich,CH,Frauenklinikstr. 26,Frauenklinikstr. 26,75000,0,0,0,0,0,75000
+2015,Merck (Schweiz) AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,2000,16100,699.23,2581.86,800,0,22181.09
+2015,Merck (Schweiz) AG,Universitätsspital Basel / HNO,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,0,2000,0,0,0,0,2000
+2015,Merck (Schweiz) AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse,Frauenklinikstrasse,0,19153.45,0,0,0,0,19153.45
+2015,Merck (Schweiz) AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistr. 100,Rämistr. 100,0,11200,330.4,3240.26,1375,0,16145.66
+2015,Merck (Schweiz) AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Gloriastrasse 31,Gloriastrasse 31,0,1000,0,0,0,0,1000
+2015,MSD Merck Sharp & Dohme AG,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,10000,70329.25,4398.38,12609.38,66237.8,106.3,163681.11
+2015,MSD Merck Sharp & Dohme AG,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret -Gentil 4,Rue Gabrielle-Perret -Gentil 4,,,59.98,227.01,,,286.99
+2015,MSD Merck Sharp & Dohme AG,Kantonsspital St. Gallen [H_K014],Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,Rorschacher Strasse 95,,45962.94,3545.9,21030.2,2596.29,,73135.33
+2015,MSD Merck Sharp & Dohme AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,,506.55,949.6,,,1456.15
+2015,MSD Merck Sharp & Dohme AG,Luzerner Kantonsspital Luzern [Z_0199149],Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,28100,,,,,28100
+2015,MSD Merck Sharp & Dohme AG,Policlinique Médicale Universitaire,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 44,Rue du Bugnon 44,,3000,,,3500,,6500
+2015,MSD Merck Sharp & Dohme AG,Stiftung für klinische Forschung c/o Universitätsspital,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,6000,,,,,6000
+2015,MSD Merck Sharp & Dohme AG,Stiftung SONK St.Gallen Oncology Conferences,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 150,Rorschacher Strasse 150,,4400,,,,,4400
+2015,MSD Merck Sharp & Dohme AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,43150,3256.05,8830.85,18000,,73236.9
+2015,MSD Merck Sharp & Dohme AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,45000,27703.7,,970.95,3000,,76674.65
+2015,Mundipharma Medical Company,Universitätsspital,Universitätsspital Bern (Insel),Basel,CH,,,,16700,,,,,16700
+2015,Mundipharma Medical Company,Inselspital,Universitätsspital Bern (Insel),Bern,CH,,,,36543,,,,,36543
+2015,Mundipharma Medical Company,Kantonsspital,Kantonsspital St. Gallen,St. Gallen,CH,,,,169888,,,,,169888
+2015,Mundipharma Medical Company,Universität,Universitätsspital Zürich,Zürich,CH,,,,44000,,,,,44000
+2015,Mundipharma Medical Company,Kantonsspital,Kantonsspital Luzern,Luzern,CH,,,,4000,,,,,4000
+2015,Mundipharma Medical Company,Universitätsspital,Universitätsspital Bern (Insel),Zürich,CH,,,,11450,,,,,11450
+2015,Mundipharma Medical Company,Universitätsspital,Universitätsspital Bern (Insel),Basel,CH,,,,15000,,,,,15000
+2015,Mundipharma Medical Company,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,,,,972,,,,,972
+2015,Neurim Pharmaceuticals AG,University Hospital Zurich,Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse 26,Frauenklinikstrasse 26,4000,,,,,,4000
+2015,Neurim Pharmaceuticals AG,University Hospital Berne,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 8,Freiburgstrasse 8,3000,,,,,,3000
+2015,Novartis Pharma Schweiz AG,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,29851.85,93457.08,9417.93,22295.85,38092.27,442.87,193557.85
+2015,Novartis Pharma Schweiz AG,"Geriatrische Klinik St, Gallen AG",Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 94,Rorschacher Strasse 94,,1500,,,,,1500
+2015,Novartis Pharma Schweiz AG,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret -Gentil 4,Rue Gabrielle-Perret -Gentil 4,45000,102550,5786.61,11775.42,9800,601.75,175513.78
+2015,Novartis Pharma Schweiz AG,"Inselspital Bern, Insel-Gruppe AG",Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,38783,119998,6476.66,14392.88,57875.13,1215.42,238741.09
+2015,Novartis Pharma Schweiz AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,Rorschacher Strasse 95,27499.99,27055.54,3572-08-01 00:00:00,4525.39,17609.26,,80262.98
+2015,Novartis Pharma Schweiz AG,Luzerner Kantonsspital Luzern,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,44505.92,15000,1864,3193.52,16100,,80663.44
+2015,Novartis Pharma Schweiz AG,Stiftung für klinische Forschung c/o Universitätsspit al,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,20000,,2000,,,22000
+2015,Novartis Pharma Schweiz AG,Universität Basel,Universitätsspital Basel,Basel,CH,Petersplatz l,Petersplatz l,265841,15000,1200,,85796,,367837
+2015,Novartis Pharma Schweiz AG,Universität Bern,Universitätsspital Bern (Insel),Bern,CH,HochschuIstrasse 4,HochschuIstrasse 4,,,,,1000,,1000
+2015,Novartis Pharma Schweiz AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,winterthurerstra sse 190,winterthurerstra sse 190,78600,199814.96,11050,262.01,24993.49,,314720.46
+2015,Novartis Pharma Schweiz AG,Universitäts-Kinderspital (UKBB),Kantonsspital Luzern,Basel,CH,Spitalstrasse 31,Spitalstrasse 31,1000,,,,,,1000
+2015,Novartis Pharma Schweiz AG,Universitätsspit al Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,58100,208127.15,6660.78,13504.41,71976.73,4216.31,362585.38
+2015,Novartis Pharma Schweiz AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,40000,20551.85,9856.28,12734.19,3032.51,285.68,86460.51
+2015,Novo Nordisk Pharma AG,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,13580,179,,712,1900,16371
+2015,Novo Nordisk Pharma AG,HUG Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,50000,11000,497,,1610,,63107
+2015,Novo Nordisk Pharma AG,Inselspital Bern,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse,Freiburgstrasse,95000,10780,438,,1546,7006,114770
+2015,Novo Nordisk Pharma AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,6731,221,,536,6389,13877
+2015,Novo Nordisk Pharma AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,100000,10320,,,,301,110621
+2015,Orion Pharma AG,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,,8000,,,,,8000
+2015,Orion Pharma AG,HUG Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,4850,,,,,4850
+2015,Orion Pharma AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,3010 Bern,3010 Bern,,5620,,,,,5620
+2015,Orion Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstr. 95,Rorschacherstr. 95,,10950,,,,,10950
+2015,Orion Pharma AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstr.,Spitalstr.,,1000,,,,,1000
+2015,Orion Pharma AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstr. 21,Spitalstr. 21,,6600,,,,,6600
+2015,Orion Pharma AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistr. 100,Rämistr. 100,,8400,,,,,8400
+2015,OTSUKA ,Centrale d'appel Lausanne,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,10000,3472.23,0,0,2046.3,0,15518.53
+2015,OTSUKA ,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil 4,Rue Gabrielle Perret-Gentil 4,0,1000,0,0,1625,0,2625
+2015,OTSUKA ,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,0,2300,0,0,0,0,2300
+2015,OTSUKA ,UZH Physiologisches Institut,Universitätsspital Zürich,Zürich,CH,Winterthurserstr asse 190,Winterthurserstr asse 190,0,0,0,0,0,832.67,832.67
+2015,PFIZER,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,0,23524,0,0,14714,0,38238
+2015,PFIZER,Endokrinologie und Diabetologie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,15000,0,0,0,0,0,15000
+2015,PFIZER,Fondation GECOR,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,0,3000,0,0,1400,0,4400
+2015,PFIZER,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 36,Freiburgstrasse 36,0,21534,0,0,5400,0,26934
+2015,PFIZER,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,2160,24460,1441,4978,19142,0,52181
+2015,PFIZER,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,0,5932,592,609,1400,0,8533
+2015,PFIZER,PMU Policlinique Médicale,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 44,Rue du Bugnon 44,0,4320,0,0,0,0,4320
+2015,PFIZER,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 150,Rorschacherstrasse 150,0,8832,0,0,0,0,8832
+2015,PFIZER,Universitäres Zentrum für  Hausarztmedizin beider Basel  uniham-bb,Universitätsspital Basel,Liestal,CH,Rheinstrasse 26,Rheinstrasse 26,0,13000,0,0,0,0,13000
+2015,PFIZER,Universität Basel,Universitätsspital Basel,Basel,CH,Petersplatz 1,Petersplatz 1,0,6000,0,0,0,0,6000
+2015,PFIZER,Universität Bern,Universitätsspital Bern (Insel),Bern,CH,Gesellschaftsstrasse 6,Gesellschaftsstrasse 6,0,1080,0,0,0,0,1080
+2015,PFIZER,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,0,35280,0,0,7912,3000,46192
+2015,PFIZER,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,0,32540,0,0,1500,0,34040
+2015,PIERRE FABRE PHARMA AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,,,,7000,,,,,7000
+2015,PIERRE FABRE PHARMA AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,,,,5000,,,,,5000
+2015,PIERRE FABRE PHARMA AG,"Fonds Nicolas Pechère, Prof. Pechère-Bertschi Antoinette","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,1500,,,,,1500
+2015,PIERRE FABRE PHARMA AG,"Service des Maladies Osseuse, HUG","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,1000,,,,,1000
+2015,PIERRE FABRE PHARMA AG,HUG,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,7000,,,,,7000
+2015,PIERRE FABRE PHARMA AG,Luzerner Kantonsspital,Kantonsspital Luzern,Sursee,CH,Spitalstrasse 16a,Spitalstrasse 16a,,,105,,,,105
+2015,PIERRE FABRE PHARMA AG,Stiftung SONK: St. Gallen Oncology Conferences und Deutschsprachig-Europäische Schule für Onkologie (deso),Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 150,Rorschacherstrasse 150,,3000,,,,,3000
+2015,PIERRE FABRE PHARMA AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,1000,458.56,1109.34,,,2567.9
+2015,PIERRE FABRE PHARMA AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,2500,260,,,,2760
+2015,PIERRE FABRE (SUISSE) SA,CHUV Centre hospitalier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,,1000,,,,,1000
+2015,PIERRE FABRE (SUISSE) SA,Universtiätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,,3000,,,,,3000
+2015,PIERRE FABRE (SUISSE) SA,HUG Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,700,1000,,,,1700
+2015,PIERRE FABRE (SUISSE) SA,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 101,Rämistrasse 101,,515,5500,,,,6015
+2015,PIERRE FABRE (SUISSE) SA,Inselspital Bern,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 8,Freiburgstrasse 8,,2620,760,,,,3380
+2015,ROCHE,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,0,7400,0,0,10300,0,17700
+2015,ROCHE,CHUV Lausanne Chir.Digestive,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,0,1852,0,0,0,0,1852
+2015,ROCHE,CHUV Lausanne Chir.Neurologique,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,0,0,0,484,2000,0,2484
+2015,ROCHE,CHUV Lausanne Lab. Microbiologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 48, 1011, Lausanne","Rue du Bugnon 48, 1011, Lausanne",0,0,0,0,3500,0,3500
+2015,ROCHE,CHUV Lausanne Méd.Allergologie/Immunologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,0,4630,0,0,0,0,4630
+2015,ROCHE,CHUV Lausanne Méd.Gastroentérologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,0,1852,0,0,0,0,1852
+2015,ROCHE,CHUV Lausanne Méd.Pneumologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,0,8000,0,0,0,0,8000
+2015,ROCHE,CHUV Lausanne Médecine Oncologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,0,50000,0,0,17250,0,67250
+2015,ROCHE,CHUV Lausanne Péd.Chirurgie,Universitätsspital Lausanne (CHUV),Lausanne,CH,"Rue du Bugnon 46, 1011, Lausanne",Rue du Bugnon 46,3000,0,0,0,500,0,3500
+2015,ROCHE,Hôpitaux universit. de Genève Dermatologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,0,3000,0,0,0,0,3000
+2015,ROCHE,Hôpitaux universit. de Genève Génétique médicale,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,0,2000,0,0,0,0,2000
+2015,ROCHE,Hôpitaux universit. de Genève Méd.Allergologie/Immunologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,0,0,0,0,1500,0,1500
+2015,ROCHE,Hôpitaux universit. de Genève Méd.Hématologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,15000,2500,0,0,0,0,17500
+2015,ROCHE,Hôpitaux universit. de Genève Méd.Néphrologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,0,2500,0,0,0,0,2500
+2015,ROCHE,Hôpitaux universit. de Genève Médecine Oncologie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,0,40000,0,0,8300,0,48300
+2015,ROCHE,Hôpitaux universit. de Genève Pharmacie Hôpital,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,10000,0,0,0,0,0,10000
+2015,ROCHE,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,"Rue Gabrielle-Perret-Gentil 4, 1205, Genève",Rue Gabrielle-Perret-Gentil 4,0,7056,0,0,1500,0,8556
+2015,ROCHE,Inselspital Bern Medizin Hämatologie,Universitätsspital Bern (Insel),Bern,CH,"Freiburgstrasse 18, 3010, Bern",Freiburgstrasse 18,0,3750,0,0,0,0,3750
+2015,ROCHE,Inselspital Bern Medizin Pneumologie,Universitätsspital Bern (Insel),Bern,CH,"Freiburgstrasse 18, 3010, Bern",Freiburgstrasse 18,66000,0,406,256,0,0,66661
+2015,ROCHE,Inselspital Bern Rheumatologische Klinik,Universitätsspital Bern (Insel),Bern,CH,"Freiburgstrasse 18, 3010, Bern",Freiburgstrasse 18,0,7870,0,0,0,0,7870
+2015,ROCHE,Inselspital-Stiftung Stiftungen und Fonds,Universitätsspital Bern (Insel),Bern,CH,"Freiburgstrasse 18, 3010, Bern",Freiburgstrasse 18,0,23433,0,0,9500,0,32933
+2015,ROCHE,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 95, 9007, St. Gallen",Rorschacher Strasse 95,10000,59833,0,0,22569,0,92402
+2015,ROCHE,Luzerner Kantonsspital Luzern,Kantonsspital Luzern,Luzern,CH,"Spitalstrasse, 6004, Luzern",Spitalstrasse 31,7000,4889,985,150,4338,0,17362
+2015,ROCHE,Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Universitätsspital Zürich,Zürich,CH,"Rämistrasse 100, 8091, Zürich",Rämistrasse 100,0,2500,0,0,0,0,2500
+2015,ROCHE,Stiftung für klinische Forschung c/o Universitätsspital,Universitätsspital Zürich,Zürich,CH,"Rämistrasse 100, 8091, Zürich",Rämistrasse 100,0,12000,0,0,0,0,12000
+2015,ROCHE,Stiftung SONK St.Gallen Oncology Conferences,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 150, 9000, St. Gallen","Rorschacher Strasse 150, 9000, St. Gallen",0,8400,0,0,0,0,8400
+2015,ROCHE,Tumor- und Brustzentrum ZeTuP,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 150, 9000, St. Gallen","Rorschacher Strasse 150, 9000, St. Gallen",0,0,0,1201,2780,0,3981
+2015,ROCHE,Universität Basel,Universitätsspital Basel,Basel,CH,"Petersplatz 1, 4001, Basel","Petersplatz 1, 4001, Basel",25000,24000,0,0,6767,0,55767
+2015,ROCHE,Universität Zürich,Universitätsspital Zürich,Zürich,CH,"Rämistrasse 71, 8006, Zürich","Rämistrasse 71, 8006, Zürich",0,18962,0,0,2750,0,21712
+2015,ROCHE,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031, Basel",Petersgraben 4,75000,10389,598,2437,21465,0,109890
+2015,ROCHE,Universitätsspital Basel Gynäkologische Klinik,Universitätsspital Basel,Basel,CH,"Spitalstrasse 21, 4031, Basel",Spitalstrasse 21,0,8000,0,0,3300,0,11300
+2015,ROCHE,Universitätsspital Basel Med.Klin.Pharmakologie,Universitätsspital Basel,Basel,CH,"Hebelstrasse 2, 4056, Basel","Hebelstrasse 2, 4056, Basel",0,5000,0,0,1500,0,6500
+2015,ROCHE,Universitätsspital Basel Medizin Hämatologie,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031, Basel",Petersgraben 4,0,9000,0,0,0,0,9000
+2015,ROCHE,Universitätsspital Basel Medizin Onkologie,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031, Basel",Petersgraben 4,13000,6000,0,0,3950,268,23218
+2015,ROCHE,Universitätsspital Basel Medizin Pneumologie,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031, Basel",Petersgraben 4,0,4000,0,0,0,0,4000
+2015,ROCHE,Universitätsspital Basel Rheumatologische Klinik,Universitätsspital Basel,Basel,CH,"Petersgraben 4, 4031, Basel",Petersgraben 4,0,2000,0,0,1463,0,3463
+2015,ROCHE,Universitätsspital Basel Spitalapotheke,Universitätsspital Basel,Basel,CH,"Spitalstrasse 26, 4031, Basel","Spitalstrasse 26, 4031, Basel",0,2000,0,0,0,0,2000
+2015,ROCHE,Universitätsspital Zürich Gynäkologische Klinik,Universitätsspital Zürich,Zürich,CH,"Frauenklinikstrasse 10, 8091, Zürich","Frauenklinikstrasse 10, 8091, Zürich",0,7000,0,0,0,0,7000
+2015,ROCHE,Universitätsspital Zürich Med. Allergie/Immunologie,Universitätsspital Zürich,Zürich,CH,"Häldeliweg 4, 8044, Zürich","Häldeliweg 4, 8044, Zürich",0,1000,0,0,0,0,1000
+2015,ROCHE,Universitätsspital Zürich Pathologie,Universitätsspital Zürich,Zürich,CH,"Schmelzbergstrasse 12, 8091, Zürich","Schmelzbergstrasse 12, 8091, Zürich",0,0,0,0,2000,0,2000
+2015,ROCHE,Universitätsspital Zürich Rheumatologische Klinik,Universitätsspital Zürich,Zürich,CH,"Gloriastrasse 25, 8091, Zürich","Gloriastrasse 25, 8091, Zürich",25000,11111,0,0,0,0,36111
+2015,SANOFI AVENTIS,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,Rorschacher Strasse 95,40000,,,,,,40000
+2015,SANOFI AVENTIS,Universität Zürich Rheumaklinik,Universitätsspital Zürich,Zürich,CH,Gloriastr. 25,Gloriastr. 25,,10000,,,,,10000
+2015,Copie de Servier (Suisse) SA,CHUV - Finances op. - comptabilité,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,,5800,,,,5800
+2015,Copie de Servier (Suisse) SA,Inselspital - Stiftungen und Fonds,Universitätsspital Bern (Insel),Bern,CH,Keine Angabe,Keine Angabe,,,14000,,,,14000
+2015,Copie de Servier (Suisse) SA,Kantonsspital St.Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Departement Finanzen - Rorschacherstrasse 95,Departement Finanzen - Rorschacherstrasse 95,,,3000,,,,3000
+2015,Copie de Servier (Suisse) SA,Schweizerische Arbeitsgruppe f. Kolo-Rekto-Proktologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 46,Rue du Bugnon 46,,,1350,,,,1350
+2015,Copie de Servier (Suisse) SA,Universität Zürich,Universitätsspital Zürich,Zürich,CH,Hnanzabteilung,Hnanzabteilung,,,2000,,,,2000
+2015,Copie de Servier (Suisse) SA,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Hauptbuchhaltung Petersgraben 4,Hauptbuchhaltung Petersgraben 4,,,3000,,,,3000
+2015,Copie de Servier (Suisse) SA,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Hauptbuchhaltung Petersgraben 4,Hauptbuchhaltung Petersgraben 4,,,,,,1000,1000
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,,31023.39,,,600,,31623.39
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire Vaudois -Echocardiographie,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,,,429.76,1235.4,,,1665.16
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire Vaudois-Service d'Hématologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,,,,,700,,700
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire Vaudois - Service de Cardiologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,,,,,500,,500
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire Vaudois - Service de Chirurgie Viscérale,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 46,Rue du Bugnon 46,,7500,,504.82,,,8004.82
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire Vaudois - Service de Gastroenterologie et d'Hépatologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,20000,1500,432.32,5248.47,1600,,28780.79
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire Vaudois - Service de Médecine Interne,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,,3000,,,,,3000
+2015,Takeda Pharma AG,CHUV Centre Hospitalier Universitaire Vaudois - Service de Néphrologie,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 17,Rue du Bugnon 17,,,,,1500,,1500
+2015,Takeda Pharma AG,Hôpitaux Universitaires de Genève,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrieiie Perret-Gentil 4,Rue Gabrieiie Perret-Gentil 4,,29500,,,4841.89,176.57,34518.45
+2015,Takeda Pharma AG,Hôpitaux Universitaires de Genève - Direction,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrieile Perret-Gentil 4,Rue Gabrieile Perret-Gentil 4,,,,,500,,500
+2015,Takeda Pharma AG,Hôpitaux Universitaires de Genève -Département de médecine premier recours,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrieile Perret-Gentil 4,Rue Gabrieile Perret-Gentil 4,,,,,500,,500
+2015,Takeda Pharma AG,"Hôpitaux Universitaires de Genève - Service d'endocrinologie, diabétologie et nutrition","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,,,,2700,,2700
+2015,Takeda Pharma AG,Hôpitaux Universitaires de Genève - Service de Cardioioqie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,,429.76,1492.09,1200,,3121.86
+2015,Takeda Pharma AG,Hôpitaux Universitaires de Genève - Service de Gastro-enlérologie et hépatoiogie,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle-Perret-Gentil 4,Rue Gabrielle-Perret-Gentil 4,,2800,,866.75,,,3666.75
+2015,Takeda Pharma AG,Hôpitaux Universitaires de Genève - Service des maladies,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrieile Perret-Gentil 4,Rue Gabrieile Perret-Gentil 4,,,1201.75,1650,,,2851.75
+2015,Takeda Pharma AG,"Hôpitaux Universitaires de Genève - Unité a"" Hématologie -Oncologie","Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrieile-Perret-Gentil 4,Rue Gabrieile-Perret-Gentil 4,,,666.65,5178.61,,,5845.26
+2015,Takeda Pharma AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,20800,522.6,1289.1,,,22611.7
+2015,Takeda Pharma AG,Inselspital - Klinik für Nephrologie / Hypertonie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasselö,Freiburgstrasse,,2500,,,,,2500
+2015,Takeda Pharma AG,InseIspital - Klinik für Viszerale Chirurgie und Medizin,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4,Freiburgstrasse 4,10800,4500,515.9,925.46,,,16741.36
+2015,Takeda Pharma AG,Inselspital - Klinik und Poliklinik für Gastroenterologie,Universitätsspital Bern (Insel),Bern,CH,Frei bürg Strasse 18,Freiburgstrasse 18,,,214.4,742.65,2150,,3107.50
+2015,Takeda Pharma AG,Inselspital - Klinik und Poliklinik für Kardiologie,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 4,Freiburgstrasse 4,,5700,429.76,1375.12,2200,,9704.89
+2015,Takeda Pharma AG,Inselspital -Universitätsklinik für Allgemeine und Innere Medizin,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,3000,,,,,3000
+2015,Takeda Pharma AG,Inselspital - Arztliche Direktion,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,3240,,,,,3240
+2015,Takeda Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,,780.55,2010.51,,,2791.60
+2015,Takeda Pharma AG,Kantonsspttal St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,29500,985.57,6988.27,1350,,38823.84
+2015,Takeda Pharma AG,Freiamt- Innere Medizin,Kantonsspital Luzern,Muri (AG),CH,Spitalstrasse 31,Spitalstrasse 31,,,,,500,,500
+2015,Takeda Pharma AG,Luzerner Kantonsspital • Gastroenterologie,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,,346.39,1276.13,,,1622.52
+2015,Takeda Pharma AG,Luzerner Kantonsspital -Kardiologie,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,,,,500,,500
+2015,Takeda Pharma AG,Kantonsspital -Medizinische Klinik,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,4000,294.8,487.66,,,4782.46
+2015,Takeda Pharma AG,Kantonsspital - Neue Frauenklinik,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,2400,3000,,,3000,,8400
+2015,Takeda Pharma AG,Luzerner Kantonsspital -Rheumatologie,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,,639.18,571.85,,,1211.03
+2015,Takeda Pharma AG,Luzerner Kantonsspital Wolhusen,Kantonsspital Luzern,Wolhusen,CH,Spitalstrasse 31,Spitalstrasse 31,,700,,,,,700
+2015,Takeda Pharma AG,Luzemer Kantonss pilai Wolhusen -Chirurgie,Kantonsspital Luzern,Wolhusen,CH,Spitalstrasse 31,Spitalstrasse 31,,,519.25,1235.7,,,1754.95
+2015,Takeda Pharma AG,Universitäre Psychiatrische Dienste Bern (UPD) -Klinikambulatorium,Universitätsspital Bern (Insel),Bern,CH,Belügen Strasse 111,Belügen Strasse 111,,,,,1000,,1000
+2015,Takeda Pharma AG,Universität Bern,Universitätsspital Bern (Insel),Nyon,CH,Hochschulstrasse 4,Hochschulstrasse 4,,500,,,,,500
+2015,Takeda Pharma AG,Unive.-sitâtssortai Basel - Gynäkologie und Gynäkologische Onkologie,Universitätsspital Basel,Château-d'Oex,CH,Spitalsirasse 21,Spitalsirasse 21,,,445.89,562.53,,,1008.42
+2015,Takeda Pharma AG,Universitatssprtal Basel -innere Medizin,Universitätsspital Basel,Sion,CH,Petersgraben 4,Petersgraben 4,,,,1360.15,4200,,5560.15
+2015,Takeda Pharma AG,Universitätsspitai Basel - Institut für Pathologie,Universitätsspital Basel,Basel,CH,Schönbein Strasse 40,Schönbein Strasse 40,,,,,3300,,3300
+2015,Takeda Pharma AG,Universitätsspila! Basel - Kardiologie,Universitätsspital Basel,Basel,CH,Peters graben 4,Peters graben 4,,10800,,,1500,,12300
+2015,Takeda Pharma AG,Universitätsspital Basel - Klinik für Medizinische Onkoloqie,Universitätsspital Basel,Neuchâtel,CH,Petersgraben 4,Petersgraben 4,40000,,,,4756,,44756
+2015,Takeda Pharma AG,Universitätsspilal Basel - Medizinische Poliklinik,Universitätsspital Basel,Neuchâtel,CH,Petersgraben 4,Petersgraben 4,,,,,500,,500
+2015,Takeda Pharma AG,Universitätsspital Basel - Pneumologie,Universitätsspital Basel,Neuchâtel,CH,Petersgraben 4,Petersgraben 4,,2000,,,,,2000
+2015,Takeda Pharma AG,Universitätsspital Basel- visze'alchi-uroie,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,,12500,780.55,1416.58,,,14697.13
+2015,Teva Pharma AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,"Universität Zürich, Zürcher Zentrum für interdisziplinäre Schlafforschung / ZIS, Frauenklinikstrasse 26, 8091 Zürich","Universität Zürich, Zürcher Zentrum für interdisziplinäre Schlafforschung / ZIS, Frauenklinikstrasse 26, 8091 Zürich",,8000,,,,,8000
+2015,Teva Pharma AG,Luzerner Kantonsspital Luzern,Kantonsspital Luzern,Luzern,CH,"Luzerner Kantonsspital Luzern, Zentrum für Neurologie und Neurorehabilitation, MS-Zentrum, Spitalstrasse, 6000 Luzern","Luzerner Kantonsspital Luzern, Zentrum für Neurologie und Neurorehabilitation, MS-Zentrum, Spitalstrasse, 6000 Luzern",1000,,,,,,1000
+2015,Teva Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Str. 95, 9007 St. Gallen","Rorschacher Str. 95, 9007 St. Gallen",,10000,,,,,10000
+2015,Teva Pharma AG,"Universitätsspital Zürich, Kompetenzzentrum Palliative Care",Universitätsspital Zürich,Zürich,CH,"Rämisstrasse 100, 8091 Zürich","Rämisstrasse 100, 8091 Zürich",,1000,,,,,1000
+2015,Teva Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95, 9007 St. Gallen","Kantonsspital St. Gallen, Rorschacherstrasse 95, 9007 St. Gallen",,2000,,,,,2000
+2015,Teva Pharma AG,Tumorzentrum Ze TuP,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Str. 150, 9006 St. Gallen","Rorschacher Str. 150, 9006 St. Gallen",,3000,,,,,3000
+2015,Teva Pharma AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,"Spitalstrasse, 6004 Luzern",Spitalstrasse 31,,1400,,,,,1400
+2015,Teva Pharma AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,"Onkologie, Petersgraben 4,4031 Basel","Onkologie, Petersgraben 4,4031 Basel",,1500,,,,,1500
+2015,Teva Pharma AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,"Universitätsspital Bern, Universitätsklinik für Hämatologie und Hämatologisches Zentrallabor, Freibursstrasse 2, PKT2 D574, 3010 Bern","Universitätsspital Bern, Universitätsklinik für Hämatologie und Hämatologisches Zentrallabor, Freibursstrasse 2, PKT2 D574, 3010 Bern",,1500,,,,,1500
+2015,Teva Pharma AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,"Klinik und Poliklinik für Onkologie, Rämistrasse 100, 8091 Zürich","Klinik und Poliklinik für Onkologie, Rämistrasse 100, 8091 Zürich",,2500,,,,,2500
+2015,Teva Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacherstrasse 95, 9007 St. Gallen","Rorschacherstrasse 95, 9007 St. Gallen",,1000,,,,,1000
+2015,Teva Pharma AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,"Universität Zürich, Klinik für Neurologie, Frauenklinikstrasse 26, 8091 Zürich","Universität Zürich, Klinik für Neurologie, Frauenklinikstrasse 26, 8091 Zürich",,4000,,,,,4000
+2015,Teva Pharma AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,"Universitätsspital Basel, Neurologische Klinik und Poliklinik, Petersgraben 4,4031 Basel","Universitätsspital Basel, Neurologische Klinik und Poliklinik, Petersgraben 4,4031 Basel",,3000,,,,,3000
+2015,Teva Pharma AG,Universität Zürich,Universitätsspital Zürich,Zürich,CH,"Universität Zürich, Klinik für Neurologie, Frauenklinikstrasse 26, 8091 Zürich","Universität Zürich, Klinik für Neurologie, Frauenklinikstrasse 26, 8091 Zürich",,3000,,,,,3000
+2015,UCB-Pharma AG,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon 21,Rue du Bugnon 21,,0,2660,0,0,2739.85,5399.85
+2015,UCB-Pharma AG,Inselspital,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,0,17064,0,0,0,17064
+2015,UCB-Pharma AG,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstras se 95,Rorschacherstras se 95,,0,13619.99,0,0,0,13619.99
+2015,UCB-Pharma AG,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,Spitalstrasse 21,,0,3240,0,0,0,3240
+2015,UCB-Pharma AG,Universitätsspital Zürich,Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,Rämistrasse 100,,0,19023.2,0,0,0,19023.2
+2015,Vifor Pharma SA,CHUV,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue Du Bugnon21,Rue du Bugnon 21,,13992,,,,,13992
+2015,Vifor Pharma SA,Fondation GECOR,"Universitätsspital Genf
+(HCUGE)",Genève,CH,Rue Gabrielle Perret-Gentil4,Rue Gabrielle Perret-Gentil4,,2000,,,,,2000
+2015,Vifor Pharma SA,Kantonsspital St. Gallen,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,Rorschacherstrasse 95,,7344,,,2000,,9344
+2015,Vifor Pharma SA,Stiftung SONK,Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 150,Rorschacherstrasse 150,,3300,,,,,3300
+2015,Vifor Pharma SA,Universität Basel,Universitätsspital Basel,Liestal,CH,,,,,,,1500,,1500
+2015,Vifor Pharma SA,Universitätsspital Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,2000,,,,,2000
+2015,Zambon Schweiz AG,CHUV - Centre hospitlaier universitaire vaudois,Universitätsspital Lausanne (CHUV),Lausanne,CH,Rue du Bugnon 21,Rue du Bugnon 21,,4900,,,,,4900
+2015,Zambon Schweiz AG,Universität Basel,Universitätsspital Basel,Basel,CH,Petersgraben 4,Petersgraben 4,,850,,,,,850
+2015,Zambon Schweiz AG,Luzerner Kantonsspital,Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,Spitalstrasse 31,,,843,1658,1200,,3701
+2015,Zambon Schweiz AG,Insel-Stiftung,Universitätsspital Bern (Insel),Bern,CH,Freiburgstrasse 18,Freiburgstrasse 18,,,,,9300,,9300
+2015,Zambon Schweiz AG,UniversitätsSpital Zürich (6. Gynäkologie Update 2015),Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse 10,Frauenklinikstrasse 10,,2000,,,,,2000
