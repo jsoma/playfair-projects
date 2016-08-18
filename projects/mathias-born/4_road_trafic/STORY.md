@@ -1,6 +1,6 @@
 ---
-title: Let's hit the road
-summary: Is big still beautiful? Did the hybrids supersede the diesel cars? This project takes a look at all the cars allowed to drive on Swiss roads.
+title: "Let's hit the road"
+summary: "Is big still beautiful? Did the hybrids supersede the diesel cars? This project takes a look at all the cars allowed to drive on Swiss roads."
 ---
 
 Data sources: 
