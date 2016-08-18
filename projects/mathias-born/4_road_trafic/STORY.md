@@ -9,7 +9,7 @@ Data sources:
 
 There are some exports here: 
 
-![petrol_electro](https://cloud.githubusercontent.com/assets/3966222/17650853/52a9032c-6226-11e6-873e-71a0994dd219.png)
+![petrol_electro](petrol_electro_final.png)
 
-![smart_final](https://cloud.githubusercontent.com/assets/3966222/17715405/ebe5df5e-63d1-11e6-9bb0-0e9016fd6b02.png)
+![smart_final](smart_final.png)
 
