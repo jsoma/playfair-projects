@@ -1,0 +1,137 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:33
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-assistant:before { content: "\f100"; }
+.flaticon-astronaut:before { content: "\f101"; }
+.flaticon-builder:before { content: "\f102"; }
+.flaticon-builder-1:before { content: "\f103"; }
+.flaticon-businessman:before { content: "\f104"; }
+.flaticon-captain:before { content: "\f105"; }
+.flaticon-cashier:before { content: "\f106"; }
+.flaticon-concierge:before { content: "\f107"; }
+.flaticon-cooker:before { content: "\f108"; }
+.flaticon-courier:before { content: "\f109"; }
+.flaticon-croupier:before { content: "\f10a"; }
+.flaticon-croupier-1:before { content: "\f10b"; }
+.flaticon-detective:before { content: "\f10c"; }
+.flaticon-diver:before { content: "\f10d"; }
+.flaticon-dj:before { content: "\f10e"; }
+.flaticon-doctor:before { content: "\f10f"; }
+.flaticon-doctor-1:before { content: "\f110"; }
+.flaticon-engineer:before { content: "\f111"; }
+.flaticon-farmer:before { content: "\f112"; }
+.flaticon-firefighter:before { content: "\f113"; }
+.flaticon-firefighter-1:before { content: "\f114"; }
+.flaticon-gentleman:before { content: "\f115"; }
+.flaticon-journalist:before { content: "\f116"; }
+.flaticon-judge:before { content: "\f117"; }
+.flaticon-loader:before { content: "\f118"; }
+.flaticon-maid:before { content: "\f119"; }
+.flaticon-manager:before { content: "\f11a"; }
+.flaticon-miner:before { content: "\f11b"; }
+.flaticon-motorcyclist:before { content: "\f11c"; }
+.flaticon-nun:before { content: "\f11d"; }
+.flaticon-nurse:before { content: "\f11e"; }
+.flaticon-pilot:before { content: "\f11f"; }
+.flaticon-policeman:before { content: "\f120"; }
+.flaticon-postman:before { content: "\f121"; }
+.flaticon-priest:before { content: "\f122"; }
+.flaticon-scientist:before { content: "\f123"; }
+.flaticon-sheriff:before { content: "\f124"; }
+.flaticon-showman:before { content: "\f125"; }
+.flaticon-soldier:before { content: "\f126"; }
+.flaticon-soldier-1:before { content: "\f127"; }
+.flaticon-stewardess:before { content: "\f128"; }
+.flaticon-surgeon:before { content: "\f129"; }
+.flaticon-swat:before { content: "\f12a"; }
+.flaticon-taxi-driver:before { content: "\f12b"; }
+.flaticon-teacher:before { content: "\f12c"; }
+.flaticon-thief:before { content: "\f12d"; }
+.flaticon-waiter:before { content: "\f12e"; }
+.flaticon-welder:before { content: "\f12f"; }
+.flaticon-writer:before { content: "\f130"; }
+    
+    $font-Flaticon-assistant: "\f100";
+    $font-Flaticon-astronaut: "\f101";
+    $font-Flaticon-builder: "\f102";
+    $font-Flaticon-builder-1: "\f103";
+    $font-Flaticon-businessman: "\f104";
+    $font-Flaticon-captain: "\f105";
+    $font-Flaticon-cashier: "\f106";
+    $font-Flaticon-concierge: "\f107";
+    $font-Flaticon-cooker: "\f108";
+    $font-Flaticon-courier: "\f109";
+    $font-Flaticon-croupier: "\f10a";
+    $font-Flaticon-croupier-1: "\f10b";
+    $font-Flaticon-detective: "\f10c";
+    $font-Flaticon-diver: "\f10d";
+    $font-Flaticon-dj: "\f10e";
+    $font-Flaticon-doctor: "\f10f";
+    $font-Flaticon-doctor-1: "\f110";
+    $font-Flaticon-engineer: "\f111";
+    $font-Flaticon-farmer: "\f112";
+    $font-Flaticon-firefighter: "\f113";
+    $font-Flaticon-firefighter-1: "\f114";
+    $font-Flaticon-gentleman: "\f115";
+    $font-Flaticon-journalist: "\f116";
+    $font-Flaticon-judge: "\f117";
+    $font-Flaticon-loader: "\f118";
+    $font-Flaticon-maid: "\f119";
+    $font-Flaticon-manager: "\f11a";
+    $font-Flaticon-miner: "\f11b";
+    $font-Flaticon-motorcyclist: "\f11c";
+    $font-Flaticon-nun: "\f11d";
+    $font-Flaticon-nurse: "\f11e";
+    $font-Flaticon-pilot: "\f11f";
+    $font-Flaticon-policeman: "\f120";
+    $font-Flaticon-postman: "\f121";
+    $font-Flaticon-priest: "\f122";
+    $font-Flaticon-scientist: "\f123";
+    $font-Flaticon-sheriff: "\f124";
+    $font-Flaticon-showman: "\f125";
+    $font-Flaticon-soldier: "\f126";
+    $font-Flaticon-soldier-1: "\f127";
+    $font-Flaticon-stewardess: "\f128";
+    $font-Flaticon-surgeon: "\f129";
+    $font-Flaticon-swat: "\f12a";
+    $font-Flaticon-taxi-driver: "\f12b";
+    $font-Flaticon-teacher: "\f12c";
+    $font-Flaticon-thief: "\f12d";
+    $font-Flaticon-waiter: "\f12e";
+    $font-Flaticon-welder: "\f12f";
+    $font-Flaticon-writer: "\f130";
