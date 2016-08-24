@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <title>Hot Town -- Summer in New York City</title>
+  <script src="jquery-1.12.4.min.js"></script>
+
+  <style>
+  button.partiButton{
+      color: white;
+      background-color: darkred;
+      font-size: 14px;
+      font-weight: 400;
+      border-color: #2E6DA4;
+      padding: 6px 12px;
+      margin-bottom: 10px;
+      line-height: 1.42857;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      cursor: pointer;
+      -moz-user-select: none;
+      background-image: none;
+      border: 1px solid transparent;
+      border-radius: 4px;
+    }
+    div {
+      height:75vh;
+    }
+    b.catchword {
+      color: darkred;
+    }
+    h1 {
+      color: darkred;
+    }
+  </style>
+</head>
+
+<body>
+<h1>Hot Town – Summer in New York City</h1>
+<p>Summer is the most important <b class='catchword'>tourist season</b> in New York.
+  There might be advantages of a summer in the city. But the summer has its downsides too:
+  Sometimes it's getting <b class='catchword'>terrible hot</b>. The humidity is high. The noisy airconditioner
+  are running day and night -- and cooling down some rooms to <b class='catchword'>cold catching temperatures</b>.</p>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script>
+  $( document ).ready(function() {
+  $("div.partis").hide();
+  $("#hot").show();
+  });
+  function show(parti)
+  {
+  $('#'+parti).toggleClass('partis');
+  $("div.partis").hide();
+  $('#'+parti).show();
+  $('#'+parti).toggleClass('partis');
+  }
+  </script>
+  <button class="partiButton" onclick="show('hot');">Don't touch:<br />Avoid these hot spots</button>
+  <button class="partiButton" onclick="show('wet');">Stay dry:<br />Avoid these wet spots</button>
+  <button class="partiButton" onclick="show('noisy');">Calm down:<br />Avoid these noisy spots</button>
+
+  <div id="hot" class="partis">
+  <iframe width="100%" height="100%" frameborder="0" src="output/hottown.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+
+  <div id="wet" class="partis">
+  <iframe width="100%" height="100% " frameborder="0" src="output/wettown.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+  <div id="noisy" class="partis">
+  <iframe width="100%" height="100% " frameborder="0" src="output/noisytown.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+
+</body>
+</html>
