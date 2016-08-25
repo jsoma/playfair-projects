@@ -33,10 +33,16 @@
     h1 {
       color: darkred;
     }
+
+    img.symbol {
+      float:right;
+      height:200px;
+    }
   </style>
 </head>
 
 <body>
+<img class='symbol' src="img/crazytourist.jpg">
 <h1>Hot Town – Summer in New York City</h1>
 <p>Summer is the most important <b class='catchword'>tourist season</b> in New York.
   There might be advantages of a summer in the city. But the summer has its downsides too:
@@ -58,12 +64,14 @@
   }
   </script>
   <button class="partiButton" onclick="show('hot');">Don't touch:<br />Avoid these hot spots</button>
+  <button class="partiButton" onclick="show('cold');">Dress up:<br />Avoid these cold spots</button>
   <button class="partiButton" onclick="show('wet');">Stay dry:<br />Avoid these wet spots</button>
   <button class="partiButton" onclick="show('noisy');">Calm down:<br />Avoid these noisy spots</button>
 
   <div id="hot" class="partis">
   <iframe width="100%" height="100%" frameborder="0" src="output/hottown.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
-
+  <div id="cold" class="partis">
+  <iframe width="100%" height="100%" frameborder="0" src="output/coldtown.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
   <div id="wet" class="partis">
   <iframe width="100%" height="100% " frameborder="0" src="output/wettown.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
   <div id="noisy" class="partis">
