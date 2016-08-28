@@ -27,11 +27,11 @@ H2B data seems to be correct now.
 
 #Draft of Timeline & Barchart
 Timeline of hirings 2009 - 2015
-![](Unskilled_Workers_2009_2015.png)
+![](graphs/Unskilled_Workers_2009_2015.png)
 Top 10 companies hiring unskilled workers
-![](TOP10Companies.png)
+![](graphs/TOP10Companies.png)
 **Am am also thinking of making a map of the us with states colored by number
 of unskilled workers. Maybe even work out the type of unskilled work. In the
 south I am expecting more farming jobs. They will be in the majority. There might,
 however, be jobs in some states that aren't in farming.**
-![](UnskilledlaborerMapSketch.jpg)
+![](graphs/UnskilledlaborerMapSketch.jpg)

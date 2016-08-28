@@ -7,7 +7,7 @@ nearly 7 million foreign workers and laborers to work on farms, in care taking j
 on temporary visas"
 ---
 
-![Graph](TOPJOBS_MAP_v2.png)
+![Graph](graphs/TOPJOBS_MAP_v2.png)
 
 This map shows the percentage of newly filed temporary of total work force
 state by state and shows which state requires what type of seasonal, short and
