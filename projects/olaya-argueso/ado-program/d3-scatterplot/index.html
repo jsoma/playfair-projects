@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+/*  stroke: #000; */
+}
+
+.d3-tip {
+  line-height: 1;
+  font-family: Avenir Next Condensed;
+  font-size: 14px;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.8);
+  color: #000;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script>
+
+var margin = {top: 105, right: 20, bottom: 50, left: 100},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var yScale = d3.scale.linear()
+    .range([height, 0]);
+
+var domainHolder = [];
+for (var i = 0; i < 13; i++) {
+  domainHolder.push(i);
+}
+
+var xScale = d3.scale.ordinal()
+            .domain(domainHolder)
+            .rangePoints([0, width]);
+
+
+var xAxis = d3.svg.axis()
+    .scale(xScale)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(yScale)
+    .orient("left");
+
+var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) {
+      return d.Nombre + "<br>Años en el Programa ADO: <span style='color:white'> </span>" + d.Año + "<br>Medallas obtenidas: <span style='color:white'></span>" + d.Nacimiento + "</br>";
+    });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+svg.call(tip);
+
+d3.csv("scatterplot.csv", function(error, data) {
+  if (error) throw error;
+
+  data.forEach(function(d) {
+    d.Año = +d.Año;
+    d.Nacimiento = +d.Nacimiento;
+  });
+
+  yScale.domain(d3.extent(data, function(d) { return d.Nacimiento; })).nice();
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .style("font-family", "Avenir Next Condensed")
+      .style("font-size", "12px")
+      .call(xAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("x", 420)
+      .attr("y", 40)
+      .style("text-anchor", "middle")
+      .style("font-size", "16px")
+      .style("font-family", "Avenir Next Condensed")
+      .text("Años recibiendo beca");
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .style("font-family", "Avenir Next Condensed")
+      .style("font-size", "12px")
+      .call(yAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("transform", "rotate(-90)")
+      .attr("x", -180)
+      .attr("y", -50)
+      .attr("dy", ".71em")
+      .style("text-anchor", "middle")
+      .style("font-size", "16px")
+      .style("font-family", "Avenir Next Condensed")
+      .text("Medallas obtenidas")
+
+  svg.append("text")
+        .attr("x", 440)
+        .attr("y", -85)
+        .attr("text-anchor", "middle")
+        .style("font-size", "22px")
+        .style("font-family", "Avenir Next Condensed")
+        .style("font-weight","bold")
+        .text("Años en el Programa ADO y medallas obtenidas (2003-2016)");
+
+
+
+  svg.selectAll(".dot")
+      .data(data)
+    .enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", 5)
+      .attr("cx", function(d) {
+        return xScale(d.Año);
+      })
+      .attr("cy", function(d) {
+        return yScale(d.Nacimiento);
+      })
+      .style('fill', 'steelblue')
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+});
+
+</script>
