@@ -21,5 +21,6 @@
 - I finally managed putting the maps together using [iframe scaffolder](http://pirhoo.github.io/iframe-scaffolder/). And with a little help from Paul I finally got the own html and javascript code to run. 
 - I would love to generate maps directly from Pandas. I was trying to do this, but didn't suceed because I couldn't find all the necessary libraries.
 - I finally exported some PNGs of the maps. 
+- Addition August 23: What club rules in what area? I added a map comparing the number of cards for both clubs. 
 
 
