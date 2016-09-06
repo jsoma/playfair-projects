@@ -1,0 +1,151 @@
+,WORKSITE_STATE,NBR_WORKERS_CERTIFIED,State Full Name,Working Force,job,TEMP WORKERS PERCENTAGE
+0,CA,185570.0,California,19036611,"
+Computer Systems Analysts    152163.0
+",0.9748058622409209
+1,TX,102972.0,Texas,13104878,"
+Computer Systems Analysts    1214842.0
+",0.7857532134217502
+2,NY,89532.0,New York,9709479,"
+Designers, All Other    2032230.0
+",0.9221092089493165
+3,NJ,76416.0,New Jersey,4552979,"
+Computer Systems Analysts    81238.0
+",1.678373653820938
+4,NC,60513.0,North Carolina,4827901,"
+Farmworkers and Laborers, Crop, Nursery, and    54662.0
+",1.253401840675689
+5,PA,59740.0,Pennsylvania,6462242,"
+Administrative Services Managers    793227.0
+",0.9244469643817114
+6,IL,59255.0,Illinois,6520791,"
+Computer Systems Analysts    59833.0
+",0.9087087747483396
+7,WA,54037.0,Washington,3545995,"
+Computer Programmers    7016672.0
+",1.5238882175524782
+8,GA,52616.0,Georgia,4798766,"
+Computer Systems Analysts    42396.0
+",1.0964485453135244
+9,FL,47027.0,Florida,9756834,"
+Computer Systems Analysts    35782.0
+",0.48199036695715025
+10,MA,41461.0,Massachusetts,3560302,"
+Computer Systems Analysts    31665.0
+",1.1645360421672093
+11,VA,35556.0,Virginia,4282734,"
+Computer Systems Analysts    30634.0
+",0.830217333133461
+12,OH,30881.0,Ohio,5736717,"
+Computer Systems Analysts    41178.0
+",0.5383043995372266
+13,MI,29217.0,Michigan,4803409,"
+Computer Systems Analysts    26859.0
+",0.6082555118666764
+14,CT,21359.0,Connecticut,1895146,"
+Computer Software Engineers, Applications    55331.0
+",1.1270371781382544
+15,MN,20670.0,Minnesota,3019576,"
+Computer Systems Analysts    23170.0
+",0.684533192739643
+16,AZ,18523.0,Arizona,3148508,"
+Computer Systems Analysts    21042.0
+",0.5883103997194862
+17,MD,17439.0,Maryland,3155474,"
+Computer Systems Analysts    16207.0
+",0.5526586496989042
+18,CO,16693.0,Colorado,2824897,"
+Computer Systems Analysts    15354.0
+",0.5909242000681795
+19,TN,16442.0,Tennessee,3079575,"
+Computer Systems Analysts    18427.0
+",0.5339048407653654
+20,WI,15169.0,Wisconsin,3088630,"
+Computer Systems Analysts    25857.0
+",0.49112389635534204
+21,MO,13198.0,Missouri,3140540,"
+Computer Systems Analysts    14058.0
+",0.4202461996981411
+22,KY,13191.0,Kentucky,1967090,"
+Farmworkers and Laborers, Crop, Nursery, and    13172.0
+",0.6705844674112522
+23,IN,12422.0,Indiana,3286281,"
+Computer Systems Analysts    9970.0
+",0.3779956735288309
+24,LA,12299.0,Louisiana,2179116,"
+Farmworkers and Laborers, Crop, Nursery, and    8905.0
+",0.5644031800051029
+25,AR,9257.0,Arkansas,1336245,"
+Computer Systems Analysts    8987.0
+",0.6927621805881407
+26,OR,8674.0,Oregon,1955649,"
+Computer Systems Analysts    9364.0
+",0.4435356242352283
+27,SC,8599.0,South Carolina,2274821,"
+Farmworkers and Laborers, Crop, Nursery, and    6477.0
+",0.3780077641273753
+28,DE,7031.0,Delaware,464051,"
+Computer Systems Analysts    9567.0
+",1.5151351898821466
+29,IA,6344.0,Iowa,1699388,"
+Computer Systems Analysts    7724.0
+",0.37331086249873485
+30,MS,6053.0,Mississippi,1278144,"
+Forest and Conservation Workers    8081.0
+",0.4735773121025487
+31,UT,5972.0,Utah,1462672,"
+Computer Systems Analysts    5303.0
+",0.40829386219193364
+32,KS,5328.0,Kansas,1491922,"
+Computer Systems Analysts    6847.0
+",0.35712322762181936
+33,NV,4693.0,Nevada,1425995,"
+Farmworkers and Laborers, Crop, Nursery, and    3194.0
+",0.3291035382312
+34,RI,4255.0,Rhode Island,552912,"
+Computer Systems Analysts    5603.0
+",0.7695618832653297
+35,OK,4219.0,Oklahoma,1846721,"
+Landscaping and Groundskeeping Workers    4456.0
+",0.22845898216352117
+36,ID,3978.0,Idaho,797300,"
+Farmworkers and Laborers, Crop, Nursery, and    3392.0
+",0.4989339019189766
+37,NH,3773.0,New Hampshire,737911,"
+Computer Programmers    4714.0
+",0.5113082743040828
+38,NE,3733.0,Nebraska,1015079,"
+Computer Systems Analysts    5451.0
+",0.367754627964917
+39,AL,3338.0,Alabama,2157591,"
+Forest and Conservation Workers    2158.0
+",0.15470958119495307
+40,ME,3027.0,Maine,678525,"
+Maids and Housekeeping Cleaners    2124.0
+",0.4461147341660219
+41,ND,2964.0,North Dakota,416074,"
+Agricultural Equipment Operators    1690.0
+",0.7123732797531208
+42,SD,2533.0,South Dakota,453787,"
+Computer Systems Analysts    1564.0
+",0.5581913981669814
+43,AK,1707.0,Alaska,364910,"
+Cutters and Trimmers, Hand    959.0
+",0.46778657751226327
+44,NM,1556.0,New Mexico,916941,"
+Computer Systems Analysts    2370.0
+",0.169694669558892
+45,MT,1137.0,Montana,523271,"
+Software Developers, Applications    1252.0
+",0.21728702718094448
+46,VT,1103.0,Vermont,342838,"
+Computer Systems Analysts    1192.0
+",0.3217262963848815
+47,WV,963.0,West Virginia,790471,"
+Computer Systems Analysts    592.0
+",0.12182610114729066
+48,WY,674.0,Wyoming,305957,"
+Landscaping and Groundskeeping Workers    794.0
+",0.22029239402922632
+49,HI,639.0,Hawaii,675441,"
+Computer Programmers    542.0
+",0.09460485815933589
