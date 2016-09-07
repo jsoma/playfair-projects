@@ -1,5 +1,5 @@
 ---
-  title: "Totally NOT wasted: Thinking about garbage "
+  title: "Totally NOT wasted: Thinking about garbage"
   summary: "We often don't really think about what we throw away -- and how much of that. These three graphics help you get a glimpse at garbage."
 ---
 

@@ -1,0 +1,1078 @@
+{
+"name": "Southern Hemisphere", 
+"children":[
+	{
+	"name": "Centaurus", 
+	"children": [
+		{
+		"name": "1SWASP J1407", 
+		"children": [
+			{"name": "1SWASP J1407 b", "size": 10.94, "temp": 97.7}
+		]},
+		{
+		"name": "2M 1207-39", 
+		"children": [
+			{"name": "2M 1207-39 b", "size": 11.66, "temp": 3.3}
+		]},
+		{
+		"name": "alf Cen B", 
+		"children": [
+			{"name": "alf Cen B b", "size": 1.09, "temp": 1067.9}
+		]},
+		{
+		"name": "GJ 422", 
+		"children": [
+			{"name": "GJ 422 b", "size": 1.98, "temp": 231.3}
+		]},
+		{
+		"name": "HATS-17", 
+		"children": [
+			{"name": "HATS-17 b", "size": 8.7, "temp": 744.4}
+		]},
+		{
+		"name": "HD 101930", 
+		"children": [
+			{"name": "HD 101930 b", "size": 7.69, "temp": 385.4}
+		]},
+		{
+		"name": "HD 102117", 
+		"children": [
+			{"name": "HD 102117 b", "size": 6.48, "temp": 719.6}
+		]},
+		{
+		"name": "HD 102365", 
+		"children": [
+			{"name": "HD 102365 b", "size": 4.31, "temp": 355.1}
+		]},
+		{
+		"name": "HD 103197", 
+		"children": [
+			{"name": "HD 103197 b", "size": 5.39, "temp": 409.7}
+		]},
+		{
+		"name": "HD 106906", 
+		"children": [
+			{"name": "HD 106906 b", "size": 11.52, "temp": 15.0}
+		]},
+		{
+		"name": "HD 109749", 
+		"children": [
+			{"name": "HD 109749 b", "size": 11.09, "temp": 1161.8}
+		]},
+		{
+		"name": "HD 113538", 
+		"children": [
+			{"name": "HD 113538 b", "size": 8.1, "temp": 128.5},
+			{"name": "HD 113538 c", "size": 10.14, "temp": 91.5}
+		]},
+		{
+		"name": "HD 114386", 
+		"children": [
+			{"name": "HD 114386 b", "size": 10.64, "temp": 182.8},
+			{"name": "HD 114386 c", "size": 10.57, "temp": 136.8}
+		]},
+		{
+		"name": "HD 114613", 
+		"children": [
+			{"name": "HD 114613 b", "size": 8.75, "temp": 160.6}
+		]},
+		{
+		"name": "HD 114729", 
+		"children": [
+			{"name": "HD 114729 b", "size": 9.94, "temp": 207.8}
+		]},
+		{
+		"name": "HD 117207", 
+		"children": [
+			{"name": "HD 117207 b", "size": 11.29, "temp": 128.4}
+		]},
+		{
+		"name": "HD 117618", 
+		"children": [
+			{"name": "HD 117618 b", "size": 6.55, "temp": 664.2},
+			{"name": "HD 117618 c", "size": 6.8, "temp": 292.3}
+		]},
+		{
+		"name": "HD 121504", 
+		"children": [
+			{"name": "HD 121504 b", "size": 10.61, "temp": 502.8}
+		]},
+		{
+		"name": "HD 125595", 
+		"children": [
+			{"name": "HD 125595 b", "size": 4.06, "temp": 584.9}
+		]},
+		{
+		"name": "HIP 65891", 
+		"children": [
+			{"name": "HIP 65891 b", "size": 11.68, "temp": 392.6}
+		]},
+		{
+		"name": "HIP 67851", 
+		"children": [
+			{"name": "HIP 67851 b", "size": 10.8, "temp": 746.8},
+			{"name": "HIP 67851 c", "size": 11.68, "temp": 258.7}
+		]},
+		{
+		"name": "WASP-15", 
+		"children": [
+			{"name": "WASP-15 b", "size": 15.99, "temp": 1511.3}
+		]},
+		{
+		"name": "WASP-41", 
+		"children": [
+			{"name": "WASP-41 b", "size": 13.22, "temp": 1207.5},
+			{"name": "WASP-41 c", "size": 11.59, "temp": 232.2}
+		]},
+		{
+		"name": "WASP-42", 
+		"children": [
+			{"name": "WASP-42 b", "size": 12.1, "temp": 615.1}
+		]},
+		{
+		"name": "WASP-87A", 
+		"children": [
+			{"name": "WASP-87A b", "size": 15.51, "temp": 2113.5}
+		]},
+		{
+		"name": "WASP-108", 
+		"children": [
+			{"name": "WASP-108 b", "size": 13.61, "temp": 1463.6}
+		]},
+		{
+		"name": "WASP-129", 
+		"children": [
+			{"name": "WASP-129 b", "size": 10.42, "temp": 984.3}
+		]}
+		]},
+	{
+	"name": "Phoenix", 
+	"children": [
+		{
+		"name": "2M 0103-55(AB)", 
+		"children": [
+			{"name": "2M 0103-55(AB) b", "size": 11.4, "temp": 11.4}
+		]},
+		{
+		"name": "GJ 27.1", 
+		"children": [
+			{"name": "GJ 27.1 b", "size": 4.03, "temp": 354.6}
+		]},
+		{
+		"name": "HD 142", 
+		"children": [
+			{"name": "HD 142 b", "size": 10.65, "temp": 249.8},
+			{"name": "HD 142 c", "size": 11.68, "temp": 96.6}
+		]},
+		{
+		"name": "HD 564", 
+		"children": [
+			{"name": "HD 564 b", "size": 7.9, "temp": 238.6}
+		]},
+		{
+		"name": "HD 2039", 
+		"children": [
+			{"name": "HD 2039 b", "size": 11.68, "temp": 187.0}
+		]},
+		{
+		"name": "HD 6434", 
+		"children": [
+			{"name": "HD 6434 b", "size": 8.28, "temp": 518.2}
+		]},
+		{
+		"name": "HD 8535", 
+		"children": [
+			{"name": "HD 8535 b", "size": 9.51, "temp": 188.3}
+		]},
+		{
+		"name": "WASP-4", 
+		"children": [
+			{"name": "WASP-4 b", "size": 15.62, "temp": 1710.4}
+		]},
+		{
+		"name": "WASP-5", 
+		"children": [
+			{"name": "WASP-5 b", "size": 13.12, "temp": 1584.0}
+		]},
+		{
+		"name": "WASP-18", 
+		"children": [
+			{"name": "WASP-18 b", "size": 13.05, "temp": 2187.5}
+		]},
+		{
+		"name": "WASP-29", 
+		"children": [
+			{"name": "WASP-29 b", "size": 9.42, "temp": 910.6}
+		]},
+		{
+		"name": "WASP-96", 
+		"children": [
+			{"name": "WASP-96 b", "size": 13.44, "temp": 1176.0}
+		]}
+		]},
+	{
+	"name": "Octans", 
+	"children": [
+		{
+		"name": "2M J2126-81", 
+		"children": [
+			{"name": "2M J2126-81 b", "size": 11.38, "temp": 2.4}
+		]},
+		{
+		"name": "HD 142022 A", 
+		"children": [
+			{"name": "HD 142022 A b", "size": 10.36, "temp": 112.3}
+		]},
+		{
+		"name": "HD 196067", 
+		"children": [
+			{"name": "HD 196067 b", "size": 11.67, "temp": 177.2}
+		]},
+		{
+		"name": "HD 212301", 
+		"children": [
+			{"name": "HD 212301 b", "size": 11.98, "temp": 1541.3}
+		]}
+		]},
+	{
+	"name": "Eridanus", 
+	"children": [
+		{
+		"name": "51 Eri", 
+		"children": [
+			{"name": "51 Eri b", "size": 11.67, "temp": 104.7}
+		]},
+		{
+		"name": "eps Eridani", 
+		"children": [
+			{"name": "eps Eridani b", "size": 11.58, "temp": 111.8}
+		]},
+		{
+		"name": "GJ 86 A", 
+		"children": [
+			{"name": "GJ 86 A b", "size": 11.66, "temp": 657.6}
+		]},
+		{
+		"name": "GJ 160.2", 
+		"children": [
+			{"name": "GJ 160.2 b", "size": 3.72, "temp": 715.2}
+		]},
+		{
+		"name": "GJ 180", 
+		"children": [
+			{"name": "GJ 180 b", "size": 1.89, "temp": 267.9},
+			{"name": "GJ 180 c", "size": 1.77, "temp": 239.5}
+		]},
+		{
+		"name": "GJ 3293", 
+		"children": [
+			{"name": "GJ 3293 b", "size": 4.94, "temp": 259.2},
+			{"name": "GJ 3293 c", "size": 1.91, "temp": 222.7},
+			{"name": "GJ 3293 d", "size": 4.82, "temp": 161.3}
+		]},
+		{
+		"name": "HAT-P-5", 
+		"children": [
+			{"name": "HAT-P-5 b", "size": 14.02, "temp": 1387.4}
+		]},
+		{
+		"name": "HATS-5", 
+		"children": [
+			{"name": "HATS-5 b", "size": 10.21, "temp": 937.5}
+		]},
+		{
+		"name": "HD 10647", 
+		"children": [
+			{"name": "HD 10647 b", "size": 10.14, "temp": 195.9}
+		]},
+		{
+		"name": "HD 13808", 
+		"children": [
+			{"name": "HD 13808 b", "size": 3.73, "temp": 617.8},
+			{"name": "HD 13808 c", "size": 3.86, "temp": 391.9}
+		]},
+		{
+		"name": "HD 18742", 
+		"children": [
+			{"name": "HD 18742 b", "size": 11.5, "temp": 354.4}
+		]},
+		{
+		"name": "HD 19467", 
+		"children": [
+			{"name": "HD 19467 b", "size": 9.2, "temp": 37.6}
+		]},
+		{
+		"name": "HD 20794", 
+		"children": [
+			{"name": "HD 20794 b", "size": 1.4, "temp": 661.0},
+			{"name": "HD 20794 c", "size": 1.35, "temp": 508.9},
+			{"name": "HD 20794 d", "size": 1.64, "temp": 388.2}
+		]},
+		{
+		"name": "HD 28185", 
+		"children": [
+			{"name": "HD 28185 b", "size": 11.68, "temp": 241.6}
+		]},
+		{
+		"name": "HD 30562", 
+		"children": [
+			{"name": "HD 30562 b", "size": 10.7, "temp": 208.7}
+		]},
+		{
+		"name": "HD 30856", 
+		"children": [
+			{"name": "HD 30856 b", "size": 11.15, "temp": 317.2}
+		]},
+		{
+		"name": "HIP 8541", 
+		"children": [
+			{"name": "HIP 8541 b", "size": 11.68, "temp": 343.8}
+		]},
+		{
+		"name": "HIP 12961", 
+		"children": [
+			{"name": "HIP 12961 b", "size": 8.04, "temp": 393.0}
+		]},
+		{
+		"name": "WASP-22", 
+		"children": [
+			{"name": "WASP-22 b", "size": 13.43, "temp": 1297.5}
+		]},
+		{
+		"name": "WASP-35", 
+		"children": [
+			{"name": "WASP-35 b", "size": 14.78, "temp": 1317.5}
+		]},
+		{
+		"name": "WASP-50", 
+		"children": [
+			{"name": "WASP-50 b", "size": 12.75, "temp": 1289.9}
+		]},
+		{
+		"name": "WASP-78", 
+		"children": [
+			{"name": "WASP-78 b", "size": 19.6, "temp": 2006.7}
+		]},
+		{
+		"name": "WASP-79", 
+		"children": [
+			{"name": "WASP-79 b", "size": 19.04, "temp": 1605.2}
+		]},
+		{
+		"name": "WASP-97", 
+		"children": [
+			{"name": "WASP-97 b", "size": 12.66, "temp": 1408.8}
+		]},
+		{
+		"name": "WASP-98", 
+		"children": [
+			{"name": "WASP-98 b", "size": 12.32, "temp": 1074.2}
+		]},
+		{
+		"name": "WASP-99", 
+		"children": [
+			{"name": "WASP-99 b", "size": 12.32, "temp": 1350.1}
+		]},
+		{
+		"name": "WASP-117", 
+		"children": [
+			{"name": "WASP-117 b", "size": 11.44, "temp": 931.2}
+		]}
+		]},
+	{
+	"name": "Pictor", 
+	"children": [
+		{
+		"name": "AB Pic", 
+		"children": [
+			{"name": "AB Pic b", "size": 11.37, "temp": 12.8}
+		]},
+		{
+		"name": "beta Pic", 
+		"children": [
+			{"name": "beta Pic b", "size": 18.48, "temp": 123.0}
+		]},
+		{
+		"name": "HD 40307", 
+		"children": [
+			{"name": "HD 40307 b", "size": 1.54, "temp": 810.4},
+			{"name": "HD 40307 c", "size": 1.77, "temp": 621.2},
+			{"name": "HD 40307 d", "size": 1.92, "temp": 483.5},
+			{"name": "HD 40307 e", "size": 1.5, "temp": 407.1},
+			{"name": "HD 40307 f", "size": 1.52, "temp": 355.2},
+			{"name": "HD 40307 g", "size": 1.82, "temp": 227.4}
+		]},
+		{
+		"name": "HD 41004 A", 
+		"children": [
+			{"name": "HD 41004 A b", "size": 11.46, "temp": 174.8}
+		]},
+		{
+		"name": "HD 41004 B", 
+		"children": [
+			{"name": "HD 41004 B b", "size": 11.87, "temp": 916.1}
+		]},
+		{
+		"name": "Kapteyn", 
+		"children": [
+			{"name": "Kapteyn b", "size": 1.64, "temp": 205.1},
+			{"name": "Kapteyn c", "size": 1.81, "temp": 150.6}
+		]}
+		]},
+	{
+	"name": "Circinus", 
+	"children": [
+		{
+		"name": "beta Cir", 
+		"children": [
+			{"name": "beta Cir b", "size": 9.03, "temp": 6.1}
+		]},
+		{
+		"name": "HD 129445", 
+		"children": [
+			{"name": "HD 129445 b", "size": 11.0, "temp": 151.1}
+		]},
+		{
+		"name": "HD 134060", 
+		"children": [
+			{"name": "HD 134060 b", "size": 3.83, "temp": 1336.0},
+			{"name": "HD 134060 c", "size": 6.21, "temp": 182.8}
+		]}
+		]},
+	{
+	"name": "Chamaeleon", 
+	"children": [
+		{
+		"name": "CHXR 73", 
+		"children": [
+			{"name": "CHXR 73 b", "size": 11.46, "temp": 6.8}
+		]},
+		{
+		"name": "CT Cha", 
+		"children": [
+			{"name": "CT Cha b", "size": 24.64, "temp": 9.0}
+		]},
+		{
+		"name": "HD 63454", 
+		"children": [
+			{"name": "HD 63454 b", "size": 11.87, "temp": 926.7}
+		]}
+		]},
+	{
+	"name": "Vela", 
+	"children": [
+		{
+		"name": "DE0823-49", 
+		"children": [
+			{"name": "DE0823-49 b", "size": 10.21, "temp": 49.0}
+		]},
+		{
+		"name": "GJ 1132", 
+		"children": [
+			{"name": "GJ 1132 b", "size": 1.15, "temp": 528.6}
+		]},
+		{
+		"name": "HD 73526", 
+		"children": [
+			{"name": "HD 73526 b", "size": 11.37, "temp": 371.2},
+			{"name": "HD 73526 c", "size": 11.37, "temp": 295.0}
+		]},
+		{
+		"name": "HD 75289", 
+		"children": [
+			{"name": "HD 75289 b", "size": 11.54, "temp": 1406.6}
+		]},
+		{
+		"name": "HD 83443", 
+		"children": [
+			{"name": "HD 83443 b", "size": 11.65, "temp": 1218.5}
+		]},
+		{
+		"name": "HD 85390", 
+		"children": [
+			{"name": "HD 85390 b", "size": 5.95, "temp": 166.3},
+			{"name": "HD 85390 c", "size": 6.8, "temp": 100.8}
+		]},
+		{
+		"name": "HD 85512", 
+		"children": [
+			{"name": "HD 85512 b", "size": 1.5, "temp": 297.4}
+		]},
+		{
+		"name": "HD 93385", 
+		"children": [
+			{"name": "HD 93385 b", "size": 1.9, "temp": 851.8},
+			{"name": "HD 93385 c", "size": 3.71, "temp": 560.1}
+		]},
+		{
+		"name": "WASP-19", 
+		"children": [
+			{"name": "WASP-19 b", "size": 15.62, "temp": 1911.5}
+		]}
+		]},
+	{
+	"name": "Dorado", 
+	"children": [
+		{
+		"name": "GJ 163", 
+		"children": [
+			{"name": "GJ 163 b", "size": 3.77, "temp": 330.1},
+			{"name": "GJ 163 c", "size": 1.83, "temp": 229.5},
+			{"name": "GJ 163 d", "size": 4.81, "temp": 79.4}
+		]},
+		{
+		"name": "HD 28254", 
+		"children": [
+			{"name": "HD 28254 b", "size": 10.53, "temp": 196.8}
+		]},
+		{
+		"name": "HD 30177", 
+		"children": [
+			{"name": "HD 30177 b", "size": 11.55, "temp": 124.6}
+		]},
+		{
+		"name": "WASP-62", 
+		"children": [
+			{"name": "WASP-62 b", "size": 15.57, "temp": 1305.2}
+		]}
+		]},
+	{
+	"name": "Lepus", 
+	"children": [
+		{
+		"name": "GJ 229", 
+		"children": [
+			{"name": "GJ 229 b", "size": 5.44, "temp": 119.1}
+		]},
+		{
+		"name": "HATS-6", 
+		"children": [
+			{"name": "HATS-6 b", "size": 11.18, "temp": 651.3}
+		]},
+		{
+		"name": "HD 31527", 
+		"children": [
+			{"name": "HD 31527 b", "size": 3.87, "temp": 770.9},
+			{"name": "HD 31527 c", "size": 4.3, "temp": 528.8},
+			{"name": "HD 31527 d", "size": 4.36, "temp": 299.2}
+		]},
+		{
+		"name": "HD 33142", 
+		"children": [
+			{"name": "HD 33142 b", "size": 10.71, "temp": 442.1}
+		]},
+		{
+		"name": "HD 33283", 
+		"children": [
+			{"name": "HD 33283 b", "size": 11.09, "temp": 696.7}
+		]},
+		{
+		"name": "HD 33844", 
+		"children": [
+			{"name": "HD 33844 b", "size": 11.24, "temp": 352.0},
+			{"name": "HD 33844 c", "size": 11.11, "temp": 297.6}
+		]},
+		{
+		"name": "WASP-49", 
+		"children": [
+			{"name": "WASP-49 b", "size": 12.49, "temp": 1221.0}
+		]},
+		{
+		"name": "WASP-61", 
+		"children": [
+			{"name": "WASP-61 b", "size": 13.89, "temp": 1417.5}
+		]}
+		]},
+	{
+	"name": "Ara", 
+	"children": [
+		{
+		"name": "GJ 674", 
+		"children": [
+			{"name": "GJ 674 b", "size": 12.66, "temp": 520.7}
+		]},
+		{
+		"name": "GJ 676 A", 
+		"children": [
+			{"name": "GJ 676 A b", "size": 11.68, "temp": 104.9},
+			{"name": "GJ 676 A c", "size": 11.56, "temp": 62.0},
+			{"name": "GJ 676 A d", "size": 1.6, "temp": 696.0},
+			{"name": "GJ 676 A e", "size": 3.86, "temp": 326.4}
+		]},
+		{
+		"name": "HD 152079", 
+		"children": [
+			{"name": "HD 152079 b", "size": 11.56, "temp": 149.6}
+		]},
+		{
+		"name": "HD 154672", 
+		"children": [
+			{"name": "HD 154672 b", "size": 11.68, "temp": 357.1}
+		]},
+		{
+		"name": "HD 154857", 
+		"children": [
+			{"name": "HD 154857 b", "size": 11.36, "temp": 276.4},
+			{"name": "HD 154857 c", "size": 11.47, "temp": 137.5}
+		]},
+		{
+		"name": "HD 156411", 
+		"children": [
+			{"name": "HD 156411 b", "size": 9.69, "temp": 278.0}
+		]},
+		{
+		"name": "mu Ara", 
+		"children": [
+			{"name": "mu Ara b", "size": 11.06, "temp": 228.7},
+			{"name": "mu Ara c", "size": 3.76, "temp": 928.2},
+			{"name": "mu Ara d", "size": 8.94, "temp": 292.1},
+			{"name": "mu Ara e", "size": 11.15, "temp": 122.5}
+		]}
+		]},
+	{
+	"name": "Grus", 
+	"children": [
+		{
+		"name": "GJ 832", 
+		"children": [
+			{"name": "GJ 832 b", "size": 9.51, "temp": 54.2},
+			{"name": "GJ 832 c", "size": 1.69, "temp": 253.0}
+		]},
+		{
+		"name": "HD 208487", 
+		"children": [
+			{"name": "HD 208487 b", "size": 8.41, "temp": 391.5}
+		]},
+		{
+		"name": "HD 211847", 
+		"children": [
+			{"name": "HD 211847 b", "size": 10.99, "temp": 81.8}
+		]},
+		{
+		"name": "HD 213240", 
+		"children": [
+			{"name": "HD 213240 b", "size": 11.68, "temp": 223.5}
+		]},
+		{
+		"name": "HD 215456", 
+		"children": [
+			{"name": "HD 215456 b", "size": 5.45, "temp": 407.7},
+			{"name": "HD 215456 c", "size": 7.25, "temp": 178.5}
+		]},
+		{
+		"name": "HD 216435", 
+		"children": [
+			{"name": "HD 216435 b", "size": 10.66, "temp": 224.7}
+		]},
+		{
+		"name": "PSR J2241-5236", 
+		"children": [
+			{"name": "PSR J2241-5236 b", "size": 11.46, "temp": 4445.0}
+		]},
+		{
+		"name": "WASP-95", 
+		"children": [
+			{"name": "WASP-95 b", "size": 13.55, "temp": 1427.8}
+		]}
+		]},
+	{
+	"name": "Hydrus", 
+	"children": [
+		{
+		"name": "GJ 3021", 
+		"children": [
+			{"name": "GJ 3021 b", "size": 11.61, "temp": 325.3}
+		]},
+		{
+		"name": "HD 10180", 
+		"children": [
+			{"name": "HD 10180 c", "size": 4.04, "temp": 1128.3},
+			{"name": "HD 10180 d", "size": 3.89, "temp": 796.3},
+			{"name": "HD 10180 e", "size": 5.02, "temp": 549.9},
+			{"name": "HD 10180 f", "size": 4.94, "temp": 406.5},
+			{"name": "HD 10180 g", "size": 4.76, "temp": 239.0},
+			{"name": "HD 10180 h", "size": 6.83, "temp": 154.9}
+		]},
+		{
+		"name": "HD 11977", 
+		"children": [
+			{"name": "HD 11977 b", "size": 11.68, "temp": 569.3}
+		]},
+		{
+		"name": "HD 20003", 
+		"children": [
+			{"name": "HD 20003 b", "size": 3.92, "temp": 751.7},
+			{"name": "HD 20003 c", "size": 4.07, "temp": 534.5}
+		]},
+		{
+		"name": "WASP-126", 
+		"children": [
+			{"name": "WASP-126 b", "size": 10.75, "temp": 1357.3}
+		]}
+		]},
+	{
+	"name": "Triangulum", 
+	"children": [
+		{
+		"name": "HAT-P-38", 
+		"children": [
+			{"name": "HAT-P-38 b", "size": 9.24, "temp": 987.0}
+		]},
+		{
+		"name": "HD 9446", 
+		"children": [
+			{"name": "HD 9446 b", "size": 9.57, "temp": 586.1},
+			{"name": "HD 9446 c", "size": 11.16, "temp": 315.8}
+		]},
+		{
+		"name": "HD 13189", 
+		"children": [
+			{"name": "HD 13189 b", "size": 11.34, "temp": 442.7}
+		]}
+		]},
+	{
+	"name": "Tucana", 
+	"children": [
+		{
+		"name": "HD 4308", 
+		"children": [
+			{"name": "HD 4308 b", "size": 4.01, "temp": 685.9}
+		]},
+		{
+		"name": "HD 7199", 
+		"children": [
+			{"name": "HD 7199 b", "size": 7.61, "temp": 199.1}
+		]},
+		{
+		"name": "HD 215497", 
+		"children": [
+			{"name": "HD 215497 b", "size": 1.77, "temp": 984.3},
+			{"name": "HD 215497 c", "size": 7.9, "temp": 185.8}
+		]},
+		{
+		"name": "HD 219077", 
+		"children": [
+			{"name": "HD 219077 b", "size": 11.55, "temp": 124.9}
+		]},
+		{
+		"name": "HD 221287", 
+		"children": [
+			{"name": "HD 221287 b", "size": 11.58, "temp": 259.0}
+		]},
+		{
+		"name": "HD 224538", 
+		"children": [
+			{"name": "HD 224538 b", "size": 11.68, "temp": 203.2}
+		]}
+		]},
+	{
+	"name": "Reticulum", 
+	"children": [
+		{
+		"name": "HD 21693", 
+		"children": [
+			{"name": "HD 21693 b", "size": 3.72, "temp": 581.9},
+			{"name": "HD 21693 c", "size": 4.69, "temp": 436.2}
+		]},
+		{
+		"name": "HD 23079", 
+		"children": [
+			{"name": "HD 23079 b", "size": 11.44, "temp": 216.8}
+		]},
+		{
+		"name": "HD 23127", 
+		"children": [
+			{"name": "HD 23127 b", "size": 10.92, "temp": 205.3}
+		]},
+		{
+		"name": "HD 25171", 
+		"children": [
+			{"name": "HD 25171 b", "size": 10.17, "temp": 169.7}
+		]},
+		{
+		"name": "HD 27442", 
+		"children": [
+			{"name": "HD 27442 b", "size": 10.77, "temp": 499.4}
+		]},
+		{
+		"name": "HD 27894", 
+		"children": [
+			{"name": "HD 27894 b", "size": 9.31, "temp": 548.8}
+		]},
+		{
+		"name": "WASP-100", 
+		"children": [
+			{"name": "WASP-100 b", "size": 18.93, "temp": 2012.7}
+		]},
+		{
+		"name": "WASP-119", 
+		"children": [
+			{"name": "WASP-119 b", "size": 15.68, "temp": 1432.1}
+		]}
+		]},
+	{
+	"name": "Mensa", 
+	"children": [
+		{
+		"name": "HD 38283", 
+		"children": [
+			{"name": "HD 38283 b", "size": 7.97, "temp": 309.9}
+		]},
+		{
+		"name": "HD 39091", 
+		"children": [
+			{"name": "HD 39091 b", "size": 11.55, "temp": 202.4}
+		]},
+		{
+		"name": "HD 39194", 
+		"children": [
+			{"name": "HD 39194 b", "size": 1.53, "temp": 881.3},
+			{"name": "HD 39194 c", "size": 1.74, "temp": 651.2},
+			{"name": "HD 39194 d", "size": 1.67, "temp": 484.1}
+		]}
+		]},
+	{
+	"name": "Carina", 
+	"children": [
+		{
+		"name": "HD 51608", 
+		"children": [
+			{"name": "HD 51608 b", "size": 4.04, "temp": 701.2},
+			{"name": "HD 51608 c", "size": 4.49, "temp": 367.1}
+		]},
+		{
+		"name": "HD 63765", 
+		"children": [
+			{"name": "HD 63765 b", "size": 9.38, "temp": 222.6}
+		]},
+		{
+		"name": "HD 65216", 
+		"children": [
+			{"name": "HD 65216 b", "size": 10.66, "temp": 199.1},
+			{"name": "HD 65216 c", "size": 6.46, "temp": 312.3}
+		]},
+		{
+		"name": "HD 95086", 
+		"children": [
+			{"name": "HD 95086 b", "size": 11.68, "temp": 55.2}
+		]},
+		{
+		"name": "HR 3549", 
+		"children": [
+			{"name": "HR 3549 b", "size": 9.39, "temp": 67.1}
+		]},
+		{
+		"name": "KELT-15", 
+		"children": [
+			{"name": "KELT-15 b", "size": 16.16, "temp": 1499.8}
+		]},
+		{
+		"name": "OGLE-TR-111", 
+		"children": [
+			{"name": "OGLE-TR-111 b", "size": 12.06, "temp": 940.0}
+		]},
+		{
+		"name": "OGLE-TR-113", 
+		"children": [
+			{"name": "OGLE-TR-113 b", "size": 12.43, "temp": 1211.0}
+		]},
+		{
+		"name": "OGLE-TR-132", 
+		"children": [
+			{"name": "OGLE-TR-132 b", "size": 13.78, "temp": 1812.0}
+		]},
+		{
+		"name": "OGLE-TR-182", 
+		"children": [
+			{"name": "OGLE-TR-182 b", "size": 16.46, "temp": 1235.0}
+		]},
+		{
+		"name": "OGLE-TR-211", 
+		"children": [
+			{"name": "OGLE-TR-211 b", "size": 14.11, "temp": 1581.5}
+		]},
+		{
+		"name": "OGLE2-TR-L9", 
+		"children": [
+			{"name": "OGLE2-TR-L9 b", "size": 18.08, "temp": 2154.6}
+		]},
+		{
+		"name": "OY Carina", 
+		"children": [
+			{"name": "OY Carina b", "size": 11.63, "temp": nan}
+		]}
+		]},
+	{
+	"name": "Volans", 
+	"children": [
+		{
+		"name": "HD 68402", 
+		"children": [
+			{"name": "HD 68402 b", "size": 11.57, "temp": 179.4}
+		]},
+		{
+		"name": "HD 76700", 
+		"children": [
+			{"name": "HD 76700 b", "size": 11.09, "temp": 1315.1}
+		]},
+		{
+		"name": "WD 0806-661 B", 
+		"children": [
+			{"name": "WD 0806-661 B b", "size": 11.65, "temp": 3.2}
+		]}
+		]},
+	{
+	"name": "Crux", 
+	"children": [
+		{
+		"name": "HD 108147", 
+		"children": [
+			{"name": "HD 108147 b", "size": 7.38, "temp": 907.7}
+		]},
+		{
+		"name": "NGC 4349 No 127", 
+		"children": [
+			{"name": "NGC 4349 No 127 b", "size": 10.95, "temp": 599.9}
+		]}
+		]},
+	{
+	"name": "Musca", 
+	"children": [
+		{
+		"name": "HD 108341", 
+		"children": [
+			{"name": "HD 108341 b", "size": 11.62, "temp": 133.8}
+		]},
+		{
+		"name": "HD 111232", 
+		"children": [
+			{"name": "HD 111232 b", "size": 11.68, "temp": 163.3}
+		]},
+		{
+		"name": "HIP 63242", 
+		"children": [
+			{"name": "HIP 63242 b", "size": 11.61, "temp": 781.3}
+		]},
+		{
+		"name": "POTS-1", 
+		"children": [
+			{"name": "POTS-1 b", "size": 10.54, "temp": 916.3}
+		]}
+		]},
+	{
+	"name": "Apus", 
+	"children": [
+		{
+		"name": "HD 134606", 
+		"children": [
+			{"name": "HD 134606 b", "size": 1.95, "temp": 817.0},
+			{"name": "HD 134606 c", "size": 3.94, "temp": 478.2},
+			{"name": "HD 134606 d", "size": 5.78, "temp": 239.9}
+		]},
+		{
+		"name": "HD 137388", 
+		"children": [
+			{"name": "HD 137388 b", "size": 7.03, "temp": 219.9}
+		]}
+		]},
+	{
+	"name": "Norma", 
+	"children": [
+		{
+		"name": "HD 142415", 
+		"children": [
+			{"name": "HD 142415 b", "size": 11.02, "temp": 250.5}
+		]},
+		{
+		"name": "HD 143361", 
+		"children": [
+			{"name": "HD 143361 b", "size": 11.58, "temp": 161.0}
+		]},
+		{
+		"name": "HD 148156", 
+		"children": [
+			{"name": "HD 148156 b", "size": 9.96, "temp": 191.9}
+		]},
+		{
+		"name": "HD 330075", 
+		"children": [
+			{"name": "HD 330075 b", "size": 11.87, "temp": 1023.2}
+		]}
+		]},
+	{
+	"name": "Triangulum Australe", 
+	"children": [
+		{
+		"name": "HD 147018", 
+		"children": [
+			{"name": "HD 147018 b", "size": 11.32, "temp": 481.2},
+			{"name": "HD 147018 c", "size": 11.68, "temp": 171.9}
+		]}
+		]},
+	{
+	"name": "Pavo", 
+	"children": [
+		{
+		"name": "HD 175167", 
+		"children": [
+			{"name": "HD 175167 b", "size": 11.65, "temp": 154.0}
+		]},
+		{
+		"name": "HD 175607", 
+		"children": [
+			{"name": "HD 175607 b", "size": 1.93, "temp": 493.1}
+		]},
+		{
+		"name": "HD 181433", 
+		"children": [
+			{"name": "HD 181433 b", "size": 1.85, "temp": 660.5},
+			{"name": "HD 181433 c", "size": 9.38, "temp": 141.6},
+			{"name": "HD 181433 d", "size": 9.01, "temp": 107.3}
+		]},
+		{
+		"name": "HD 189567", 
+		"children": [
+			{"name": "HD 189567 b", "size": 3.7, "temp": 769.4}
+		]},
+		{
+		"name": "HD 190984", 
+		"children": [
+			{"name": "HD 190984 b", "size": 11.58, "temp": 136.2}
+		]},
+		{
+		"name": "HD 196050", 
+		"children": [
+			{"name": "HD 196050 b", "size": 11.53, "temp": 186.7}
+		]}
+		]},
+	{
+	"name": "Indus", 
+	"children": [
+		{
+		"name": "HD 216437", 
+		"children": [
+			{"name": "HD 216437 b", "size": 11.16, "temp": 170.2}
+		]},
+		{
+		"name": "HIP 107773", 
+		"children": [
+			{"name": "HIP 107773 b", "size": 11.25, "temp": 874.7}
+		]},
+		{
+		"name": "WASP-46", 
+		"children": [
+			{"name": "WASP-46 b", "size": 14.67, "temp": 1516.6}
+		]},
+		{
+		"name": "WASP-73", 
+		"children": [
+			{"name": "WASP-73 b", "size": 12.99, "temp": 1629.4}
+		]},
+		{
+		"name": "WASP-88", 
+		"children": [
+			{"name": "WASP-88 b", "size": 19.04, "temp": 1612.6}
+		]}
+		]}
+	]
+}
