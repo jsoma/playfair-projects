@@ -1,2 +1,0 @@
-
-![Data visualization](GENDERdistributionOfIntheritanceVSELF.png)
