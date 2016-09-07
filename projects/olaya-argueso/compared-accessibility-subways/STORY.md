@@ -1,8 +1,3 @@
----
-  title: "Is your city's subway network accessible?"
-  summary: "NYC and Paris have very few accessible stations (around 20% of the total number), while Madrid stands out with 67% wheelchair-friendly stations"
-  author: "Olaya Argueso"
----
 
 After analysing data from Madrid, Paris and NYC's subway networks, this graph shows the degree of accessibility of the subway networks of these three cities.
 

@@ -1,5 +1,1 @@
----
-title: Educational barriers of rural youth in China
-summary: Graphics about college students ratio from urban areas and rural areas inn China.And partial reasons contributed to the situation, such as the dropout rates and tuition in proportion with household income per captial
----
 ![Data visualization](dropout-rates2.png)

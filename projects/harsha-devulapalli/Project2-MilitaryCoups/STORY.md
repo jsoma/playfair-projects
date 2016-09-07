@@ -1,7 +1,3 @@
----
-title: "Military Coups and GDP"
-summary: "Are military coups related to changes in GDP?"
----
 
 ![](gdp.png)
 

@@ -1,8 +1,3 @@
----
-  title: "How accessible is Madrid's subway network?"
-  summary: "Two thirds of the stations are adapted for people with disabilities. However, 12% are still only accessible through stairs. Most of those stations are located in the central area of Madrid, and they belong to the oldest lines. There are construction works planned (summer 2016), but they do not include revamping the stations."
-  author: "Olaya Argueso"
----
 
 Inspired by own experience as a passenger, and by [Matthew Ahn's map of accessible subway stations in NYC](https://www.dnainfo.com/new-york/20150608/bushwick/map-subway-map-showing-only-wheelchair-accessible-stations), I decided to check if - as I suspected - Madrid's subway network was more friendly for people with disabilities.
 

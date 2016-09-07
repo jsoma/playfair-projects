@@ -1,4 +1,3 @@
-require 'front_matter_parser'
 require 'kramdown'
 require 'nokogiri'
 require 'yaml'
@@ -49,7 +48,7 @@ RSpec.describe do
 
         context "project #{File.basename(project_dir)}" do
 
-          included = %w(STORY.md DIARY.md README.md)
+          included = %w(STORY.md DIARY.md README.md STORY.yml)
           included.each do |required_file|
             it "should include a #{required_file}" do
               filenames = filenames_from(project_dir)
@@ -62,35 +61,34 @@ RSpec.describe do
               expect(filenames.length).to be > 0
           end
 
+          context "STORY.yml" do
+            story_yml = File.join(project_dir, "STORY.yml")
+
+            it "should be correctly formatted" do
+              parsed = YAML.load_file(story_yml)
+              expect(parsed).not_to be_empty
+            end
+
+            it "should contain a title" do
+              parsed = YAML.load_file(story_yml)
+              expect(parsed['title']).not_to be_empty
+            end
+
+            it "should contain a summary" do
+              parsed = YAML.load_file(story_yml)
+              expect(parsed['summary']).not_to be_empty
+            end
+          end
+
           context "STORY.md" do
             story_md = File.join(project_dir, "STORY.md")
-
-            context "front matter" do
-              it "should be correctly formatted" do
-                content = File.read(story_md).gsub("\r\n","\n")
-                parsed = FrontMatterParser.parse(content)
-                expect(parsed.front_matter).not_to be_empty
-              end
-
-              it "should contain a title" do
-                content = File.read(story_md).gsub("\r\n","\n")
-                parsed = FrontMatterParser.parse(content)
-                expect(parsed.front_matter['title']).not_to be_empty
-              end
-
-              it "should contain a summary" do
-                content = File.read(story_md).gsub("\r\n","\n")
-                parsed = FrontMatterParser.parse(content)
-                expect(parsed.front_matter['title']).not_to be_empty
-              end
-            end
 
             context "markdown" do
 
               context "image" do
                 it "should be included in the markdown" do
-                  parsed = FrontMatterParser.parse_file(story_md)
-                  html = Kramdown::Document.new(parsed.content).to_html
+                  content = File.read(story_md)
+                  html = Kramdown::Document.new(content).to_html
                   html_doc = Nokogiri::HTML(html)
                   image = html_doc.css("img").first
 
@@ -98,8 +96,8 @@ RSpec.describe do
                 end
 
                 it "should actually exist in the directory" do
-                  parsed = FrontMatterParser.parse_file(story_md)
-                  html = Kramdown::Document.new(parsed.content).to_html
+                  content = File.read(story_md)
+                  html = Kramdown::Document.new(content).to_html
                   html_doc = Nokogiri::HTML(html)
                   image = html_doc.css("img").first
 

@@ -36,10 +36,13 @@ After the pull request has been submitted, you'll be able to use the checkboxes 
     - [ ] My visualization has my name/web site/twitter handle on it (only needs **one**)
     - [ ] I have exported my visualization as a `png` file
 
+    ### STORY.yml
+    - [ ] I have included a `STORY.md`
+    - [ ] I have included a title and a summary
+
     ### STORY.md
 
     - [ ] I have included a `STORY.md`
-    - [ ] I have included a front matter section with the a title and summary
     - [ ] I have properly linked my image, with a format like `![](image.png)`
     - [ ] If necessary, I have written text and such
 
@@ -50,7 +53,6 @@ After the pull request has been submitted, you'll be able to use the checkboxes 
     - [ ] Any IPython/Jupyter Notebook files
     - [ ] Any PDF files you exported along the way
     - [ ] Any images or other files from your process
-
 
 ### Automated Testing
 

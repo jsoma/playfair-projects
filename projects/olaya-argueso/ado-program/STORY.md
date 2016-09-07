@@ -1,8 +1,3 @@
----
-  title: "The success of the ADO Program are women"
-  summary: "The analysis of the data for the state-backed program that sponsors athletes in Spain shows how women are honoring much better than men the money they receive: they have won two in three medals in international championships and Olympic Games since 2003"
-  author: "Olaya Argueso"
----
 
 This poster contains several charts that reveal some interesting points:
 

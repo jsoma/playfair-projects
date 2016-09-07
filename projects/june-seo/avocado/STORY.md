@@ -1,9 +1,3 @@
----
-title: "Where to find the most mouthwatering avocado toast in NYC"
-summary: "Where do I find them?"
-authors:
-  - June Seo
----
 
 ![](IMAGE.png)
 [Click here for the map!](https://columbialibraries.carto.com/u/juneseo/viz/15e46f14-501d-11e6-9203-0ef24382571b/public_map)

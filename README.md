@@ -36,7 +36,8 @@ You must submit and complete a checklist as the first step to pitching/story sub
 
 You can read detailed instructions in [SUBMISSION.md](SUBMISSION.md). After you fork the repository, create your directories and complete your story, be sure to include the following in your pull request.
 
-* a [correctly-formatted](SUBMISSION.md#storymd-format) `STORY.md` file
+* `STORY.yml`, which includes your title and summary
+* `STORY.md`, your actual content (or links to it)
 * `README.md`, summary of how you did your project
 * `DIARY.md`, a disorganized mess keeping track of your process
 * any images or code you used in the process of writing your story/building your visual

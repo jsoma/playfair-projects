@@ -1,9 +1,3 @@
----
-title: "Bearable L Train Pain"
-summary: "Rental market in Williamsburg didn't react that mush after MTA's L train shut-down announcement."
-authors:
-  - June Seo
----
 
 This January, MTA announced that L train will be closed for 18 months starting from 2019. Many housing experts anticipated it would dramatically decrease rents in Williamsburg. In this neighborhood, 75% of the population rent out their apartment and commuters to Manhattan rely heavily on L train.
 

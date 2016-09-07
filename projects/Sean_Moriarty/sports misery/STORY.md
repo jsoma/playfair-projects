@@ -1,6 +1,0 @@
----
-title: A Tale of Two Teams
-summary: Totally conclusive proof that the Yankees have the most spoiled fans of any MLB team, while the Phillies are bad and you should feel bad (if you are a Phillies fan)
----
-
-![the chart](MLB_two_teams.png)
