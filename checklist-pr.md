@@ -37,7 +37,7 @@ After the pull request has been submitted, you'll be able to use the checkboxes 
     - [ ] I have exported my visualization as a `png` file
 
     ### STORY.yml
-    - [ ] I have included a `STORY.md`
+    - [ ] I have included a `STORY.yml`
     - [ ] I have included a title and a summary
 
     ### STORY.md
