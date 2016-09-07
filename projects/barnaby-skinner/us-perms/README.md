@@ -1,9 +1,3 @@
----
-title: Exploring the PERM data set
-summary: Have the chances of various nations to get PERM work permits in the United states
-changed?
----
-
 ## Data Source:
 [PERM data 2009 - 2016](https://www.foreignlaborcert.doleta.gov/docs/Performance_Data/Disclosure)
 [Natural Earth Data](http://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/)

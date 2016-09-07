@@ -1,9 +1,3 @@
----
-title: NY Prison Population: Part II
-summary: Week 4 assignments for Data Studio.
-author: Shannon Najmabadi
----
-
 Images:
 
 ![Week 4-1](Week 4-1.png)
