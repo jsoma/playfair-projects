@@ -1,8 +1,3 @@
----
-title: Singles of Switzerland, According to Census
-summary: TBD
-
----
 
 TBD
 

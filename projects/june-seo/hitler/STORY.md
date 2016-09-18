@@ -1,9 +1,3 @@
----
-title: "Hitler's Magic Words: Before and After Hitler became the Führer"
-summary: "Hitler was known for his ability to control people's emotions with his oratory. I tried to look at most frequently used words and changes in his selection of words as he becomes the führer of the Nazi Germany. Two most frequently used words for both era are 'People' and 'Germany'. Before he became the führer, he used the word 'Jew' quite a bit, but interestingly, he barely talked about 'Jew' after he takes over complete power. Instead, the use of the word 'War' increased dramatically."
-authors:
-  - June Seo
----
 
 ![](IMAGE2.png)
 
